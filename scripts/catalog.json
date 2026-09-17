@@ -1,0 +1,4544 @@
+{
+  "basic_a": {
+    "label": "Basic A",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "Numbers 1 to 10",
+        "items": [
+          {
+            "ko": "일",
+            "en": "one",
+            "alts": []
+          },
+          {
+            "ko": "이",
+            "en": "two",
+            "alts": []
+          },
+          {
+            "ko": "삼",
+            "en": "three",
+            "alts": []
+          },
+          {
+            "ko": "사",
+            "en": "four",
+            "alts": []
+          },
+          {
+            "ko": "오",
+            "en": "five",
+            "alts": []
+          },
+          {
+            "ko": "육",
+            "en": "six",
+            "alts": []
+          },
+          {
+            "ko": "칠",
+            "en": "seven",
+            "alts": []
+          },
+          {
+            "ko": "팔",
+            "en": "eight",
+            "alts": []
+          },
+          {
+            "ko": "구",
+            "en": "nine",
+            "alts": []
+          },
+          {
+            "ko": "십",
+            "en": "ten",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "Hello",
+        "items": [
+          {
+            "ko": "안녕하세요, Mr.고양이",
+            "en": "Hello, Mr. Cat",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Mr.개",
+            "en": "Hello, Mr. Dog",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Mr.소",
+            "en": "Hello, Mr. Cow",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Mr.말",
+            "en": "Hello, Mr. Horse",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Ms.닭",
+            "en": "Hello, Ms. Chicken",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Ms.염소",
+            "en": "Hello, Ms. Goat",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Ms.돼지",
+            "en": "Hello, Ms. Pig",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Mrs.양",
+            "en": "Hello, Mrs. Sheep",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Mrs.오리",
+            "en": "Hello, Mrs. Duck",
+            "alts": []
+          },
+          {
+            "ko": "안녕하세요, Mrs.거미",
+            "en": "Hello, Mrs. Spider",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "Computer Orders",
+        "items": [
+          {
+            "ko": "헤드셋을 뽑아라",
+            "en": "Unplug your headset",
+            "alts": []
+          },
+          {
+            "ko": "스크롤을 내려라",
+            "en": "Scroll down",
+            "alts": []
+          },
+          {
+            "ko": "네 ID를 쳐라",
+            "en": "Type your ID",
+            "alts": []
+          },
+          {
+            "ko": "새 탭을 만들어라",
+            "en": "Make a new tab",
+            "alts": []
+          },
+          {
+            "ko": "왼쪽 클릭",
+            "en": "Left click",
+            "alts": []
+          },
+          {
+            "ko": "오른쪽 클릭",
+            "en": "Right click",
+            "alts": []
+          },
+          {
+            "ko": "연속 클릭",
+            "en": "Double click",
+            "alts": []
+          },
+          {
+            "ko": "X를 클릭하지마라",
+            "en": "Don't click on X",
+            "alts": []
+          },
+          {
+            "ko": "네 컴퓨터를 다시 켜라",
+            "en": "Restart your computer",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "Classroom English One",
+        "items": [
+          {
+            "ko": "안녕하세요(오후 인사)",
+            "en": "Good afternoon",
+            "alts": []
+          },
+          {
+            "ko": "내일 봐요",
+            "en": "See you tomorrow",
+            "alts": []
+          },
+          {
+            "ko": "미안해요",
+            "en": "Sorry",
+            "alts": []
+          },
+          {
+            "ko": "뭐라고요?",
+            "en": "Pardon?",
+            "alts": []
+          },
+          {
+            "ko": "도와주세요",
+            "en": "Help me please",
+            "alts": []
+          },
+          {
+            "ko": "조용히해!",
+            "en": "Quiet!",
+            "alts": []
+          },
+          {
+            "ko": "기다려!",
+            "en": "Wait!",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "Family",
+        "items": [
+          {
+            "ko": "이 분은 제 엄마입니다",
+            "en": "This is my mom",
+            "alts": []
+          },
+          {
+            "ko": "이 분은 제 아빠입니다",
+            "en": "This is my dad",
+            "alts": []
+          },
+          {
+            "ko": "이 사람은 제 누나(여동생)입니다",
+            "en": "This is my sister",
+            "alts": []
+          },
+          {
+            "ko": "이 사람은 제 형(남동생)입니다",
+            "en": "This is my brother",
+            "alts": []
+          },
+          {
+            "ko": "이 분은 제 삼촌입니다",
+            "en": "This is my uncle",
+            "alts": []
+          },
+          {
+            "ko": "이 분은 제 숙모입니다",
+            "en": "This is my aunt",
+            "alts": []
+          },
+          {
+            "ko": "이 분은 제 할머니입니다",
+            "en": "This is my grandmother",
+            "alts": []
+          },
+          {
+            "ko": "이 사람은 제 사촌입니다",
+            "en": "This is my cousin",
+            "alts": []
+          },
+          {
+            "ko": "이 사람은 제 조카입니다",
+            "en": "This is my nephew",
+            "alts": []
+          },
+          {
+            "ko": "이 사람은 제 손자입니다",
+            "en": "This is my grandson",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "What is this?",
+        "items": [
+          {
+            "ko": "책상입니다",
+            "en": "It is a desk",
+            "alts": []
+          },
+          {
+            "ko": "짐 볼입니다",
+            "en": "It is a gym ball",
+            "alts": []
+          },
+          {
+            "ko": "마우스입니다",
+            "en": "It is a mouse",
+            "alts": []
+          },
+          {
+            "ko": "키보드입니다",
+            "en": "It is a keyboard",
+            "alts": []
+          },
+          {
+            "ko": "모니터입니다",
+            "en": "It is a monitor",
+            "alts": []
+          },
+          {
+            "ko": "헤드셋입니다",
+            "en": "It is a headset",
+            "alts": []
+          },
+          {
+            "ko": "큐브입니다",
+            "en": "It is a cube",
+            "alts": []
+          },
+          {
+            "ko": "클립보드입니다",
+            "en": "It is a clipboard",
+            "alts": []
+          },
+          {
+            "ko": "펜입니다",
+            "en": "It is a pen",
+            "alts": []
+          },
+          {
+            "ko": "책입니다",
+            "en": "It is a book",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "I can",
+        "items": [
+          {
+            "ko": "나는 춤을 출 수 있다",
+            "en": "I can dance",
+            "alts": []
+          },
+          {
+            "ko": "나는 빠르게 달릴 수 있다",
+            "en": "I can run fast",
+            "alts": []
+          },
+          {
+            "ko": "나는 노래를 할 수 있다",
+            "en": "I can sing",
+            "alts": []
+          },
+          {
+            "ko": "나는 태권도를 할 수 있다",
+            "en": "I can do taekwondo",
+            "alts": []
+          },
+          {
+            "ko": "나는 피아노를 칠 수 있다",
+            "en": "I can play the piano",
+            "alts": []
+          },
+          {
+            "ko": "나는 그릴 수 있다",
+            "en": "I can draw",
+            "alts": []
+          },
+          {
+            "ko": "나는 중국어를 할 수 있다",
+            "en": "I can speak Chinese",
+            "alts": []
+          },
+          {
+            "ko": "나는 마술을 할 수 있다",
+            "en": "I can do magic",
+            "alts": []
+          },
+          {
+            "ko": "나는 공부를 할 수 있다",
+            "en": "I can study",
+            "alts": []
+          },
+          {
+            "ko": "나는 먹을 수 있다",
+            "en": "I can eat",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "Numbers 11–100",
+        "items": [
+          {
+            "ko": "100",
+            "en": "one hundred",
+            "alts": [
+              "a hundred",
+              "hundred",
+              "100"
+            ]
+          },
+          {
+            "ko": "99",
+            "en": "ninety-nine",
+            "alts": [
+              "99",
+              "ninety nine"
+            ]
+          },
+          {
+            "ko": "97",
+            "en": "ninety-seven",
+            "alts": [
+              "97",
+              "ninety seven"
+            ]
+          },
+          {
+            "ko": "55",
+            "en": "fifty-five",
+            "alts": [
+              "55",
+              "fifty five"
+            ]
+          },
+          {
+            "ko": "33",
+            "en": "thirty-three",
+            "alts": [
+              "33",
+              "thirty three"
+            ]
+          },
+          {
+            "ko": "22",
+            "en": "twenty-two",
+            "alts": [
+              "22",
+              "twenty two"
+            ]
+          },
+          {
+            "ko": "15",
+            "en": "fifteen",
+            "alts": [
+              "15"
+            ]
+          },
+          {
+            "ko": "13",
+            "en": "thirteen",
+            "alts": [
+              "13"
+            ]
+          },
+          {
+            "ko": "12",
+            "en": "twelve",
+            "alts": [
+              "12"
+            ]
+          },
+          {
+            "ko": "11",
+            "en": "eleven",
+            "alts": [
+              "11"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "basic_b": {
+    "label": "Basic B",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "How are you?",
+        "items": [
+          {
+            "ko": "나는 행복해",
+            "en": "I am happy",
+            "alts": []
+          },
+          {
+            "ko": "나는 슬퍼",
+            "en": "I am sad",
+            "alts": []
+          },
+          {
+            "ko": "나는 화나",
+            "en": "I am angry",
+            "alts": []
+          },
+          {
+            "ko": "나는 배고파",
+            "en": "I am hungry",
+            "alts": []
+          },
+          {
+            "ko": "나는 힘들어",
+            "en": "I am tired",
+            "alts": []
+          },
+          {
+            "ko": "나는 지루해",
+            "en": "I am bored",
+            "alts": []
+          },
+          {
+            "ko": "나는 무서워",
+            "en": "I am scared",
+            "alts": []
+          },
+          {
+            "ko": "나는 아파",
+            "en": "I am sick",
+            "alts": []
+          },
+          {
+            "ko": "나는 걱정돼",
+            "en": "I am worried",
+            "alts": []
+          },
+          {
+            "ko": "나는 졸려",
+            "en": "I am sleepy",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "I like Mr. Jay",
+        "items": [
+          {
+            "ko": "나는 면을 좋아해",
+            "en": "I like noodles",
+            "alts": []
+          },
+          {
+            "ko": "나는 고기를 좋아해",
+            "en": "I like meat",
+            "alts": []
+          },
+          {
+            "ko": "나는 과일을 좋아해",
+            "en": "I like fruit",
+            "alts": []
+          },
+          {
+            "ko": "나는 게임을 좋아해",
+            "en": "I like games",
+            "alts": []
+          },
+          {
+            "ko": "나는 학교를 좋아해",
+            "en": "I like school",
+            "alts": []
+          },
+          {
+            "ko": "나는 운동을 좋아해",
+            "en": "I like exercise",
+            "alts": []
+          },
+          {
+            "ko": "나는 영화를 좋아해",
+            "en": "I like movies",
+            "alts": []
+          },
+          {
+            "ko": "나는 음악을 좋아해",
+            "en": "I like music",
+            "alts": []
+          },
+          {
+            "ko": "나는 너를 좋아해",
+            "en": "I like you",
+            "alts": []
+          },
+          {
+            "ko": "나는 사과를 좋아해",
+            "en": "I like apples",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "Classroom English Two",
+        "items": [
+          {
+            "ko": "다시!",
+            "en": "Again!",
+            "alts": []
+          },
+          {
+            "ko": "이걸 재활용해!",
+            "en": "Recycle this!",
+            "alts": []
+          },
+          {
+            "ko": "이걸 버려!",
+            "en": "Trash this!",
+            "alts": []
+          },
+          {
+            "ko": "그거 하지마!",
+            "en": "Don't do that!",
+            "alts": []
+          },
+          {
+            "ko": "고마워",
+            "en": "Thank you",
+            "alts": []
+          },
+          {
+            "ko": "실례합니다",
+            "en": "Excuse me",
+            "alts": []
+          },
+          {
+            "ko": "저는 이해가 안됩니다",
+            "en": "I do not understand",
+            "alts": []
+          },
+          {
+            "ko": "저는 모르겠습니다",
+            "en": "I do not know",
+            "alts": []
+          },
+          {
+            "ko": "도와주세요",
+            "en": "Help me please",
+            "alts": []
+          },
+          {
+            "ko": "조용히해!",
+            "en": "Quiet!",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "Rock Paper Scissors",
+        "items": [
+          {
+            "ko": "바위가 이겼다",
+            "en": "Rock wins",
+            "alts": [
+              "rock",
+              "I win"
+            ]
+          },
+          {
+            "ko": "보가 이겼다",
+            "en": "Paper wins",
+            "alts": [
+              "paper",
+              "I win"
+            ]
+          },
+          {
+            "ko": "가위가 이겼다",
+            "en": "Scissors wins",
+            "alts": [
+              "scissors",
+              "I win"
+            ]
+          },
+          {
+            "ko": "바위가 이겼다",
+            "en": "Rock wins",
+            "alts": [
+              "rock",
+              "I win"
+            ]
+          },
+          {
+            "ko": "보가 이겼다",
+            "en": "Paper wins",
+            "alts": [
+              "paper",
+              "I win"
+            ]
+          },
+          {
+            "ko": "가위가 이겼다",
+            "en": "Scissors wins",
+            "alts": [
+              "scissors",
+              "I win"
+            ]
+          },
+          {
+            "ko": "바위가 이겼다",
+            "en": "Rock wins",
+            "alts": [
+              "rock",
+              "I win"
+            ]
+          },
+          {
+            "ko": "보가 이겼다",
+            "en": "Paper wins",
+            "alts": [
+              "paper",
+              "I win"
+            ]
+          },
+          {
+            "ko": "가위가 이겼다",
+            "en": "Scissors wins",
+            "alts": [
+              "scissors",
+              "I win"
+            ]
+          },
+          {
+            "ko": "바위가 이겼다",
+            "en": "Rock wins",
+            "alts": [
+              "rock",
+              "I win"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "What is it?",
+        "items": [
+          {
+            "ko": "책이야",
+            "en": "It is a book",
+            "alts": []
+          },
+          {
+            "ko": "휴대폰 충전기였다",
+            "en": "It was a phone charger",
+            "alts": [
+              "It is a phone charger"
+            ]
+          },
+          {
+            "ko": "양말이었다",
+            "en": "It was a sock",
+            "alts": [
+              "It is a sock"
+            ]
+          },
+          {
+            "ko": "장난감이야",
+            "en": "It is a toy",
+            "alts": []
+          },
+          {
+            "ko": "속옷이야",
+            "en": "It is underwear",
+            "alts": []
+          },
+          {
+            "ko": "칫솔이었다",
+            "en": "It was a toothbrush",
+            "alts": [
+              "It is a toothbrush"
+            ]
+          },
+          {
+            "ko": "야간등이야",
+            "en": "It is a night light",
+            "alts": []
+          },
+          {
+            "ko": "곰인형이었다",
+            "en": "It was a teddy bear",
+            "alts": [
+              "It is a teddy bear"
+            ]
+          },
+          {
+            "ko": "사과였다",
+            "en": "It was an apple",
+            "alts": []
+          },
+          {
+            "ko": "가방이야",
+            "en": "It is a bag",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "I like my body",
+        "items": [
+          {
+            "ko": "이것은 내 머리입니다",
+            "en": "This is my head",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 코입니다",
+            "en": "This is my nose",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 입입니다",
+            "en": "This is my mouth",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 귀입니다",
+            "en": "This is my ear",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 눈입니다",
+            "en": "This is my eye",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 목입니다",
+            "en": "This is my neck",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 몸입니다",
+            "en": "This is my body",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 턱입니다",
+            "en": "This is my chin",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 손입니다",
+            "en": "This is my hand",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 어깨입니다",
+            "en": "This is my shoulder",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "What Color is That?",
+        "items": [
+          {
+            "ko": "하얀색이야",
+            "en": "It is white",
+            "alts": []
+          },
+          {
+            "ko": "검은색이야",
+            "en": "It is black",
+            "alts": []
+          },
+          {
+            "ko": "갈색이야",
+            "en": "It is brown",
+            "alts": []
+          },
+          {
+            "ko": "빨간색이야",
+            "en": "It is red",
+            "alts": []
+          },
+          {
+            "ko": "주황색이야",
+            "en": "It is orange",
+            "alts": []
+          },
+          {
+            "ko": "노랑색이야",
+            "en": "It is yellow",
+            "alts": []
+          },
+          {
+            "ko": "초록색이야",
+            "en": "It is green",
+            "alts": []
+          },
+          {
+            "ko": "파란색이야",
+            "en": "It is blue",
+            "alts": []
+          },
+          {
+            "ko": "보라색이야",
+            "en": "It is purple",
+            "alts": []
+          },
+          {
+            "ko": "다색이야",
+            "en": "It is a rainbow",
+            "alts": [
+              "It is rainbow",
+              "rainbow"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "How old are you?",
+        "items": [
+          {
+            "ko": "나는 7살입니다",
+            "en": "I am seven years old",
+            "alts": [
+              "I am 7",
+              "I am seven"
+            ]
+          },
+          {
+            "ko": "나는 10살입니다",
+            "en": "I am ten years old",
+            "alts": [
+              "I am 10",
+              "I am ten"
+            ]
+          },
+          {
+            "ko": "나는 14살입니다",
+            "en": "I am fourteen years old",
+            "alts": [
+              "I am 14",
+              "I am fourteen"
+            ]
+          },
+          {
+            "ko": "나는 17살입니다",
+            "en": "I am seventeen years old",
+            "alts": [
+              "I am 17",
+              "I am seventeen"
+            ]
+          },
+          {
+            "ko": "나는 22살입니다",
+            "en": "I am twenty-two years old",
+            "alts": [
+              "I am 22",
+              "I am twenty two"
+            ]
+          },
+          {
+            "ko": "나는 25살입니다",
+            "en": "I am twenty-five years old",
+            "alts": [
+              "I am 25",
+              "I am twenty five"
+            ]
+          },
+          {
+            "ko": "나는 33살입니다",
+            "en": "I am thirty-three years old",
+            "alts": [
+              "I am 33",
+              "I am thirty three"
+            ]
+          },
+          {
+            "ko": "나는 66살입니다",
+            "en": "I am sixty-six years old",
+            "alts": [
+              "I am 66",
+              "I am sixty six"
+            ]
+          },
+          {
+            "ko": "나는 1살입니다",
+            "en": "I am one year old",
+            "alts": [
+              "I am 1",
+              "I am one"
+            ]
+          },
+          {
+            "ko": "나는 100살입니다",
+            "en": "I am one hundred years old",
+            "alts": [
+              "I am 100",
+              "I am a hundred"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "basic_c": {
+    "label": "Basic C",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "I Love My Dog Zoey",
+        "items": [
+          {
+            "ko": "나는 내 개 'Zoey'를 사랑해",
+            "en": "I love my dog Zoey",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 고양이 'Leo'를 사랑해",
+            "en": "I love my cat Leo",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 새 'Sarah'를 사랑해",
+            "en": "I love my bird Sarah",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 토끼 'Sam'을 사랑해",
+            "en": "I love my rabbit Sam",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 햄스터 'Fluffy'를 사랑해",
+            "en": "I love my hamster Fluffy",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 물고기 'Nimo'를 사랑해",
+            "en": "I love my fish Nimo",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 풍뎅이 'Bob'을 사랑해",
+            "en": "I love my beetle Bob",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 거북이 'Tom'을 사랑해",
+            "en": "I love my turtle Tom",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 뱀 'Jessica'를 사랑해",
+            "en": "I love my snake Jessica",
+            "alts": []
+          },
+          {
+            "ko": "나는 내 다람쥐 'Sandy'를 사랑해",
+            "en": "I love my squirrel Sandy",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "Look at My New Hat",
+        "items": [
+          {
+            "ko": "나의 새 모자를 봐",
+            "en": "Look at my new hat",
+            "alts": []
+          },
+          {
+            "ko": "나의 새 이어폰을 봐",
+            "en": "Look at my new earphones",
+            "alts": []
+          },
+          {
+            "ko": "나의 새 신발을 봐",
+            "en": "Look at my new shoes",
+            "alts": []
+          },
+          {
+            "ko": "나의 새 휴대폰을 봐",
+            "en": "Look at my new phone",
+            "alts": []
+          },
+          {
+            "ko": "나의 새 외투를 봐",
+            "en": "Look at my new coat",
+            "alts": []
+          },
+          {
+            "ko": "나의 새 시계를 봐",
+            "en": "Look at my new watch",
+            "alts": [
+              "Look at my watch"
+            ]
+          },
+          {
+            "ko": "나의 새 가방을 봐",
+            "en": "Look at my new bag",
+            "alts": []
+          },
+          {
+            "ko": "나의 새 컴퓨터를 봐",
+            "en": "Look at my new computer",
+            "alts": []
+          },
+          {
+            "ko": "나의 새 장갑을 봐",
+            "en": "Look at my new gloves",
+            "alts": []
+          },
+          {
+            "ko": "나의 새 집을 봐",
+            "en": "Look at my new house",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "Classroom English Three",
+        "items": [
+          {
+            "ko": "월요일에 봐요",
+            "en": "See you Monday",
+            "alts": []
+          },
+          {
+            "ko": "시작해도 되나요?",
+            "en": "May I start?",
+            "alts": []
+          },
+          {
+            "ko": "보고해라!",
+            "en": "Report!",
+            "alts": []
+          },
+          {
+            "ko": "cat의 철자를 말해라!",
+            "en": "Spell cat!",
+            "alts": []
+          },
+          {
+            "ko": "cat이 무슨 뜻인가요?",
+            "en": "What does cat mean?",
+            "alts": []
+          },
+          {
+            "ko": "천만에요",
+            "en": "You are welcome",
+            "alts": []
+          },
+          {
+            "ko": "절 시험 해 주세요",
+            "en": "Please test me",
+            "alts": []
+          },
+          {
+            "ko": "내일 봐요",
+            "en": "See you tomorrow",
+            "alts": []
+          },
+          {
+            "ko": "저는 이해가 안됩니다",
+            "en": "I do not understand",
+            "alts": []
+          },
+          {
+            "ko": "저는 모르겠습니다",
+            "en": "I do not know",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "What Can We See near Tongyeong?",
+        "items": [
+          {
+            "ko": "서울",
+            "en": "What can we see near Seoul?",
+            "alts": []
+          },
+          {
+            "ko": "부산",
+            "en": "What can we see near Busan?",
+            "alts": []
+          },
+          {
+            "ko": "제주",
+            "en": "What can we see near Jeju?",
+            "alts": [
+              "What can we see near Jeh joo?"
+            ]
+          },
+          {
+            "ko": "통영",
+            "en": "What can we see near Tongyeong?",
+            "alts": [
+              "What can we see near Tong young?"
+            ]
+          },
+          {
+            "ko": "공주",
+            "en": "What can we see near Gongju?",
+            "alts": []
+          },
+          {
+            "ko": "안동",
+            "en": "What can we see near Andong?",
+            "alts": [
+              "What can we see near Ahndong?"
+            ]
+          },
+          {
+            "ko": "순천",
+            "en": "What can we see near Suncheon?",
+            "alts": []
+          },
+          {
+            "ko": "고성",
+            "en": "What can we see near Goseong?",
+            "alts": []
+          },
+          {
+            "ko": "평창",
+            "en": "What can we see near Pyeongchang?",
+            "alts": []
+          },
+          {
+            "ko": "진도",
+            "en": "What can we see near Jindo?",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "Spelling Bee",
+        "items": [
+          {
+            "ko": "돼지",
+            "en": "pig",
+            "alts": [
+              "Spell pig",
+              "P I G"
+            ]
+          },
+          {
+            "ko": "개",
+            "en": "dog",
+            "alts": [
+              "Spell dog",
+              "D O G"
+            ]
+          },
+          {
+            "ko": "고양이",
+            "en": "cat",
+            "alts": [
+              "Spell cat",
+              "C A T"
+            ]
+          },
+          {
+            "ko": "서울",
+            "en": "Seoul",
+            "alts": [
+              "Spell Seoul",
+              "S E O U L"
+            ]
+          },
+          {
+            "ko": "통영",
+            "en": "Tongyeong",
+            "alts": [
+              "Spell Tongyeong",
+              "T O N G Y E O N G"
+            ]
+          },
+          {
+            "ko": "캐나다",
+            "en": "Canada",
+            "alts": [
+              "Spell Canada"
+            ]
+          },
+          {
+            "ko": "학교",
+            "en": "school",
+            "alts": [
+              "Spell school"
+            ]
+          },
+          {
+            "ko": "그네",
+            "en": "swing",
+            "alts": [
+              "Spell swing"
+            ]
+          },
+          {
+            "ko": "무릎",
+            "en": "knee",
+            "alts": [
+              "Spell knee"
+            ]
+          },
+          {
+            "ko": "얼굴",
+            "en": "face",
+            "alts": [
+              "Spell face"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "Don't Touch Your Arm",
+        "items": [
+          {
+            "ko": "당신의 팔을 만지지 마세요",
+            "en": "Don't touch your arm",
+            "alts": []
+          },
+          {
+            "ko": "당신의 다리를 만지지 마세요",
+            "en": "Don't touch your leg",
+            "alts": []
+          },
+          {
+            "ko": "당신의 무릎을 만지지 마세요",
+            "en": "Don't touch your knee",
+            "alts": []
+          },
+          {
+            "ko": "당신의 등을 만지지 마세요",
+            "en": "Don't touch your back",
+            "alts": []
+          },
+          {
+            "ko": "당신의 얼굴을 만지지 마세요",
+            "en": "Don't touch your face",
+            "alts": []
+          },
+          {
+            "ko": "당신의 배를 만지지 마세요",
+            "en": "Don't touch your stomach",
+            "alts": []
+          },
+          {
+            "ko": "당신의 손목을 만지지 마세요",
+            "en": "Don't touch your wrist",
+            "alts": []
+          },
+          {
+            "ko": "당신의 발가락을 만지지 마세요",
+            "en": "Don't touch your toe",
+            "alts": [
+              "Don't touch your toes"
+            ]
+          },
+          {
+            "ko": "당신의 목을 만지지 마세요",
+            "en": "Don't touch your neck",
+            "alts": []
+          },
+          {
+            "ko": "당신의 귀를 만지지 마세요",
+            "en": "Don't touch your ear",
+            "alts": [
+              "Don't touch your ears"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "Come Play With Us",
+        "items": [
+          {
+            "ko": "미끄럼틀은 어디에 있어?",
+            "en": "Where is the slide?",
+            "alts": []
+          },
+          {
+            "ko": "시소는 어디에 있어?",
+            "en": "Where is the seesaw?",
+            "alts": []
+          },
+          {
+            "ko": "회전목마는 어디에 있어?",
+            "en": "Where is the merry-go-round?",
+            "alts": []
+          },
+          {
+            "ko": "그네는 어디에 있어?",
+            "en": "Where is the swing?",
+            "alts": []
+          },
+          {
+            "ko": "정글짐은 어디에 있어?",
+            "en": "Where is the jungle gym?",
+            "alts": []
+          },
+          {
+            "ko": "모래사장은 어디에 있어?",
+            "en": "Where is the sandbox?",
+            "alts": []
+          },
+          {
+            "ko": "놀이터는 어디에 있어?",
+            "en": "Where is the playhouse?",
+            "alts": [
+              "Where is the playground?"
+            ]
+          },
+          {
+            "ko": "범퍼카는 어디에 있어?",
+            "en": "Where is the bumper car?",
+            "alts": []
+          },
+          {
+            "ko": "미로는 어디에 있어?",
+            "en": "Where is the maze?",
+            "alts": []
+          },
+          {
+            "ko": "롤러코스터는 어디에 있어?",
+            "en": "Where is the roller coaster?",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "I Want a New Computer",
+        "items": [
+          {
+            "ko": "나는 새 인형을 원해",
+            "en": "I want a new doll",
+            "alts": []
+          },
+          {
+            "ko": "나는 새 필통을 원해",
+            "en": "I want a new pencil case",
+            "alts": []
+          },
+          {
+            "ko": "나는 새 책가방을 원해",
+            "en": "I want a new school bag",
+            "alts": []
+          },
+          {
+            "ko": "나는 새 이어폰을 원해",
+            "en": "I want new earphones",
+            "alts": [
+              "I want a new earphones"
+            ]
+          },
+          {
+            "ko": "나는 새 휴대폰을 원해",
+            "en": "I want a new phone",
+            "alts": []
+          },
+          {
+            "ko": "나는 새 옷을 원해",
+            "en": "I want new clothes",
+            "alts": []
+          },
+          {
+            "ko": "나는 새 자전거를 원해",
+            "en": "I want a new bike",
+            "alts": []
+          },
+          {
+            "ko": "나는 새 컴퓨터를 원해",
+            "en": "I want a new computer",
+            "alts": []
+          },
+          {
+            "ko": "나는 새 남동생을 원해",
+            "en": "I want a new brother",
+            "alts": []
+          },
+          {
+            "ko": "나는 새 집을 원해",
+            "en": "I want a new house",
+            "alts": []
+          }
+        ]
+      }
+    ]
+  },
+  "int2a": {
+    "label": "Int 2A",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "How is the Weather?",
+        "items": [
+          {
+            "ko": "HITW? 덥다",
+            "en": "It is hot",
+            "alts": []
+          },
+          {
+            "ko": "HITW? 눈이 내리다",
+            "en": "It is snowing",
+            "alts": [
+              "It is snowy"
+            ]
+          },
+          {
+            "ko": "HITW? 폭풍이 몰아치다",
+            "en": "It is stormy",
+            "alts": []
+          },
+          {
+            "ko": "HITW? 습하다",
+            "en": "It is humid",
+            "alts": []
+          },
+          {
+            "ko": "HITW? 비가 오다",
+            "en": "It is rainy",
+            "alts": [
+              "It is raining"
+            ]
+          },
+          {
+            "ko": "HITW? 춥다",
+            "en": "It is cold",
+            "alts": []
+          },
+          {
+            "ko": "HITW? 안개가 끼다",
+            "en": "It is foggy",
+            "alts": []
+          },
+          {
+            "ko": "HITW? 바람이 많이 분다",
+            "en": "It is windy",
+            "alts": []
+          },
+          {
+            "ko": "HITW? 우박이 쏟아지다",
+            "en": "It is hailing",
+            "alts": [
+              "There is hail"
+            ]
+          },
+          {
+            "ko": "HITW? 화창하다",
+            "en": "It is sunny",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "There are Snakes!",
+        "items": [
+          {
+            "ko": "뱀들",
+            "en": "There are snakes!",
+            "alts": [
+              "There are snakes"
+            ]
+          },
+          {
+            "ko": "물",
+            "en": "There is water!",
+            "alts": [
+              "There is water"
+            ]
+          },
+          {
+            "ko": "벌들",
+            "en": "There are bees!",
+            "alts": [
+              "There are bees"
+            ]
+          },
+          {
+            "ko": "음식",
+            "en": "There is food!",
+            "alts": [
+              "There is food"
+            ]
+          },
+          {
+            "ko": "개미",
+            "en": "There are ants!",
+            "alts": [
+              "There are ants"
+            ]
+          },
+          {
+            "ko": "호텔",
+            "en": "There is a hotel!",
+            "alts": [
+              "There is a hotel"
+            ]
+          },
+          {
+            "ko": "거미",
+            "en": "There are spiders!",
+            "alts": [
+              "There are spiders"
+            ]
+          },
+          {
+            "ko": "화장실",
+            "en": "There is a washroom!",
+            "alts": [
+              "There is a bathroom"
+            ]
+          },
+          {
+            "ko": "선생님",
+            "en": "There is a teacher!",
+            "alts": [
+              "There is a teacher"
+            ]
+          },
+          {
+            "ko": "괴물",
+            "en": "There is a monster!",
+            "alts": [
+              "There is a monster"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "Can You Speak Chinese?",
+        "items": [
+          {
+            "ko": "중국어",
+            "en": "Can you speak Chinese?",
+            "alts": []
+          },
+          {
+            "ko": "일본어",
+            "en": "Can you speak Japanese?",
+            "alts": []
+          },
+          {
+            "ko": "프랑스어",
+            "en": "Can you speak French?",
+            "alts": []
+          },
+          {
+            "ko": "독일어",
+            "en": "Can you speak German?",
+            "alts": []
+          },
+          {
+            "ko": "힌디어",
+            "en": "Can you speak Hindi?",
+            "alts": []
+          },
+          {
+            "ko": "스페인어",
+            "en": "Can you speak Spanish?",
+            "alts": []
+          },
+          {
+            "ko": "베트남어",
+            "en": "Can you speak Vietnamese?",
+            "alts": []
+          },
+          {
+            "ko": "한국어",
+            "en": "Can you speak Korean?",
+            "alts": []
+          },
+          {
+            "ko": "영어",
+            "en": "Can you speak English?",
+            "alts": []
+          },
+          {
+            "ko": "러시아어",
+            "en": "Can you speak Russian?",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "What do you Want?",
+        "items": [
+          {
+            "ko": "WDYW? 약",
+            "en": "I want medicine",
+            "alts": []
+          },
+          {
+            "ko": "WDYW? 담요",
+            "en": "I want a blanket",
+            "alts": []
+          },
+          {
+            "ko": "WDYW? 휴지",
+            "en": "I want tissue paper",
+            "alts": [
+              "I want a tissue"
+            ]
+          },
+          {
+            "ko": "WDYW? 수프",
+            "en": "I want soup",
+            "alts": []
+          },
+          {
+            "ko": "WDYW? 주스",
+            "en": "I want juice",
+            "alts": []
+          },
+          {
+            "ko": "WDYW? 물",
+            "en": "I want water",
+            "alts": []
+          },
+          {
+            "ko": "WDYW? 휴대폰",
+            "en": "I want my phone",
+            "alts": [
+              "I want a phone"
+            ]
+          },
+          {
+            "ko": "WDYW? 포옹",
+            "en": "I want a hug",
+            "alts": []
+          },
+          {
+            "ko": "WDYW? 컴퓨터",
+            "en": "I want a computer",
+            "alts": []
+          },
+          {
+            "ko": "WDYW? 책",
+            "en": "I want a book",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "Where is My Phone?",
+        "items": [
+          {
+            "ko": "WIMP? 주방",
+            "en": "Maybe it is in the kitchen",
+            "alts": [
+              "It is in the kitchen"
+            ]
+          },
+          {
+            "ko": "WIMP? 욕실",
+            "en": "Maybe it is in the bathroom",
+            "alts": [
+              "It is in the bathroom"
+            ]
+          },
+          {
+            "ko": "WIMP? 거실",
+            "en": "Maybe it is in the living room",
+            "alts": [
+              "It is in the living room"
+            ]
+          },
+          {
+            "ko": "WIMP? 차고",
+            "en": "Maybe it is in the garage",
+            "alts": [
+              "It is in the garage"
+            ]
+          },
+          {
+            "ko": "WIMP? 침실",
+            "en": "Maybe it is in the bedroom",
+            "alts": [
+              "It is in the bedroom"
+            ]
+          },
+          {
+            "ko": "WIMP? 다락방",
+            "en": "Maybe it is in the attic",
+            "alts": [
+              "It is in the attic"
+            ]
+          },
+          {
+            "ko": "WIMP? 지하실",
+            "en": "Maybe it is in the basement",
+            "alts": [
+              "It is in the basement"
+            ]
+          },
+          {
+            "ko": "WIMP? 식당",
+            "en": "Maybe it is in the dining room",
+            "alts": [
+              "It is in the dining room"
+            ]
+          },
+          {
+            "ko": "WIMP? 교실",
+            "en": "Maybe it is in the classroom",
+            "alts": [
+              "It is in the classroom"
+            ]
+          },
+          {
+            "ko": "WIMP? 휴게실",
+            "en": "Maybe it is in the lounge",
+            "alts": [
+              "It is in the lounge"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "Look at This Funny Video",
+        "items": [
+          {
+            "ko": "웃긴",
+            "en": "Look at this funny video",
+            "alts": []
+          },
+          {
+            "ko": "무서운",
+            "en": "Look at this scary video",
+            "alts": []
+          },
+          {
+            "ko": "역겨운",
+            "en": "Look at this gross video",
+            "alts": []
+          },
+          {
+            "ko": "슬픈",
+            "en": "Look at this sad video",
+            "alts": []
+          },
+          {
+            "ko": "기이한",
+            "en": "Look at this weird video",
+            "alts": []
+          },
+          {
+            "ko": "신나게 하는",
+            "en": "Look at this exciting video",
+            "alts": []
+          },
+          {
+            "ko": "미친",
+            "en": "Look at this crazy video",
+            "alts": []
+          },
+          {
+            "ko": "조용한",
+            "en": "Look at this quiet video",
+            "alts": []
+          },
+          {
+            "ko": "지루한",
+            "en": "Look at this boring video",
+            "alts": []
+          },
+          {
+            "ko": "시끄러운",
+            "en": "Look at this loud video",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "Where is the Teacher?",
+        "items": [
+          {
+            "ko": "우리 급우들은 어디에 있습니까?",
+            "en": "Where are our classmates?",
+            "alts": []
+          },
+          {
+            "ko": "우리 선생님 어디에 있습니까?",
+            "en": "Where is our teacher?",
+            "alts": [
+              "Where is the teacher?"
+            ]
+          },
+          {
+            "ko": "교장은 어디에 있습니까?",
+            "en": "Where is the principal?",
+            "alts": []
+          },
+          {
+            "ko": "한국에선, 학생들이 그들의 학교를 청소합니다",
+            "en": "In Korea, students clean their school",
+            "alts": []
+          },
+          {
+            "ko": "사서는 어디에 있습니까?",
+            "en": "Where is the librarian?",
+            "alts": []
+          },
+          {
+            "ko": "수위는 어디에 있습니까?",
+            "en": "Where is the janitor?",
+            "alts": []
+          },
+          {
+            "ko": "급식 아주머니는 어디에 있습니까?",
+            "en": "Where is the lunch lady?",
+            "alts": []
+          },
+          {
+            "ko": "비서는 어디에 있습니까?",
+            "en": "Where is the secretary?",
+            "alts": []
+          },
+          {
+            "ko": "운동장 관리인은 어디에 있습니까?",
+            "en": "Where is the groundskeeper?",
+            "alts": []
+          },
+          {
+            "ko": "양호선생님은 어디에 있습니까?",
+            "en": "Where is the nurse?",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "What Do You Do After School?",
+        "items": [
+          {
+            "ko": "컴퓨터 게임을 하다",
+            "en": "I play computer games",
+            "alts": []
+          },
+          {
+            "ko": "축구를 하다",
+            "en": "I play soccer",
+            "alts": []
+          },
+          {
+            "ko": "무술을 연습하다",
+            "en": "I practice martial arts",
+            "alts": []
+          },
+          {
+            "ko": "영어 교실에 가다",
+            "en": "I go to English class",
+            "alts": []
+          },
+          {
+            "ko": "피아노를 치다",
+            "en": "I play the piano",
+            "alts": [
+              "I play piano"
+            ]
+          },
+          {
+            "ko": "내 남동생을 돌보다",
+            "en": "I take care of my little brother",
+            "alts": []
+          },
+          {
+            "ko": "그냥 쉬다",
+            "en": "I just relax",
+            "alts": []
+          },
+          {
+            "ko": "노래를 부르다",
+            "en": "I sing",
+            "alts": []
+          },
+          {
+            "ko": "TV를 보다",
+            "en": "I watch TV",
+            "alts": []
+          },
+          {
+            "ko": "자전거를 타다",
+            "en": "I ride a bike",
+            "alts": []
+          }
+        ]
+      }
+    ]
+  },
+  "int2b": {
+    "label": "Int 2B",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "Hello, This is Pizza Land",
+        "items": [
+          {
+            "ko": "WDIIT? 월요일",
+            "en": "It is Monday",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 화요일",
+            "en": "It is Tuesday",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 수요일",
+            "en": "It is Wednesday",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 목요일",
+            "en": "It is Thursday",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 금요일",
+            "en": "It is Friday",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 토요일",
+            "en": "It is Saturday",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 일요일",
+            "en": "It is Sunday",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 공휴일",
+            "en": "It is a holiday",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 수업일",
+            "en": "It is a school day",
+            "alts": []
+          },
+          {
+            "ko": "WDIIT? 근무일",
+            "en": "It is a work day",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "What Time is it Now?",
+        "items": [
+          {
+            "ko": "WTII(N)? 7시 30분",
+            "en": "It is seven thirty",
+            "alts": [
+              "It is 7:30"
+            ]
+          },
+          {
+            "ko": "WTII(N)? 아침 식사시간",
+            "en": "It is breakfast time",
+            "alts": [
+              "It is time for breakfast"
+            ]
+          },
+          {
+            "ko": "WTII(N)? 8시",
+            "en": "It is eight o'clock",
+            "alts": [
+              "It is 8 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII(N)? 학교 시간",
+            "en": "It is school time",
+            "alts": [
+              "It is time for school"
+            ]
+          },
+          {
+            "ko": "WTII(N)? 3시 30분",
+            "en": "It is three thirty",
+            "alts": [
+              "It is 3:30"
+            ]
+          },
+          {
+            "ko": "WTII(N)? 간식 시간",
+            "en": "It is snack time",
+            "alts": [
+              "It is time for a snack"
+            ]
+          },
+          {
+            "ko": "WTII(N)? 오전 10시",
+            "en": "It is ten a.m.",
+            "alts": [
+              "It is 10 a.m."
+            ]
+          },
+          {
+            "ko": "WTII(N)? 온라인 수업시간",
+            "en": "It is online class time",
+            "alts": []
+          },
+          {
+            "ko": "WTII(N)? 오전 11시",
+            "en": "It is eleven a.m.",
+            "alts": [
+              "It is 11 a.m."
+            ]
+          },
+          {
+            "ko": "WTII(N)? 휴식 시간",
+            "en": "It is recess",
+            "alts": [
+              "It is break time"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "What Do You Want to be in the Future?",
+        "items": [
+          {
+            "ko": "프로게이머",
+            "en": "I want to be a pro-gamer",
+            "alts": [
+              "I want to be a pro gamer"
+            ]
+          },
+          {
+            "ko": "배우",
+            "en": "I want to be an actor",
+            "alts": [
+              "I want to be an actress"
+            ]
+          },
+          {
+            "ko": "음식 비평가",
+            "en": "I want to be a food critic",
+            "alts": []
+          },
+          {
+            "ko": "영어 선생님",
+            "en": "I want to be an English teacher",
+            "alts": []
+          },
+          {
+            "ko": "경찰관",
+            "en": "I want to be a police officer",
+            "alts": []
+          },
+          {
+            "ko": "과학자",
+            "en": "I want to be a scientist",
+            "alts": []
+          },
+          {
+            "ko": "의사",
+            "en": "I want to be a doctor",
+            "alts": []
+          },
+          {
+            "ko": "판사",
+            "en": "I want to be a judge",
+            "alts": []
+          },
+          {
+            "ko": "대통령",
+            "en": "I want to be the president",
+            "alts": [
+              "I want to be president"
+            ]
+          },
+          {
+            "ko": "컴퓨터 해커",
+            "en": "I want to be a computer hacker",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "Welcome to Seven-Eleven",
+        "items": [
+          {
+            "ko": "이것은 얼마입니까?",
+            "en": "How much is this?",
+            "alts": []
+          },
+          {
+            "ko": "그것은 100원 정도입니다",
+            "en": "It is about 100 won",
+            "alts": []
+          },
+          {
+            "ko": "저것은 얼마입니까?",
+            "en": "How much is that?",
+            "alts": []
+          },
+          {
+            "ko": "그것은 500원 정도입니다",
+            "en": "It is about 500 won",
+            "alts": []
+          },
+          {
+            "ko": "이것들은 얼마입니까?",
+            "en": "How much are these?",
+            "alts": []
+          },
+          {
+            "ko": "그것들은 1000원 정도입니다",
+            "en": "They are about 1000 won",
+            "alts": [
+              "They are about one thousand won"
+            ]
+          },
+          {
+            "ko": "저것들은 얼마입니까?",
+            "en": "How much are those?",
+            "alts": []
+          },
+          {
+            "ko": "그것들은 5000원 정도입니다",
+            "en": "They are about 5000 won",
+            "alts": []
+          },
+          {
+            "ko": "여기 있는 건 다 쌉니다!",
+            "en": "Everything here is cheap!",
+            "alts": []
+          },
+          {
+            "ko": "좀 더 사자!",
+            "en": "Let's buy some more!",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "Somebody Stole My Bike!",
+        "items": [
+          {
+            "ko": "똑똑합니까?",
+            "en": "Is he smart?",
+            "alts": [
+              "Is she smart?"
+            ]
+          },
+          {
+            "ko": "뚱뚱합니까?",
+            "en": "Is he fat?",
+            "alts": [
+              "Is she fat?"
+            ]
+          },
+          {
+            "ko": "키가 큽니까?",
+            "en": "Is he tall?",
+            "alts": [
+              "Is she tall?"
+            ]
+          },
+          {
+            "ko": "키가 작습니까?",
+            "en": "Is he short?",
+            "alts": [
+              "Is she short?"
+            ]
+          },
+          {
+            "ko": "말랐습니까?",
+            "en": "Is he thin?",
+            "alts": [
+              "Is she thin?"
+            ]
+          },
+          {
+            "ko": "늙었습니까?",
+            "en": "Is he old?",
+            "alts": [
+              "Is she old?"
+            ]
+          },
+          {
+            "ko": "어립니까?",
+            "en": "Is he young?",
+            "alts": [
+              "Is she young?"
+            ]
+          },
+          {
+            "ko": "못생겼습니까?",
+            "en": "Is he ugly?",
+            "alts": [
+              "Is she ugly?"
+            ]
+          },
+          {
+            "ko": "잘생겼습니까?",
+            "en": "Is he good-looking?",
+            "alts": [
+              "Is she good-looking?"
+            ]
+          },
+          {
+            "ko": "부유합니까?",
+            "en": "Is he rich?",
+            "alts": [
+              "Is she rich?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "Welcome to Parent's Night",
+        "items": [
+          {
+            "ko": "영어 선생님",
+            "en": "This is my English teacher",
+            "alts": []
+          },
+          {
+            "ko": "수학 선생님",
+            "en": "This is my math teacher",
+            "alts": []
+          },
+          {
+            "ko": "과학 선생님",
+            "en": "This is my science teacher",
+            "alts": []
+          },
+          {
+            "ko": "역사 선생님",
+            "en": "This is my history teacher",
+            "alts": []
+          },
+          {
+            "ko": "음악 선생님",
+            "en": "This is my music teacher",
+            "alts": []
+          },
+          {
+            "ko": "미술 선생님",
+            "en": "This is my art teacher",
+            "alts": []
+          },
+          {
+            "ko": "체육 선생님",
+            "en": "This is my gym teacher",
+            "alts": [
+              "This is my PE teacher"
+            ]
+          },
+          {
+            "ko": "국어 선생님",
+            "en": "This is my Korean teacher",
+            "alts": []
+          },
+          {
+            "ko": "사회 선생님",
+            "en": "This is my social studies teacher",
+            "alts": []
+          },
+          {
+            "ko": "일본어 선생님",
+            "en": "This is my Japanese teacher",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "Have You Seen My Transit Card?",
+        "items": [
+          {
+            "ko": "돈? 필통 안에",
+            "en": "Is it in the pencil case?",
+            "alts": [
+              "Is the money in the pencil case?"
+            ]
+          },
+          {
+            "ko": "폰? 책 위에",
+            "en": "Is it on the book?",
+            "alts": [
+              "Is the phone on the book?"
+            ]
+          },
+          {
+            "ko": "지갑? 책상 아래",
+            "en": "Is it under the desk?",
+            "alts": [
+              "Is the wallet under the desk?"
+            ]
+          },
+          {
+            "ko": "열쇠? 휴대폰 뒤에",
+            "en": "Is it behind the phone?",
+            "alts": [
+              "Are the keys behind the phone?"
+            ]
+          },
+          {
+            "ko": "안경? 계단 앞에",
+            "en": "Is it in front of the stairs?",
+            "alts": [
+              "Are the glasses in front of the stairs?"
+            ]
+          },
+          {
+            "ko": "양말? 신발 사이에",
+            "en": "Is it between the shoes?",
+            "alts": [
+              "Are the socks between the shoes?"
+            ]
+          },
+          {
+            "ko": "반지? 버스 정류장 옆에",
+            "en": "Is it next to the bus stop?",
+            "alts": [
+              "Is the ring next to the bus stop?"
+            ]
+          },
+          {
+            "ko": "안경? 주머니 안에",
+            "en": "Is it in the pocket?",
+            "alts": [
+              "Are the glasses in the pocket?"
+            ]
+          },
+          {
+            "ko": "돈? 길 건너편에",
+            "en": "Is it across the street?",
+            "alts": []
+          },
+          {
+            "ko": "폰? 집 밖에",
+            "en": "Is it outside the house?",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "This is Mine!",
+        "items": [
+          {
+            "ko": "이것은 내 것입니다",
+            "en": "This is mine",
+            "alts": []
+          },
+          {
+            "ko": "그것은 네 것이 아닙니다. 그것은 내 것입니다",
+            "en": "It is not yours. It is mine",
+            "alts": []
+          },
+          {
+            "ko": "그것은 내 것이 아닙니다. 그것은 우리 것입니다",
+            "en": "It is not mine. It is ours",
+            "alts": []
+          },
+          {
+            "ko": "이것은 네 것이 아니라 그녀의 것입니다",
+            "en": "This is not yours, it is hers",
+            "alts": []
+          },
+          {
+            "ko": "이것들은 네 것이 아닙니다",
+            "en": "These are not yours",
+            "alts": []
+          },
+          {
+            "ko": "그것들은 그들의 것이 아닙니다. 그것들은 내 것입니다",
+            "en": "They are not theirs. They are mine",
+            "alts": []
+          },
+          {
+            "ko": "이것은 네 것입니다",
+            "en": "This is yours",
+            "alts": []
+          },
+          {
+            "ko": "그것은 네 것이 아니라 그의 것입니다",
+            "en": "It is not yours, it is his",
+            "alts": []
+          },
+          {
+            "ko": "내 것은요?",
+            "en": "What about mine?",
+            "alts": []
+          },
+          {
+            "ko": "이것은 내 것이고, 이것도 내 것이고, 이것도 내 것입니다",
+            "en": "This is mine and this is mine and this is mine",
+            "alts": []
+          }
+        ]
+      }
+    ]
+  },
+  "int2c": {
+    "label": "Int 2C",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "I Love Summer",
+        "items": [
+          {
+            "ko": "나는 통영시의 여름이 좋습니다",
+            "en": "I love summer in Tongyeong City",
+            "alts": []
+          },
+          {
+            "ko": "우리는 수영하고 많은 섬들을 방문할 수 있습니다",
+            "en": "We can swim and visit many islands",
+            "alts": []
+          },
+          {
+            "ko": "너는 어떻습니까?",
+            "en": "How about you?",
+            "alts": []
+          },
+          {
+            "ko": "나는 사계절이 다 좋습니다",
+            "en": "I love all four seasons",
+            "alts": []
+          },
+          {
+            "ko": "나는 내장산 국립공원의 가을이 좋습니다",
+            "en": "I love fall in Naejangsan National Park",
+            "alts": []
+          },
+          {
+            "ko": "우리는 아름다운 낙엽들을 볼 수 있습니다",
+            "en": "We can see beautiful fall leaves",
+            "alts": []
+          },
+          {
+            "ko": "나는 강원도의 겨울이 좋습니다",
+            "en": "I love winter in Gangwon Province",
+            "alts": []
+          },
+          {
+            "ko": "우리는 스키와 스케이트를 탈 수 있습니다",
+            "en": "We can ski and skate",
+            "alts": []
+          },
+          {
+            "ko": "나는 진해의 봄이 좋습니다",
+            "en": "I love spring in Jinhae",
+            "alts": []
+          },
+          {
+            "ko": "우리는 모든 곳에서 벚꽃을 볼 수 있습니다",
+            "en": "We can see cherry blossoms everywhere",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "What Are You Doing?",
+        "items": [
+          {
+            "ko": "사진을 찍고 있습니다",
+            "en": "I am taking a picture",
+            "alts": [
+              "He is taking a picture"
+            ]
+          },
+          {
+            "ko": "과일을 팔고 있습니다",
+            "en": "I am selling fruit",
+            "alts": [
+              "She is selling fruit"
+            ]
+          },
+          {
+            "ko": "절하고 있습니다",
+            "en": "I am bowing",
+            "alts": [
+              "He is bowing"
+            ]
+          },
+          {
+            "ko": "낚시하고 있습니다",
+            "en": "I am fishing",
+            "alts": [
+              "He is fishing"
+            ]
+          },
+          {
+            "ko": "채소를 팔고 있습니다",
+            "en": "I am selling vegetables",
+            "alts": [
+              "She is selling vegetables"
+            ]
+          },
+          {
+            "ko": "바둑을 두고 있습니다",
+            "en": "I am playing Go",
+            "alts": [
+              "They are playing Go"
+            ]
+          },
+          {
+            "ko": "컴퓨터 게임을 하고 있습니다",
+            "en": "I am playing computer games",
+            "alts": []
+          },
+          {
+            "ko": "김치를 만들고 있습니다",
+            "en": "We are making kimchi",
+            "alts": [
+              "I am making kimchi"
+            ]
+          },
+          {
+            "ko": "양치하고 있습니다",
+            "en": "I am brushing my teeth",
+            "alts": []
+          },
+          {
+            "ko": "자고 있습니다",
+            "en": "I am sleeping",
+            "alts": [
+              "He is sleeping"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "Is This Yours?",
+        "items": [
+          {
+            "ko": "이것은 너의 것입니까?",
+            "en": "Is this yours?",
+            "alts": []
+          },
+          {
+            "ko": "저것들은 너의 것입니까?",
+            "en": "Are those yours?",
+            "alts": []
+          },
+          {
+            "ko": "이 사탕은 누구의 것입니까?",
+            "en": "Whose candy is this?",
+            "alts": []
+          },
+          {
+            "ko": "나는 모르겠습니다",
+            "en": "I don't know",
+            "alts": [
+              "I do not know"
+            ]
+          },
+          {
+            "ko": "이 휴대폰은 누구의 것입니까?",
+            "en": "Whose phone is this?",
+            "alts": []
+          },
+          {
+            "ko": "이 의자는 너의 것입니까?",
+            "en": "Is this chair yours?",
+            "alts": []
+          },
+          {
+            "ko": "이것은 누구의 쓰레기입니까?",
+            "en": "Whose garbage is this?",
+            "alts": []
+          },
+          {
+            "ko": "이 책은 너의 것입니까?",
+            "en": "Is this book yours?",
+            "alts": []
+          },
+          {
+            "ko": "저 책은 누구의 것입니까?",
+            "en": "Whose book is that?",
+            "alts": []
+          },
+          {
+            "ko": "이 돈은 너의 것입니까?",
+            "en": "Is this money yours?",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "What's Your Favorite?",
+        "items": [
+          {
+            "ko": "가장 좋아하는 동물은 무엇입니까?",
+            "en": "What is your favorite animal?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 계절은 무엇입니까?",
+            "en": "What is your favorite season?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 과일은 무엇입니까?",
+            "en": "What is your favorite fruit?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 게임은 무엇입니까?",
+            "en": "What is your favorite game?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 색깔은 무엇입니까?",
+            "en": "What is your favorite color?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 취미는 무엇입니까?",
+            "en": "What is your favorite hobby?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 음악은 무엇입니까?",
+            "en": "What is your favorite music?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 간식은 무엇입니까?",
+            "en": "What is your favorite snack?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 스포츠는 무엇입니까?",
+            "en": "What is your favorite sport?",
+            "alts": []
+          },
+          {
+            "ko": "가장 좋아하는 캐릭터는 무엇입니까?",
+            "en": "What is your favorite character?",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "How Are You Feeling?",
+        "items": [
+          {
+            "ko": "혼란스러운",
+            "en": "I am feeling confused",
+            "alts": [
+              "I feel confused"
+            ]
+          },
+          {
+            "ko": "쑥스러운",
+            "en": "I am feeling embarrassed",
+            "alts": [
+              "I feel embarrassed"
+            ]
+          },
+          {
+            "ko": "질투가 나는",
+            "en": "I am feeling jealous",
+            "alts": [
+              "I feel jealous"
+            ]
+          },
+          {
+            "ko": "놀란",
+            "en": "I am feeling surprised",
+            "alts": [
+              "I feel surprised"
+            ]
+          },
+          {
+            "ko": "자랑스러운",
+            "en": "I am feeling proud",
+            "alts": [
+              "I feel proud"
+            ]
+          },
+          {
+            "ko": "무시당한",
+            "en": "I am feeling ignored",
+            "alts": [
+              "I feel ignored"
+            ]
+          },
+          {
+            "ko": "환상적인",
+            "en": "I am feeling fantastic",
+            "alts": [
+              "I feel fantastic"
+            ]
+          },
+          {
+            "ko": "죄책감이 드는",
+            "en": "I am feeling guilty",
+            "alts": [
+              "I feel guilty"
+            ]
+          },
+          {
+            "ko": "긴장한",
+            "en": "I am feeling nervous",
+            "alts": [
+              "I feel nervous"
+            ]
+          },
+          {
+            "ko": "걱정하는",
+            "en": "I am feeling worried",
+            "alts": [
+              "I feel worried"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "What's Wrong?",
+        "items": [
+          {
+            "ko": "감기에 걸리다",
+            "en": "I have a cold",
+            "alts": []
+          },
+          {
+            "ko": "무릎이 아프다",
+            "en": "My knee hurts",
+            "alts": []
+          },
+          {
+            "ko": "두통이 있다",
+            "en": "I have a headache",
+            "alts": []
+          },
+          {
+            "ko": "등이 아프다",
+            "en": "My back hurts",
+            "alts": []
+          },
+          {
+            "ko": "목이 아프다",
+            "en": "I have a sore throat",
+            "alts": [
+              "My throat hurts"
+            ]
+          },
+          {
+            "ko": "열이 나다",
+            "en": "I have a fever",
+            "alts": []
+          },
+          {
+            "ko": "복통이 있다",
+            "en": "I have a stomachache",
+            "alts": []
+          },
+          {
+            "ko": "치아가 아프다",
+            "en": "My tooth hurts",
+            "alts": []
+          },
+          {
+            "ko": "코피가 나다",
+            "en": "I have a bloody nose",
+            "alts": [
+              "I have a nosebleed"
+            ]
+          },
+          {
+            "ko": "발목을 삐다",
+            "en": "I sprained my ankle",
+            "alts": [
+              "My ankle hurts"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "Phone English 1",
+        "items": [
+          {
+            "ko": "여보세요",
+            "en": "Hello",
+            "alts": []
+          },
+          {
+            "ko": "거기 범준 있습니까?",
+            "en": "Is Beomjun there?",
+            "alts": []
+          },
+          {
+            "ko": "누구십니까?",
+            "en": "Who is this?",
+            "alts": [
+              "Who is calling?"
+            ]
+          },
+          {
+            "ko": "저는 Mr. Jay입니다",
+            "en": "This is Mr. Jay",
+            "alts": [
+              "I am Mr. Jay"
+            ]
+          },
+          {
+            "ko": "안녕하세요, Mr. Jay",
+            "en": "Hello, Mr. Jay",
+            "alts": []
+          },
+          {
+            "ko": "죄송하지만 그는 외출 중입니다",
+            "en": "Sorry, he is out",
+            "alts": []
+          },
+          {
+            "ko": "그의 친구 태환에게 전화하세요",
+            "en": "Please call his friend Taehwan",
+            "alts": []
+          },
+          {
+            "ko": "그의 전화번호는 무엇입니까?",
+            "en": "What is his phone number?",
+            "alts": []
+          },
+          {
+            "ko": "그의 전화번호는 010 3457 7543입니다",
+            "en": "His phone number is 010 3457 7543",
+            "alts": []
+          },
+          {
+            "ko": "알겠어요, 감사합니다",
+            "en": "Okay, thank you",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "I'll Miss You",
+        "items": [
+          {
+            "ko": "Girlfriend Leaving",
+            "en": "I'll miss you",
+            "alts": [
+              "I will miss you"
+            ]
+          },
+          {
+            "ko": "Going overseas for a long time",
+            "en": "Take care",
+            "alts": []
+          },
+          {
+            "ko": "Starting military duty",
+            "en": "So long",
+            "alts": []
+          },
+          {
+            "ko": "Leaving a group first",
+            "en": "I am off",
+            "alts": []
+          },
+          {
+            "ko": "A teacher ending class",
+            "en": "Time to say goodbye",
+            "alts": [
+              "Time to say good-bye"
+            ]
+          },
+          {
+            "ko": "A friend who you see often leaving",
+            "en": "See you",
+            "alts": []
+          },
+          {
+            "ko": "Before a test",
+            "en": "Good luck",
+            "alts": []
+          },
+          {
+            "ko": "Leaving a friend working hard",
+            "en": "Take it easy",
+            "alts": []
+          },
+          {
+            "ko": "A nice thing to say to anybody",
+            "en": "Have a nice day",
+            "alts": []
+          },
+          {
+            "ko": "Need to go",
+            "en": "I must be going",
+            "alts": []
+          }
+        ]
+      }
+    ]
+  },
+  "int3a": {
+    "label": "Int 3A",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "I Can Draw a Monster",
+        "items": [
+          {
+            "ko": "WCYD? 원",
+            "en": "I can draw a circle",
+            "alts": []
+          },
+          {
+            "ko": "WCYD? 별",
+            "en": "I can draw a star",
+            "alts": []
+          },
+          {
+            "ko": "WCYD? 나무",
+            "en": "I can draw a tree",
+            "alts": []
+          },
+          {
+            "ko": "WCYD? 똥",
+            "en": "I can draw poo",
+            "alts": [
+              "I can draw poop"
+            ]
+          },
+          {
+            "ko": "WCYD? 깃발",
+            "en": "I can draw a flag",
+            "alts": []
+          },
+          {
+            "ko": "WCYD? 한국",
+            "en": "I can draw Korea",
+            "alts": []
+          },
+          {
+            "ko": "WCYD? 괴물",
+            "en": "I can draw a monster",
+            "alts": []
+          },
+          {
+            "ko": "WCYD? 사과",
+            "en": "I can draw an apple",
+            "alts": []
+          },
+          {
+            "ko": "WCYD? 모자",
+            "en": "I can draw a hat",
+            "alts": []
+          },
+          {
+            "ko": "WCYD? 장난감",
+            "en": "I can draw a toy",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "What Flavor Do You Like?",
+        "items": [
+          {
+            "ko": "WFDYL? 바닐라",
+            "en": "I like vanilla",
+            "alts": []
+          },
+          {
+            "ko": "WFDYL? 초콜릿",
+            "en": "I like chocolate",
+            "alts": []
+          },
+          {
+            "ko": "WFDYL? 딸기",
+            "en": "I like strawberry",
+            "alts": []
+          },
+          {
+            "ko": "WFDYL? 멜론",
+            "en": "I like melon",
+            "alts": []
+          },
+          {
+            "ko": "WFDYL? 민트",
+            "en": "I like mint",
+            "alts": []
+          },
+          {
+            "ko": "WFDYL? 바나나",
+            "en": "I like banana",
+            "alts": []
+          },
+          {
+            "ko": "WFDYL? 레몬",
+            "en": "I like lemon",
+            "alts": []
+          },
+          {
+            "ko": "WFDYL? 우유",
+            "en": "I like milk",
+            "alts": []
+          },
+          {
+            "ko": "WFDYL? 팥",
+            "en": "I like red bean",
+            "alts": [
+              "I like pat"
+            ]
+          },
+          {
+            "ko": "WFDYL? 솜사탕",
+            "en": "I like cotton candy",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "Opposites",
+        "items": [
+          {
+            "ko": "이것은 좋습니다",
+            "en": "This is good",
+            "alts": []
+          },
+          {
+            "ko": "저것은 나쁩니다",
+            "en": "That is bad",
+            "alts": []
+          },
+          {
+            "ko": "이것은 차갑습니다",
+            "en": "This is cold",
+            "alts": []
+          },
+          {
+            "ko": "저것은 뜨겁습니다",
+            "en": "That is hot",
+            "alts": []
+          },
+          {
+            "ko": "이것은 작습니다",
+            "en": "This is small",
+            "alts": []
+          },
+          {
+            "ko": "저것은 큽니다",
+            "en": "That is big",
+            "alts": []
+          },
+          {
+            "ko": "이것은 부드럽습니다",
+            "en": "This is soft",
+            "alts": []
+          },
+          {
+            "ko": "저것은 딱딱합니다",
+            "en": "That is hard",
+            "alts": []
+          },
+          {
+            "ko": "이것은 조용합니다",
+            "en": "This is quiet",
+            "alts": []
+          },
+          {
+            "ko": "저것은 시끄럽습니다",
+            "en": "That is loud",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "How Old is He?",
+        "items": [
+          {
+            "ko": "그는 15살입니다",
+            "en": "He is 15 years old",
+            "alts": [
+              "He is fifteen years old"
+            ]
+          },
+          {
+            "ko": "그녀는 27살입니다",
+            "en": "She is 27 years old",
+            "alts": [
+              "She is twenty-seven years old"
+            ]
+          },
+          {
+            "ko": "그는 5살입니다",
+            "en": "He is 5 years old",
+            "alts": [
+              "He is five years old"
+            ]
+          },
+          {
+            "ko": "그녀는 10살입니다",
+            "en": "She is 10 years old",
+            "alts": [
+              "She is ten years old"
+            ]
+          },
+          {
+            "ko": "그는 55살입니다",
+            "en": "He is 55 years old",
+            "alts": []
+          },
+          {
+            "ko": "그녀는 30살입니다",
+            "en": "She is 30 years old",
+            "alts": [
+              "She is thirty years old"
+            ]
+          },
+          {
+            "ko": "그는 100살입니다",
+            "en": "He is 100 years old",
+            "alts": [
+              "He is one hundred years old"
+            ]
+          },
+          {
+            "ko": "그녀는 39살입니다",
+            "en": "She is 39 years old",
+            "alts": []
+          },
+          {
+            "ko": "그는 1살입니다",
+            "en": "He is 1 year old",
+            "alts": [
+              "He is one year old"
+            ]
+          },
+          {
+            "ko": "그녀는 77살입니다",
+            "en": "She is 77 years old",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "What is This Bug?",
+        "items": [
+          {
+            "ko": "WITB? 나방",
+            "en": "It is a moth",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 지네",
+            "en": "It is a centipede",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 모기",
+            "en": "It is a mosquito",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 매미",
+            "en": "It is a cicada",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 거미",
+            "en": "It is a spider",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 바퀴벌레",
+            "en": "It is a cockroach",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 개미",
+            "en": "It is an ant",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 누에",
+            "en": "It is a silkworm",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 나비",
+            "en": "It is a butterfly",
+            "alts": []
+          },
+          {
+            "ko": "WITB? 반딧불이",
+            "en": "It is a firefly",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "How Will I Yell Your Name?",
+        "items": [
+          {
+            "ko": "HWIYN? 장미",
+            "en": "Rose",
+            "alts": []
+          },
+          {
+            "ko": "HWIYN? 붓꽃",
+            "en": "Iris",
+            "alts": []
+          },
+          {
+            "ko": "HWIYN? 사냥꾼",
+            "en": "Hunter",
+            "alts": []
+          },
+          {
+            "ko": "HWIYN? 생강",
+            "en": "Ginger",
+            "alts": []
+          },
+          {
+            "ko": "HWIYN? 가오리",
+            "en": "Stingray",
+            "alts": [
+              "Ray"
+            ]
+          },
+          {
+            "ko": "HWIYN? 마이크",
+            "en": "Mike",
+            "alts": []
+          },
+          {
+            "ko": "HWIYN? 담쟁이덩굴",
+            "en": "Ivy",
+            "alts": []
+          },
+          {
+            "ko": "HWIYN? 제빵사",
+            "en": "Baker",
+            "alts": []
+          },
+          {
+            "ko": "HWIYN? 백합",
+            "en": "Lily",
+            "alts": []
+          },
+          {
+            "ko": "HWIYN? 제비꽃",
+            "en": "Violet",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "Gym Class",
+        "items": [
+          {
+            "ko": "일어서!",
+            "en": "Stand up!",
+            "alts": []
+          },
+          {
+            "ko": "뛰어가!",
+            "en": "Run!",
+            "alts": []
+          },
+          {
+            "ko": "줄넘기 해!",
+            "en": "Jump rope!",
+            "alts": [
+              "Do jump rope!"
+            ]
+          },
+          {
+            "ko": "기어 올라가!",
+            "en": "Climb up!",
+            "alts": []
+          },
+          {
+            "ko": "박수 3번 쳐!",
+            "en": "Clap three times!",
+            "alts": []
+          },
+          {
+            "ko": "돌아!",
+            "en": "Turn around!",
+            "alts": []
+          },
+          {
+            "ko": "춤춰!",
+            "en": "Dance!",
+            "alts": []
+          },
+          {
+            "ko": "앉아!",
+            "en": "Sit down!",
+            "alts": []
+          },
+          {
+            "ko": "엎드려!",
+            "en": "Get down!",
+            "alts": [
+              "Lie down!"
+            ]
+          },
+          {
+            "ko": "점핑잭 해!",
+            "en": "Do jumping jacks!",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "Introduction",
+        "items": [
+          {
+            "ko": "나는 11살입니다",
+            "en": "I am 11 years old",
+            "alts": [
+              "I am eleven years old"
+            ]
+          },
+          {
+            "ko": "나는 18살입니다",
+            "en": "I am 18 years old",
+            "alts": [
+              "I am eighteen years old"
+            ]
+          },
+          {
+            "ko": "나는 노래하고 춤출 수 있습니다",
+            "en": "I can sing and dance",
+            "alts": []
+          },
+          {
+            "ko": "나는 그릴 수 있습니다",
+            "en": "I can draw",
+            "alts": []
+          },
+          {
+            "ko": "나는 개를 정말 좋아합니다",
+            "en": "I really like dogs",
+            "alts": []
+          },
+          {
+            "ko": "나는 음악을 좋아합니다",
+            "en": "I like music",
+            "alts": []
+          },
+          {
+            "ko": "너는 어디서 왔습니까?",
+            "en": "Where are you from?",
+            "alts": []
+          },
+          {
+            "ko": "나는 서울에서 왔습니다",
+            "en": "I am from Seoul",
+            "alts": []
+          },
+          {
+            "ko": "내 가족은 6명 있습니다",
+            "en": "There are six people in my family",
+            "alts": [
+              "I have six people in my family"
+            ]
+          },
+          {
+            "ko": "너는 무슨 학교에 갑니까?",
+            "en": "What school do you go to?",
+            "alts": []
+          }
+        ]
+      }
+    ]
+  },
+  "int3b": {
+    "label": "Int 3B",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "What Grade Are You In?",
+        "items": [
+          {
+            "ko": "WGAYI? 유치원",
+            "en": "I am in kindergarten",
+            "alts": []
+          },
+          {
+            "ko": "WGAYI? 1학년",
+            "en": "I am in first grade",
+            "alts": [
+              "I am in the first grade"
+            ]
+          },
+          {
+            "ko": "WGAYI? 2학년",
+            "en": "I am in second grade",
+            "alts": []
+          },
+          {
+            "ko": "WGAYI? 3학년",
+            "en": "I am in third grade",
+            "alts": []
+          },
+          {
+            "ko": "WGAYI? 4학년",
+            "en": "I am in fourth grade",
+            "alts": []
+          },
+          {
+            "ko": "WGAYI? 5학년",
+            "en": "I am in fifth grade",
+            "alts": []
+          },
+          {
+            "ko": "WGAYI? 6학년",
+            "en": "I am in sixth grade",
+            "alts": []
+          },
+          {
+            "ko": "WGAYI? 7학년",
+            "en": "I am in seventh grade",
+            "alts": []
+          },
+          {
+            "ko": "WGAYI? 8학년",
+            "en": "I am in eighth grade",
+            "alts": []
+          },
+          {
+            "ko": "WGAYI? 9학년",
+            "en": "I am in ninth grade",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "Is This a Gayageum?",
+        "items": [
+          {
+            "ko": "ITA? 기타",
+            "en": "It is a guitar",
+            "alts": [
+              "Is this a guitar?"
+            ]
+          },
+          {
+            "ko": "ITA? 피아노",
+            "en": "It is a piano",
+            "alts": []
+          },
+          {
+            "ko": "ITA? 플룻",
+            "en": "It is a flute",
+            "alts": []
+          },
+          {
+            "ko": "ITA? 드럼",
+            "en": "It is a drum",
+            "alts": [
+              "They are drums"
+            ]
+          },
+          {
+            "ko": "ITA? 바이올린",
+            "en": "It is a violin",
+            "alts": []
+          },
+          {
+            "ko": "ITA? 색소폰",
+            "en": "It is a saxophone",
+            "alts": []
+          },
+          {
+            "ko": "ITA? 전자레인지",
+            "en": "It is a microwave",
+            "alts": []
+          },
+          {
+            "ko": "ITA? 가야금",
+            "en": "It is a gayageum",
+            "alts": []
+          },
+          {
+            "ko": "ITA? 첼로",
+            "en": "It is a cello",
+            "alts": []
+          },
+          {
+            "ko": "ITA? 우쿨렐레",
+            "en": "It is a ukulele",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "Bigger Please!",
+        "items": [
+          {
+            "ko": "더 느리게 해주세요",
+            "en": "Slower please",
+            "alts": [
+              "Please speak slower"
+            ]
+          },
+          {
+            "ko": "더 따뜻하게 해주세요",
+            "en": "Warmer please",
+            "alts": []
+          },
+          {
+            "ko": "더 크게 해주세요",
+            "en": "Louder please",
+            "alts": [
+              "Bigger please"
+            ]
+          },
+          {
+            "ko": "더 높게 해주세요",
+            "en": "Higher please",
+            "alts": []
+          },
+          {
+            "ko": "더 시원하게 해주세요",
+            "en": "Cooler please",
+            "alts": []
+          },
+          {
+            "ko": "더 작게 해주세요",
+            "en": "Smaller please",
+            "alts": [
+              "Quieter please"
+            ]
+          },
+          {
+            "ko": "더 주세요",
+            "en": "More please",
+            "alts": []
+          },
+          {
+            "ko": "덜 주세요",
+            "en": "Less please",
+            "alts": []
+          },
+          {
+            "ko": "더 조용하게 해주세요",
+            "en": "Quieter please",
+            "alts": []
+          },
+          {
+            "ko": "더 시끄럽게 해주세요",
+            "en": "Louder please",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "Who is This?",
+        "items": [
+          {
+            "ko": "그녀는 너의 엄마입니까?",
+            "en": "Is she your mom?",
+            "alts": [
+              "Is she your mother?"
+            ]
+          },
+          {
+            "ko": "그녀는 너의 고모입니까?",
+            "en": "Is she your aunt?",
+            "alts": []
+          },
+          {
+            "ko": "그녀는 내 할머니입니다",
+            "en": "She is my grandmother",
+            "alts": []
+          },
+          {
+            "ko": "그녀는 내 여동생입니다",
+            "en": "She is my sister",
+            "alts": []
+          },
+          {
+            "ko": "그녀는 내 선생님입니다",
+            "en": "She is my teacher",
+            "alts": []
+          },
+          {
+            "ko": "그는 너의 아빠입니까?",
+            "en": "Is he your dad?",
+            "alts": [
+              "Is he your father?"
+            ]
+          },
+          {
+            "ko": "그는 너의 형입니까?",
+            "en": "Is he your brother?",
+            "alts": []
+          },
+          {
+            "ko": "그는 내 할아버지입니다",
+            "en": "He is my grandfather",
+            "alts": []
+          },
+          {
+            "ko": "그는 내 삼촌입니다",
+            "en": "He is my uncle",
+            "alts": []
+          },
+          {
+            "ko": "그는 저입니다",
+            "en": "He is me",
+            "alts": [
+              "That is me"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "Eat Up",
+        "items": [
+          {
+            "ko": "다 먹어!",
+            "en": "Eat up!",
+            "alts": [
+              "Eat everything!"
+            ]
+          },
+          {
+            "ko": "씻어!",
+            "en": "Wash up!",
+            "alts": [
+              "Wash!"
+            ]
+          },
+          {
+            "ko": "서둘러!",
+            "en": "Hurry up!",
+            "alts": []
+          },
+          {
+            "ko": "청소 해!",
+            "en": "Clean up!",
+            "alts": []
+          },
+          {
+            "ko": "속도를 낮춰!",
+            "en": "Slow down!",
+            "alts": []
+          },
+          {
+            "ko": "내려 놔!",
+            "en": "Put it down!",
+            "alts": []
+          },
+          {
+            "ko": "내려 와!",
+            "en": "Come down!",
+            "alts": []
+          },
+          {
+            "ko": "조용히 해!",
+            "en": "Be quiet!",
+            "alts": [
+              "Quiet!"
+            ]
+          },
+          {
+            "ko": "포기 해!",
+            "en": "Give up!",
+            "alts": []
+          },
+          {
+            "ko": "식히다!",
+            "en": "Cool it down!",
+            "alts": [
+              "Let it cool!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "What Fruit Are These?",
+        "items": [
+          {
+            "ko": "WFAT? 사과",
+            "en": "They are apples",
+            "alts": [
+              "It is an apple"
+            ]
+          },
+          {
+            "ko": "WFAT? 망고",
+            "en": "They are mangoes",
+            "alts": [
+              "It is a mango"
+            ]
+          },
+          {
+            "ko": "WFAT? 여지",
+            "en": "They are lychees",
+            "alts": [
+              "It is a lychee"
+            ]
+          },
+          {
+            "ko": "WFAT? 가시여지",
+            "en": "They are rambutans",
+            "alts": [
+              "It is a rambutan"
+            ]
+          },
+          {
+            "ko": "WFAT? 자몽",
+            "en": "They are grapefruits",
+            "alts": [
+              "It is a grapefruit"
+            ]
+          },
+          {
+            "ko": "WFAT? 망고스틴",
+            "en": "They are mangosteens",
+            "alts": [
+              "It is a mangosteen"
+            ]
+          },
+          {
+            "ko": "WFAT? 두리안",
+            "en": "They are durians",
+            "alts": [
+              "It is a durian"
+            ]
+          },
+          {
+            "ko": "WFAT? 레몬",
+            "en": "They are lemons",
+            "alts": [
+              "It is a lemon"
+            ]
+          },
+          {
+            "ko": "WFAT? 파인애플",
+            "en": "They are pineapples",
+            "alts": [
+              "It is a pineapple"
+            ]
+          },
+          {
+            "ko": "WFAT? 아보카도",
+            "en": "They are avocados",
+            "alts": [
+              "It is an avocado"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "Don't Forget Your Transit Card",
+        "items": [
+          {
+            "ko": "교통카드",
+            "en": "Don't forget your transit card",
+            "alts": []
+          },
+          {
+            "ko": "모자",
+            "en": "Don't forget your hat",
+            "alts": []
+          },
+          {
+            "ko": "외투",
+            "en": "Don't forget your coat",
+            "alts": []
+          },
+          {
+            "ko": "돈",
+            "en": "Don't forget your money",
+            "alts": []
+          },
+          {
+            "ko": "전화기",
+            "en": "Don't forget your phone",
+            "alts": []
+          },
+          {
+            "ko": "책가방",
+            "en": "Don't forget your backpack",
+            "alts": [
+              "Don't forget your school bag"
+            ]
+          },
+          {
+            "ko": "점심",
+            "en": "Don't forget your lunch",
+            "alts": []
+          },
+          {
+            "ko": "여동생",
+            "en": "Don't forget your little sister",
+            "alts": []
+          },
+          {
+            "ko": "우산",
+            "en": "Don't forget your umbrella",
+            "alts": []
+          },
+          {
+            "ko": "교과서",
+            "en": "Don't forget your textbook",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "Do You Like Korea?",
+        "items": [
+          {
+            "ko": "너는 어디서 왔습니까?",
+            "en": "Where are you from?",
+            "alts": []
+          },
+          {
+            "ko": "나는 캐나다에서 왔습니다",
+            "en": "I am from Canada",
+            "alts": []
+          },
+          {
+            "ko": "너는 키가 몇입니까?",
+            "en": "How tall are you?",
+            "alts": []
+          },
+          {
+            "ko": "나는 187cm입니다",
+            "en": "I am 187 centimeters tall",
+            "alts": [
+              "I am 187 cm tall"
+            ]
+          },
+          {
+            "ko": "너는 왜 한국에 왔습니까?",
+            "en": "Why did you come to Korea?",
+            "alts": []
+          },
+          {
+            "ko": "나는 영어 가르치려고 왔습니다",
+            "en": "I came to teach English",
+            "alts": []
+          },
+          {
+            "ko": "너는 무슨 한국 음식을 좋아합니까?",
+            "en": "What Korean food do you like?",
+            "alts": []
+          },
+          {
+            "ko": "나는 김밥을 좋아합니다!",
+            "en": "I like gimbap!",
+            "alts": [
+              "I love gimbap!"
+            ]
+          },
+          {
+            "ko": "너는 몸무게가 몇입니까?",
+            "en": "How much do you weigh?",
+            "alts": []
+          },
+          {
+            "ko": "그것은 비밀입니다!",
+            "en": "That is a secret!",
+            "alts": []
+          }
+        ]
+      }
+    ]
+  },
+  "int3c": {
+    "label": "Int 3C",
+    "units": [
+      {
+        "id": "unit01",
+        "title": "Do You Like Sweet Food?",
+        "items": [
+          {
+            "ko": "너는 달콤한 음식을 좋아합니까?",
+            "en": "Do you like sweet food?",
+            "alts": []
+          },
+          {
+            "ko": "떡 먹어보세요",
+            "en": "Try ddeok",
+            "alts": [
+              "Try rice cake"
+            ]
+          },
+          {
+            "ko": "그것은 끈적한 쌀 후식입니다",
+            "en": "It is a sticky rice dessert",
+            "alts": []
+          },
+          {
+            "ko": "너는 짠 음식을 좋아합니까?",
+            "en": "Do you like salty food?",
+            "alts": []
+          },
+          {
+            "ko": "된장국 먹어보세요",
+            "en": "Try doenjang guk",
+            "alts": [
+              "Try soybean paste soup"
+            ]
+          },
+          {
+            "ko": "그것은 된장찌개입니다",
+            "en": "It is doenjang jjigae",
+            "alts": [
+              "It is soybean paste stew"
+            ]
+          },
+          {
+            "ko": "너는 신 음식을 좋아합니까?",
+            "en": "Do you like sour food?",
+            "alts": []
+          },
+          {
+            "ko": "이거 먹어보세요",
+            "en": "Try this",
+            "alts": []
+          },
+          {
+            "ko": "그것은 무엇입니까?",
+            "en": "What is it?",
+            "alts": [
+              "What is this?"
+            ]
+          },
+          {
+            "ko": "나는 모릅니다",
+            "en": "I don't know",
+            "alts": [
+              "I do not know"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit02",
+        "title": "Do Not Yell",
+        "items": [
+          {
+            "ko": "뛰지 마",
+            "en": "Don't run",
+            "alts": [
+              "Do not run"
+            ]
+          },
+          {
+            "ko": "소리 지르지 마",
+            "en": "Don't yell",
+            "alts": [
+              "Do not yell"
+            ]
+          },
+          {
+            "ko": "그것을 열지 마",
+            "en": "Don't open it",
+            "alts": [
+              "Do not open it"
+            ]
+          },
+          {
+            "ko": "그것을 당기지 마",
+            "en": "Don't pull it",
+            "alts": [
+              "Do not pull it"
+            ]
+          },
+          {
+            "ko": "자지 마",
+            "en": "Don't sleep",
+            "alts": [
+              "Do not sleep"
+            ]
+          },
+          {
+            "ko": "저것을 던지지 마",
+            "en": "Don't throw that",
+            "alts": [
+              "Do not throw that"
+            ]
+          },
+          {
+            "ko": "여기에 그르지 마",
+            "en": "Don't burp here",
+            "alts": [
+              "Do not burp here"
+            ]
+          },
+          {
+            "ko": "싸우지 마",
+            "en": "Don't fight",
+            "alts": [
+              "Do not fight"
+            ]
+          },
+          {
+            "ko": "만지지 마",
+            "en": "Don't touch",
+            "alts": [
+              "Do not touch"
+            ]
+          },
+          {
+            "ko": "울지 마",
+            "en": "Don't cry",
+            "alts": [
+              "Do not cry"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit03",
+        "title": "Can I Play Outside?",
+        "items": [
+          {
+            "ko": "CIPO? 드레스",
+            "en": "Can I wear a dress?",
+            "alts": [
+              "Put on a dress"
+            ]
+          },
+          {
+            "ko": "CIPO? 셔츠",
+            "en": "Can I wear a shirt?",
+            "alts": [
+              "Put on a shirt"
+            ]
+          },
+          {
+            "ko": "CIPO? 바지",
+            "en": "Can I wear pants?",
+            "alts": [
+              "Put on pants"
+            ]
+          },
+          {
+            "ko": "CIPO? 양말",
+            "en": "Can I wear socks?",
+            "alts": [
+              "Put on socks"
+            ]
+          },
+          {
+            "ko": "CIPO? 외투",
+            "en": "Can I wear a coat?",
+            "alts": [
+              "Put on a coat"
+            ]
+          },
+          {
+            "ko": "CIPO? 장갑",
+            "en": "Can I wear gloves?",
+            "alts": [
+              "Put on gloves"
+            ]
+          },
+          {
+            "ko": "CIPO? 신발",
+            "en": "Can I wear shoes?",
+            "alts": [
+              "Put on shoes"
+            ]
+          },
+          {
+            "ko": "CIPO? 치마",
+            "en": "Can I wear a skirt?",
+            "alts": [
+              "Put on a skirt"
+            ]
+          },
+          {
+            "ko": "CIPO? 모자",
+            "en": "Can I wear a hat?",
+            "alts": [
+              "Put on a hat"
+            ]
+          },
+          {
+            "ko": "CIPO? 안경",
+            "en": "Can I wear glasses?",
+            "alts": [
+              "Put on glasses"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit04",
+        "title": "Let's Play an RPG",
+        "items": [
+          {
+            "ko": "학교에 갑시다",
+            "en": "Let's go to school",
+            "alts": []
+          },
+          {
+            "ko": "노래를 부릅시다",
+            "en": "Let's sing",
+            "alts": []
+          },
+          {
+            "ko": "축구를 합시다",
+            "en": "Let's play soccer",
+            "alts": []
+          },
+          {
+            "ko": "정글짐을 올라갑시다",
+            "en": "Let's climb the jungle gym",
+            "alts": []
+          },
+          {
+            "ko": "TV를 봅시다",
+            "en": "Let's watch TV",
+            "alts": []
+          },
+          {
+            "ko": "요리합시다",
+            "en": "Let's cook",
+            "alts": []
+          },
+          {
+            "ko": "이야기합시다",
+            "en": "Let's talk",
+            "alts": [
+              "Let's tell a story"
+            ]
+          },
+          {
+            "ko": "자전거 탑시다",
+            "en": "Let's ride bikes",
+            "alts": []
+          },
+          {
+            "ko": "RPG 게임 합시다",
+            "en": "Let's play an RPG",
+            "alts": []
+          },
+          {
+            "ko": "공부합시다",
+            "en": "Let's study",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit05",
+        "title": "What Do You Have?",
+        "items": [
+          {
+            "ko": "WDYH? 연필",
+            "en": "I have a pencil",
+            "alts": []
+          },
+          {
+            "ko": "WDYH? 모자",
+            "en": "I have a hat",
+            "alts": []
+          },
+          {
+            "ko": "WDYH? 필통",
+            "en": "I have a pencil case",
+            "alts": []
+          },
+          {
+            "ko": "WDYH? 신문",
+            "en": "I have a newspaper",
+            "alts": []
+          },
+          {
+            "ko": "WDYH? 책",
+            "en": "I have a book",
+            "alts": []
+          },
+          {
+            "ko": "WDYH? 퍼즐",
+            "en": "I have a puzzle",
+            "alts": []
+          },
+          {
+            "ko": "WDYH? 체스판",
+            "en": "I have a chessboard",
+            "alts": [
+              "I have a chess board"
+            ]
+          },
+          {
+            "ko": "WDYH? 휴대폰",
+            "en": "I have a phone",
+            "alts": []
+          },
+          {
+            "ko": "WDYH? 베개",
+            "en": "I have a pillow",
+            "alts": []
+          },
+          {
+            "ko": "WDYH? 컵",
+            "en": "I have a cup",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit06",
+        "title": "How Many Cities?",
+        "items": [
+          {
+            "ko": "도시",
+            "en": "How many cities are there?",
+            "alts": []
+          },
+          {
+            "ko": "지방",
+            "en": "How many provinces are there?",
+            "alts": []
+          },
+          {
+            "ko": "국립공원",
+            "en": "How many national parks are there?",
+            "alts": []
+          },
+          {
+            "ko": "섬",
+            "en": "How many islands are there?",
+            "alts": []
+          },
+          {
+            "ko": "화산",
+            "en": "How many volcanoes are there?",
+            "alts": []
+          },
+          {
+            "ko": "사막",
+            "en": "How many deserts are there?",
+            "alts": []
+          },
+          {
+            "ko": "사람",
+            "en": "How many people are there?",
+            "alts": []
+          },
+          {
+            "ko": "산",
+            "en": "How many mountains are there?",
+            "alts": []
+          },
+          {
+            "ko": "호랑이",
+            "en": "How many tigers are there?",
+            "alts": []
+          },
+          {
+            "ko": "학생",
+            "en": "How many students are there?",
+            "alts": []
+          }
+        ]
+      },
+      {
+        "id": "unit07",
+        "title": "Can You Fly?",
+        "items": [
+          {
+            "ko": "춤추다",
+            "en": "Yes, I can dance",
+            "alts": [
+              "I can dance"
+            ]
+          },
+          {
+            "ko": "뛰다",
+            "en": "Yes, I can jump",
+            "alts": [
+              "I can jump"
+            ]
+          },
+          {
+            "ko": "노래하다",
+            "en": "Yes, I can sing",
+            "alts": [
+              "I can sing"
+            ]
+          },
+          {
+            "ko": "싸우다",
+            "en": "No, I cannot fight",
+            "alts": [
+              "I cannot fight"
+            ]
+          },
+          {
+            "ko": "타자를 치다",
+            "en": "Yes, I can type",
+            "alts": [
+              "I can type"
+            ]
+          },
+          {
+            "ko": "걷다",
+            "en": "Yes, I can walk",
+            "alts": [
+              "I can walk"
+            ]
+          },
+          {
+            "ko": "요리하다",
+            "en": "Yes, I can cook",
+            "alts": [
+              "I can cook"
+            ]
+          },
+          {
+            "ko": "날다",
+            "en": "No, I cannot fly",
+            "alts": [
+              "I cannot fly"
+            ]
+          },
+          {
+            "ko": "사랑하다",
+            "en": "Yes, I can love",
+            "alts": [
+              "I can love"
+            ]
+          },
+          {
+            "ko": "달리다",
+            "en": "Yes, I can run",
+            "alts": [
+              "I can run"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit08",
+        "title": "What Time is it?",
+        "items": [
+          {
+            "ko": "WTII? 1시",
+            "en": "It is one o'clock",
+            "alts": [
+              "It is 1 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 5시",
+            "en": "It is five o'clock",
+            "alts": [
+              "It is 5 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 6시",
+            "en": "It is six o'clock",
+            "alts": [
+              "It is 6 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 7시",
+            "en": "It is seven o'clock",
+            "alts": [
+              "It is 7 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 8시",
+            "en": "It is eight o'clock",
+            "alts": [
+              "It is 8 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 9시",
+            "en": "It is nine o'clock",
+            "alts": [
+              "It is 9 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 10시",
+            "en": "It is ten o'clock",
+            "alts": [
+              "It is 10 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 11시",
+            "en": "It is eleven o'clock",
+            "alts": [
+              "It is 11 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 12시",
+            "en": "It is twelve o'clock",
+            "alts": [
+              "It is 12 o'clock"
+            ]
+          },
+          {
+            "ko": "WTII? 2시",
+            "en": "It is two o'clock",
+            "alts": [
+              "It is 2 o'clock"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

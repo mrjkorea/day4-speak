@@ -1,6 +1,6 @@
 # Day 4 Speak — STATUS
 
-**App:** MRJ Day 4 Speaking (Basic A / B / C)  
+**App:** MRJ Day 4 Speaking (all 9 Conversation books)  
 **Repo:** `mrjkorea/day4-speak`  
 **Built:** 2026-09-18 (KST)  
 **Live:** https://mrjkorea.github.io/day4-speak/
@@ -9,47 +9,48 @@
 
 | | |
 |---|---|
-| Books | 3 (Basic A, Basic B, Basic C) |
-| Units | 24 (8 per book) |
-| Items | 236 |
-| Audio mp3 | 236 (100% coverage) |
+| Books | **9** (Basic A/B/C · Int 2A/2B/2C · Int 3A/3B/3C) |
+| Units | **72** (8 per book) |
+| Items | **716** |
+| Coach Ray mp3 | **716** (100% coverage · full replace) |
 
-### Audio sources
+### Per book
 
-| Source | Count | Notes |
+| Book | Units | Items |
 |---|---|---|
-| day6-student (reuse) | 173 | Fish Day6 student target lines |
-| day5-stu (reuse) | 9 | Day5 kid student slots |
-| day5-listen (reuse) | 8 | Day5 listen clips |
-| fish-maya-baked (new) | 46 | Maya kid voice `[cheerful kid…]` |
+| Basic A | 8 | 76 |
+| Basic B | 8 | 80 |
+| Basic C | 8 | 80 |
+| Int 2A | 8 | 80 |
+| Int 2B | 8 | 80 |
+| Int 2C | 8 | 80 |
+| Int 3A | 8 | 80 |
+| Int 3B | 8 | 80 |
+| Int 3C | 8 | 80 |
 
-Reuse total: **190** · Baked new: **46**  
-No Web Speech Synthesis required for playback (mp3 for every item). Browser TTS remains a runtime fallback if an mp3 fails to load.
+### Voice lock
 
-## Scoring (v1)
+- **Coach Ray** Fish id `76bb6ae7b26c41fbbd484514fdb014c2`
+- Every English playback line baked with `[emotion]` tags via `fish-pack/make_voice.py` (`--voice ray`)
+- **Zero Jay cards** — no Jay teacher voice on Day 4 model audio
+- Prior Maya / day5-stu / day6-student clips **removed and replaced** (716 new Coach Ray bakes, 0 fail, ~19 min)
 
-- **API:** Web Speech API `SpeechRecognition` / `webkitSpeechRecognition` (Chrome recommended)
-- **Compare:** normalize case/punct → max(Levenshtein char similarity, word-overlap)
-- **Pass:** ≥ **80%**
-- Accepts `alts` (e.g. `I am 10` for `I am ten years old`)
-- No external pronunciation API wired (none found on box for MRJ); Web Speech is v1
+### Scoring (v1)
 
-## UX
+- Web Speech API · ≥ **80%** · Levenshtein + word overlap · `alts` accepted
+- Unit record → `localStorage` + downloadable JSON
 
-1. Show Korean cue (English hidden)
-2. Tap cue → play English mp3
-3. Mic → speak English
-4. Score ≥80 → reveal English, auto-next
-5. Unit done → score summary; `localStorage` + downloadable JSON  
-   `// TODO: Score Dashboard hook` in `js/app.js`
+### UX
 
-## Content sources
+1. Korean cue (English hidden) → tap → Coach Ray English mp3  
+2. Mic → speak English → ≥80 → reveal + next  
+3. Unit done → score summary
 
-- Print-offs: `BASIC_{A,B,C}-PRINTOFF.md` Day4 CP Sign pages
-- English targets inferred from Day6 QA + unit vocab packs
-- Intermediate books: **out of scope** (later)
+### Content sources
 
-## Deploy notes
+- Print-offs: `BASIC_{A,B,C}` + `INT{2A,2B,2C,3A,3B,3C}-PRINTOFF.md` Day4 CP Sign pages
+- Vocab cross-check: `conv-youtube/int-packs/*_UNIT_VOCAB.md`
 
-- GitHub Pages from `main` / root
-- Zero CloudAgent; local `gh` only
+### Deploy
+
+- GitHub Pages from `main` / root · local `gh` only · no CloudAgent

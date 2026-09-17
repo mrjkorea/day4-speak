@@ -1,4 +1,4 @@
-/* Day 4 Speak — MRJ Basic A/B/C */
+/* Day 4 Speak — MRJ all 9 books · Coach Ray model audio */
 (function () {
   const PASS = 80;
   const STORAGE_KEY = "mrj_day4_speak_records_v1";

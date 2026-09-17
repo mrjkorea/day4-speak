@@ -1,0 +1,4298 @@
+[
+  {
+    "text": "[energetic coach, clear and encouraging] one",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__01__one.mp3",
+    "en": "one",
+    "id": "basic_a__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] two",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__02__two.mp3",
+    "en": "two",
+    "id": "basic_a__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] three",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__03__three.mp3",
+    "en": "three",
+    "id": "basic_a__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] four",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__04__four.mp3",
+    "en": "four",
+    "id": "basic_a__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] five",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__05__five.mp3",
+    "en": "five",
+    "id": "basic_a__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] six",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__06__six.mp3",
+    "en": "six",
+    "id": "basic_a__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] seven",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__07__seven.mp3",
+    "en": "seven",
+    "id": "basic_a__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] eight",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__08__eight.mp3",
+    "en": "eight",
+    "id": "basic_a__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] nine",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__09__nine.mp3",
+    "en": "nine",
+    "id": "basic_a__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] ten",
+    "out": "/workspace/day4-speak/audio/basic_a__unit01__10__ten.mp3",
+    "en": "ten",
+    "id": "basic_a__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Hello, Mr. Cat",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__01__hello_mr_cat.mp3",
+    "en": "Hello, Mr. Cat",
+    "id": "basic_a__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] Hello, Mr. Dog",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__02__hello_mr_dog.mp3",
+    "en": "Hello, Mr. Dog",
+    "id": "basic_a__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Hello, Mr. Cow",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__03__hello_mr_cow.mp3",
+    "en": "Hello, Mr. Cow",
+    "id": "basic_a__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] Hello, Mr. Horse",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__04__hello_mr_horse.mp3",
+    "en": "Hello, Mr. Horse",
+    "id": "basic_a__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Hello, Ms. Chicken",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__05__hello_ms_chicken.mp3",
+    "en": "Hello, Ms. Chicken",
+    "id": "basic_a__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] Hello, Ms. Goat",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__06__hello_ms_goat.mp3",
+    "en": "Hello, Ms. Goat",
+    "id": "basic_a__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Hello, Ms. Pig",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__07__hello_ms_pig.mp3",
+    "en": "Hello, Ms. Pig",
+    "id": "basic_a__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] Hello, Mrs. Sheep",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__08__hello_mrs_sheep.mp3",
+    "en": "Hello, Mrs. Sheep",
+    "id": "basic_a__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Hello, Mrs. Duck",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__09__hello_mrs_duck.mp3",
+    "en": "Hello, Mrs. Duck",
+    "id": "basic_a__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] Hello, Mrs. Spider",
+    "out": "/workspace/day4-speak/audio/basic_a__unit02__10__hello_mrs_spider.mp3",
+    "en": "Hello, Mrs. Spider",
+    "id": "basic_a__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Unplug your headset",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__01__unplug_your_headset.mp3",
+    "en": "Unplug your headset",
+    "id": "basic_a__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] Scroll down",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__02__scroll_down.mp3",
+    "en": "Scroll down",
+    "id": "basic_a__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Type your ID",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__03__type_your_id.mp3",
+    "en": "Type your ID",
+    "id": "basic_a__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] Make a new tab",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__04__make_a_new_tab.mp3",
+    "en": "Make a new tab",
+    "id": "basic_a__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Left click",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__05__left_click.mp3",
+    "en": "Left click",
+    "id": "basic_a__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] Right click",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__06__right_click.mp3",
+    "en": "Right click",
+    "id": "basic_a__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Double click",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__07__double_click.mp3",
+    "en": "Double click",
+    "id": "basic_a__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] Don't click on X",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__08__don_t_click_on_x.mp3",
+    "en": "Don't click on X",
+    "id": "basic_a__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Restart your computer",
+    "out": "/workspace/day4-speak/audio/basic_a__unit03__09__restart_your_computer.mp3",
+    "en": "Restart your computer",
+    "id": "basic_a__unit03__09"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Good afternoon",
+    "out": "/workspace/day4-speak/audio/basic_a__unit04__01__good_afternoon.mp3",
+    "en": "Good afternoon",
+    "id": "basic_a__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] See you tomorrow",
+    "out": "/workspace/day4-speak/audio/basic_a__unit04__02__see_you_tomorrow.mp3",
+    "en": "See you tomorrow",
+    "id": "basic_a__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Sorry",
+    "out": "/workspace/day4-speak/audio/basic_a__unit04__03__sorry.mp3",
+    "en": "Sorry",
+    "id": "basic_a__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] Pardon?",
+    "out": "/workspace/day4-speak/audio/basic_a__unit04__04__pardon.mp3",
+    "en": "Pardon?",
+    "id": "basic_a__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Help me please",
+    "out": "/workspace/day4-speak/audio/basic_a__unit04__05__help_me_please.mp3",
+    "en": "Help me please",
+    "id": "basic_a__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] Quiet!",
+    "out": "/workspace/day4-speak/audio/basic_a__unit04__06__quiet.mp3",
+    "en": "Quiet!",
+    "id": "basic_a__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Wait!",
+    "out": "/workspace/day4-speak/audio/basic_a__unit04__07__wait.mp3",
+    "en": "Wait!",
+    "id": "basic_a__unit04__07"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my mom",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__01__this_is_my_mom.mp3",
+    "en": "This is my mom",
+    "id": "basic_a__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] This is my dad",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__02__this_is_my_dad.mp3",
+    "en": "This is my dad",
+    "id": "basic_a__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is my sister",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__03__this_is_my_sister.mp3",
+    "en": "This is my sister",
+    "id": "basic_a__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] This is my brother",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__04__this_is_my_brother.mp3",
+    "en": "This is my brother",
+    "id": "basic_a__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my uncle",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__05__this_is_my_uncle.mp3",
+    "en": "This is my uncle",
+    "id": "basic_a__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] This is my aunt",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__06__this_is_my_aunt.mp3",
+    "en": "This is my aunt",
+    "id": "basic_a__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is my grandmother",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__07__this_is_my_grandmother.mp3",
+    "en": "This is my grandmother",
+    "id": "basic_a__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] This is my cousin",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__08__this_is_my_cousin.mp3",
+    "en": "This is my cousin",
+    "id": "basic_a__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my nephew",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__09__this_is_my_nephew.mp3",
+    "en": "This is my nephew",
+    "id": "basic_a__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] This is my grandson",
+    "out": "/workspace/day4-speak/audio/basic_a__unit05__10__this_is_my_grandson.mp3",
+    "en": "This is my grandson",
+    "id": "basic_a__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a desk",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__01__it_is_a_desk.mp3",
+    "en": "It is a desk",
+    "id": "basic_a__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is a gym ball",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__02__it_is_a_gym_ball.mp3",
+    "en": "It is a gym ball",
+    "id": "basic_a__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is a mouse",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__03__it_is_a_mouse.mp3",
+    "en": "It is a mouse",
+    "id": "basic_a__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is a keyboard",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__04__it_is_a_keyboard.mp3",
+    "en": "It is a keyboard",
+    "id": "basic_a__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a monitor",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__05__it_is_a_monitor.mp3",
+    "en": "It is a monitor",
+    "id": "basic_a__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is a headset",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__06__it_is_a_headset.mp3",
+    "en": "It is a headset",
+    "id": "basic_a__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is a cube",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__07__it_is_a_cube.mp3",
+    "en": "It is a cube",
+    "id": "basic_a__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is a clipboard",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__08__it_is_a_clipboard.mp3",
+    "en": "It is a clipboard",
+    "id": "basic_a__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a pen",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__09__it_is_a_pen.mp3",
+    "en": "It is a pen",
+    "id": "basic_a__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is a book",
+    "out": "/workspace/day4-speak/audio/basic_a__unit06__10__it_is_a_book.mp3",
+    "en": "It is a book",
+    "id": "basic_a__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I can dance",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__01__i_can_dance.mp3",
+    "en": "I can dance",
+    "id": "basic_a__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] I can run fast",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__02__i_can_run_fast.mp3",
+    "en": "I can run fast",
+    "id": "basic_a__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I can sing",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__03__i_can_sing.mp3",
+    "en": "I can sing",
+    "id": "basic_a__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] I can do taekwondo",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__04__i_can_do_taekwondo.mp3",
+    "en": "I can do taekwondo",
+    "id": "basic_a__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I can play the piano",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__05__i_can_play_the_piano.mp3",
+    "en": "I can play the piano",
+    "id": "basic_a__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] I can draw",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__06__i_can_draw.mp3",
+    "en": "I can draw",
+    "id": "basic_a__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I can speak Chinese",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__07__i_can_speak_chinese.mp3",
+    "en": "I can speak Chinese",
+    "id": "basic_a__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] I can do magic",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__08__i_can_do_magic.mp3",
+    "en": "I can do magic",
+    "id": "basic_a__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I can study",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__09__i_can_study.mp3",
+    "en": "I can study",
+    "id": "basic_a__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] I can eat",
+    "out": "/workspace/day4-speak/audio/basic_a__unit07__10__i_can_eat.mp3",
+    "en": "I can eat",
+    "id": "basic_a__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] one hundred",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__01__one_hundred.mp3",
+    "en": "one hundred",
+    "id": "basic_a__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] ninety-nine",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__02__ninety_nine.mp3",
+    "en": "ninety-nine",
+    "id": "basic_a__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] ninety-seven",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__03__ninety_seven.mp3",
+    "en": "ninety-seven",
+    "id": "basic_a__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] fifty-five",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__04__fifty_five.mp3",
+    "en": "fifty-five",
+    "id": "basic_a__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] thirty-three",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__05__thirty_three.mp3",
+    "en": "thirty-three",
+    "id": "basic_a__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] twenty-two",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__06__twenty_two.mp3",
+    "en": "twenty-two",
+    "id": "basic_a__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] fifteen",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__07__fifteen.mp3",
+    "en": "fifteen",
+    "id": "basic_a__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] thirteen",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__08__thirteen.mp3",
+    "en": "thirteen",
+    "id": "basic_a__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] twelve",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__09__twelve.mp3",
+    "en": "twelve",
+    "id": "basic_a__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] eleven",
+    "out": "/workspace/day4-speak/audio/basic_a__unit08__10__eleven.mp3",
+    "en": "eleven",
+    "id": "basic_a__unit08__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am happy",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__01__i_am_happy.mp3",
+    "en": "I am happy",
+    "id": "basic_b__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] I am sad",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__02__i_am_sad.mp3",
+    "en": "I am sad",
+    "id": "basic_b__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am angry",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__03__i_am_angry.mp3",
+    "en": "I am angry",
+    "id": "basic_b__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] I am hungry",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__04__i_am_hungry.mp3",
+    "en": "I am hungry",
+    "id": "basic_b__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am tired",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__05__i_am_tired.mp3",
+    "en": "I am tired",
+    "id": "basic_b__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] I am bored",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__06__i_am_bored.mp3",
+    "en": "I am bored",
+    "id": "basic_b__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am scared",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__07__i_am_scared.mp3",
+    "en": "I am scared",
+    "id": "basic_b__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] I am sick",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__08__i_am_sick.mp3",
+    "en": "I am sick",
+    "id": "basic_b__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am worried",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__09__i_am_worried.mp3",
+    "en": "I am worried",
+    "id": "basic_b__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] I am sleepy",
+    "out": "/workspace/day4-speak/audio/basic_b__unit01__10__i_am_sleepy.mp3",
+    "en": "I am sleepy",
+    "id": "basic_b__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I like noodles",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__01__i_like_noodles.mp3",
+    "en": "I like noodles",
+    "id": "basic_b__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] I like meat",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__02__i_like_meat.mp3",
+    "en": "I like meat",
+    "id": "basic_b__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I like fruit",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__03__i_like_fruit.mp3",
+    "en": "I like fruit",
+    "id": "basic_b__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] I like games",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__04__i_like_games.mp3",
+    "en": "I like games",
+    "id": "basic_b__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I like school",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__05__i_like_school.mp3",
+    "en": "I like school",
+    "id": "basic_b__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] I like exercise",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__06__i_like_exercise.mp3",
+    "en": "I like exercise",
+    "id": "basic_b__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I like movies",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__07__i_like_movies.mp3",
+    "en": "I like movies",
+    "id": "basic_b__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] I like music",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__08__i_like_music.mp3",
+    "en": "I like music",
+    "id": "basic_b__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I like you",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__09__i_like_you.mp3",
+    "en": "I like you",
+    "id": "basic_b__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] I like apples",
+    "out": "/workspace/day4-speak/audio/basic_b__unit02__10__i_like_apples.mp3",
+    "en": "I like apples",
+    "id": "basic_b__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Again!",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__01__again.mp3",
+    "en": "Again!",
+    "id": "basic_b__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] Recycle this!",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__02__recycle_this.mp3",
+    "en": "Recycle this!",
+    "id": "basic_b__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Trash this!",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__03__trash_this.mp3",
+    "en": "Trash this!",
+    "id": "basic_b__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] Don't do that!",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__04__don_t_do_that.mp3",
+    "en": "Don't do that!",
+    "id": "basic_b__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Thank you",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__05__thank_you.mp3",
+    "en": "Thank you",
+    "id": "basic_b__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] Excuse me",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__06__excuse_me.mp3",
+    "en": "Excuse me",
+    "id": "basic_b__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I do not understand",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__07__i_do_not_understand.mp3",
+    "en": "I do not understand",
+    "id": "basic_b__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] I do not know",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__08__i_do_not_know.mp3",
+    "en": "I do not know",
+    "id": "basic_b__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Help me please",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__09__help_me_please.mp3",
+    "en": "Help me please",
+    "id": "basic_b__unit03__09"
+  },
+  {
+    "text": "[friendly coach, clear] Quiet!",
+    "out": "/workspace/day4-speak/audio/basic_b__unit03__10__quiet.mp3",
+    "en": "Quiet!",
+    "id": "basic_b__unit03__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Rock wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__01__rock_wins.mp3",
+    "en": "Rock wins",
+    "id": "basic_b__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] Paper wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__02__paper_wins.mp3",
+    "en": "Paper wins",
+    "id": "basic_b__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Scissors wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__03__scissors_wins.mp3",
+    "en": "Scissors wins",
+    "id": "basic_b__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] Rock wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__04__rock_wins.mp3",
+    "en": "Rock wins",
+    "id": "basic_b__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Paper wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__05__paper_wins.mp3",
+    "en": "Paper wins",
+    "id": "basic_b__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] Scissors wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__06__scissors_wins.mp3",
+    "en": "Scissors wins",
+    "id": "basic_b__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Rock wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__07__rock_wins.mp3",
+    "en": "Rock wins",
+    "id": "basic_b__unit04__07"
+  },
+  {
+    "text": "[clear coach, let's go] Paper wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__08__paper_wins.mp3",
+    "en": "Paper wins",
+    "id": "basic_b__unit04__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Scissors wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__09__scissors_wins.mp3",
+    "en": "Scissors wins",
+    "id": "basic_b__unit04__09"
+  },
+  {
+    "text": "[friendly coach, clear] Rock wins",
+    "out": "/workspace/day4-speak/audio/basic_b__unit04__10__rock_wins.mp3",
+    "en": "Rock wins",
+    "id": "basic_b__unit04__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a book",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__01__it_is_a_book.mp3",
+    "en": "It is a book",
+    "id": "basic_b__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] It was a phone charger",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__02__it_was_a_phone_charger.mp3",
+    "en": "It was a phone charger",
+    "id": "basic_b__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It was a sock",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__03__it_was_a_sock.mp3",
+    "en": "It was a sock",
+    "id": "basic_b__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is a toy",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__04__it_is_a_toy.mp3",
+    "en": "It is a toy",
+    "id": "basic_b__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is underwear",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__05__it_is_underwear.mp3",
+    "en": "It is underwear",
+    "id": "basic_b__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] It was a toothbrush",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__06__it_was_a_toothbrush.mp3",
+    "en": "It was a toothbrush",
+    "id": "basic_b__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is a night light",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__07__it_is_a_night_light.mp3",
+    "en": "It is a night light",
+    "id": "basic_b__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] It was a teddy bear",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__08__it_was_a_teddy_bear.mp3",
+    "en": "It was a teddy bear",
+    "id": "basic_b__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It was an apple",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__09__it_was_an_apple.mp3",
+    "en": "It was an apple",
+    "id": "basic_b__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is a bag",
+    "out": "/workspace/day4-speak/audio/basic_b__unit05__10__it_is_a_bag.mp3",
+    "en": "It is a bag",
+    "id": "basic_b__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my head",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__01__this_is_my_head.mp3",
+    "en": "This is my head",
+    "id": "basic_b__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] This is my nose",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__02__this_is_my_nose.mp3",
+    "en": "This is my nose",
+    "id": "basic_b__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is my mouth",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__03__this_is_my_mouth.mp3",
+    "en": "This is my mouth",
+    "id": "basic_b__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] This is my ear",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__04__this_is_my_ear.mp3",
+    "en": "This is my ear",
+    "id": "basic_b__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my eye",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__05__this_is_my_eye.mp3",
+    "en": "This is my eye",
+    "id": "basic_b__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] This is my neck",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__06__this_is_my_neck.mp3",
+    "en": "This is my neck",
+    "id": "basic_b__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is my body",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__07__this_is_my_body.mp3",
+    "en": "This is my body",
+    "id": "basic_b__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] This is my chin",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__08__this_is_my_chin.mp3",
+    "en": "This is my chin",
+    "id": "basic_b__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my hand",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__09__this_is_my_hand.mp3",
+    "en": "This is my hand",
+    "id": "basic_b__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] This is my shoulder",
+    "out": "/workspace/day4-speak/audio/basic_b__unit06__10__this_is_my_shoulder.mp3",
+    "en": "This is my shoulder",
+    "id": "basic_b__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is white",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__01__it_is_white.mp3",
+    "en": "It is white",
+    "id": "basic_b__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is black",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__02__it_is_black.mp3",
+    "en": "It is black",
+    "id": "basic_b__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is brown",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__03__it_is_brown.mp3",
+    "en": "It is brown",
+    "id": "basic_b__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is red",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__04__it_is_red.mp3",
+    "en": "It is red",
+    "id": "basic_b__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is orange",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__05__it_is_orange.mp3",
+    "en": "It is orange",
+    "id": "basic_b__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is yellow",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__06__it_is_yellow.mp3",
+    "en": "It is yellow",
+    "id": "basic_b__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is green",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__07__it_is_green.mp3",
+    "en": "It is green",
+    "id": "basic_b__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is blue",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__08__it_is_blue.mp3",
+    "en": "It is blue",
+    "id": "basic_b__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is purple",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__09__it_is_purple.mp3",
+    "en": "It is purple",
+    "id": "basic_b__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is a rainbow",
+    "out": "/workspace/day4-speak/audio/basic_b__unit07__10__it_is_a_rainbow.mp3",
+    "en": "It is a rainbow",
+    "id": "basic_b__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am seven years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__01__i_am_seven_years_old.mp3",
+    "en": "I am seven years old",
+    "id": "basic_b__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] I am ten years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__02__i_am_ten_years_old.mp3",
+    "en": "I am ten years old",
+    "id": "basic_b__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am fourteen years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__03__i_am_fourteen_years_old.mp3",
+    "en": "I am fourteen years old",
+    "id": "basic_b__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] I am seventeen years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__04__i_am_seventeen_years_old.mp3",
+    "en": "I am seventeen years old",
+    "id": "basic_b__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am twenty-two years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__05__i_am_twenty_two_years_old.mp3",
+    "en": "I am twenty-two years old",
+    "id": "basic_b__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] I am twenty-five years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__06__i_am_twenty_five_years_old.mp3",
+    "en": "I am twenty-five years old",
+    "id": "basic_b__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am thirty-three years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__07__i_am_thirty_three_years_old.mp3",
+    "en": "I am thirty-three years old",
+    "id": "basic_b__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] I am sixty-six years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__08__i_am_sixty_six_years_old.mp3",
+    "en": "I am sixty-six years old",
+    "id": "basic_b__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am one year old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__09__i_am_one_year_old.mp3",
+    "en": "I am one year old",
+    "id": "basic_b__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] I am one hundred years old",
+    "out": "/workspace/day4-speak/audio/basic_b__unit08__10__i_am_one_hundred_years_old.mp3",
+    "en": "I am one hundred years old",
+    "id": "basic_b__unit08__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I love my dog Zoey",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__01__i_love_my_dog_zoey.mp3",
+    "en": "I love my dog Zoey",
+    "id": "basic_c__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] I love my cat Leo",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__02__i_love_my_cat_leo.mp3",
+    "en": "I love my cat Leo",
+    "id": "basic_c__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I love my bird Sarah",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__03__i_love_my_bird_sarah.mp3",
+    "en": "I love my bird Sarah",
+    "id": "basic_c__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] I love my rabbit Sam",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__04__i_love_my_rabbit_sam.mp3",
+    "en": "I love my rabbit Sam",
+    "id": "basic_c__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I love my hamster Fluffy",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__05__i_love_my_hamster_fluffy.mp3",
+    "en": "I love my hamster Fluffy",
+    "id": "basic_c__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] I love my fish Nimo",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__06__i_love_my_fish_nimo.mp3",
+    "en": "I love my fish Nimo",
+    "id": "basic_c__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I love my beetle Bob",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__07__i_love_my_beetle_bob.mp3",
+    "en": "I love my beetle Bob",
+    "id": "basic_c__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] I love my turtle Tom",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__08__i_love_my_turtle_tom.mp3",
+    "en": "I love my turtle Tom",
+    "id": "basic_c__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I love my snake Jessica",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__09__i_love_my_snake_jessica.mp3",
+    "en": "I love my snake Jessica",
+    "id": "basic_c__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] I love my squirrel Sandy",
+    "out": "/workspace/day4-speak/audio/basic_c__unit01__10__i_love_my_squirrel_sandy.mp3",
+    "en": "I love my squirrel Sandy",
+    "id": "basic_c__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Look at my new hat",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__01__look_at_my_new_hat.mp3",
+    "en": "Look at my new hat",
+    "id": "basic_c__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] Look at my new earphones",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__02__look_at_my_new_earphones.mp3",
+    "en": "Look at my new earphones",
+    "id": "basic_c__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Look at my new shoes",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__03__look_at_my_new_shoes.mp3",
+    "en": "Look at my new shoes",
+    "id": "basic_c__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] Look at my new phone",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__04__look_at_my_new_phone.mp3",
+    "en": "Look at my new phone",
+    "id": "basic_c__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Look at my new coat",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__05__look_at_my_new_coat.mp3",
+    "en": "Look at my new coat",
+    "id": "basic_c__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] Look at my new watch",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__06__look_at_my_new_watch.mp3",
+    "en": "Look at my new watch",
+    "id": "basic_c__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Look at my new bag",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__07__look_at_my_new_bag.mp3",
+    "en": "Look at my new bag",
+    "id": "basic_c__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] Look at my new computer",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__08__look_at_my_new_computer.mp3",
+    "en": "Look at my new computer",
+    "id": "basic_c__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Look at my new gloves",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__09__look_at_my_new_gloves.mp3",
+    "en": "Look at my new gloves",
+    "id": "basic_c__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] Look at my new house",
+    "out": "/workspace/day4-speak/audio/basic_c__unit02__10__look_at_my_new_house.mp3",
+    "en": "Look at my new house",
+    "id": "basic_c__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] See you Monday",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__01__see_you_monday.mp3",
+    "en": "See you Monday",
+    "id": "basic_c__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] May I start?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__02__may_i_start.mp3",
+    "en": "May I start?",
+    "id": "basic_c__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Report!",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__03__report.mp3",
+    "en": "Report!",
+    "id": "basic_c__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] Spell cat!",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__04__spell_cat.mp3",
+    "en": "Spell cat!",
+    "id": "basic_c__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What does cat mean?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__05__what_does_cat_mean.mp3",
+    "en": "What does cat mean?",
+    "id": "basic_c__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] You are welcome",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__06__you_are_welcome.mp3",
+    "en": "You are welcome",
+    "id": "basic_c__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Please test me",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__07__please_test_me.mp3",
+    "en": "Please test me",
+    "id": "basic_c__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] See you tomorrow",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__08__see_you_tomorrow.mp3",
+    "en": "See you tomorrow",
+    "id": "basic_c__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I do not understand",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__09__i_do_not_understand.mp3",
+    "en": "I do not understand",
+    "id": "basic_c__unit03__09"
+  },
+  {
+    "text": "[friendly coach, clear] I do not know",
+    "out": "/workspace/day4-speak/audio/basic_c__unit03__10__i_do_not_know.mp3",
+    "en": "I do not know",
+    "id": "basic_c__unit03__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What can we see near Seoul?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__01__what_can_we_see_near_seoul.mp3",
+    "en": "What can we see near Seoul?",
+    "id": "basic_c__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] What can we see near Busan?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__02__what_can_we_see_near_busan.mp3",
+    "en": "What can we see near Busan?",
+    "id": "basic_c__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] What can we see near Jeju?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__03__what_can_we_see_near_jeju.mp3",
+    "en": "What can we see near Jeju?",
+    "id": "basic_c__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] What can we see near Tongyeong?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__04__what_can_we_see_near_tongyeong.mp3",
+    "en": "What can we see near Tongyeong?",
+    "id": "basic_c__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What can we see near Gongju?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__05__what_can_we_see_near_gongju.mp3",
+    "en": "What can we see near Gongju?",
+    "id": "basic_c__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] What can we see near Andong?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__06__what_can_we_see_near_andong.mp3",
+    "en": "What can we see near Andong?",
+    "id": "basic_c__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] What can we see near Suncheon?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__07__what_can_we_see_near_suncheon.mp3",
+    "en": "What can we see near Suncheon?",
+    "id": "basic_c__unit04__07"
+  },
+  {
+    "text": "[clear coach, let's go] What can we see near Goseong?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__08__what_can_we_see_near_goseong.mp3",
+    "en": "What can we see near Goseong?",
+    "id": "basic_c__unit04__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What can we see near Pyeongchang?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__09__what_can_we_see_near_pyeongchang.mp3",
+    "en": "What can we see near Pyeongchang?",
+    "id": "basic_c__unit04__09"
+  },
+  {
+    "text": "[friendly coach, clear] What can we see near Jindo?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit04__10__what_can_we_see_near_jindo.mp3",
+    "en": "What can we see near Jindo?",
+    "id": "basic_c__unit04__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] pig",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__01__pig.mp3",
+    "en": "pig",
+    "id": "basic_c__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] dog",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__02__dog.mp3",
+    "en": "dog",
+    "id": "basic_c__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] cat",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__03__cat.mp3",
+    "en": "cat",
+    "id": "basic_c__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] Seoul",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__04__seoul.mp3",
+    "en": "Seoul",
+    "id": "basic_c__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Tongyeong",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__05__tongyeong.mp3",
+    "en": "Tongyeong",
+    "id": "basic_c__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] Canada",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__06__canada.mp3",
+    "en": "Canada",
+    "id": "basic_c__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] school",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__07__school.mp3",
+    "en": "school",
+    "id": "basic_c__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] swing",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__08__swing.mp3",
+    "en": "swing",
+    "id": "basic_c__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] knee",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__09__knee.mp3",
+    "en": "knee",
+    "id": "basic_c__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] face",
+    "out": "/workspace/day4-speak/audio/basic_c__unit05__10__face.mp3",
+    "en": "face",
+    "id": "basic_c__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't touch your arm",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__01__don_t_touch_your_arm.mp3",
+    "en": "Don't touch your arm",
+    "id": "basic_c__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] Don't touch your leg",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__02__don_t_touch_your_leg.mp3",
+    "en": "Don't touch your leg",
+    "id": "basic_c__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Don't touch your knee",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__03__don_t_touch_your_knee.mp3",
+    "en": "Don't touch your knee",
+    "id": "basic_c__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] Don't touch your back",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__04__don_t_touch_your_back.mp3",
+    "en": "Don't touch your back",
+    "id": "basic_c__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't touch your face",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__05__don_t_touch_your_face.mp3",
+    "en": "Don't touch your face",
+    "id": "basic_c__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] Don't touch your stomach",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__06__don_t_touch_your_stomach.mp3",
+    "en": "Don't touch your stomach",
+    "id": "basic_c__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Don't touch your wrist",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__07__don_t_touch_your_wrist.mp3",
+    "en": "Don't touch your wrist",
+    "id": "basic_c__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] Don't touch your toe",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__08__don_t_touch_your_toe.mp3",
+    "en": "Don't touch your toe",
+    "id": "basic_c__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't touch your neck",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__09__don_t_touch_your_neck.mp3",
+    "en": "Don't touch your neck",
+    "id": "basic_c__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] Don't touch your ear",
+    "out": "/workspace/day4-speak/audio/basic_c__unit06__10__don_t_touch_your_ear.mp3",
+    "en": "Don't touch your ear",
+    "id": "basic_c__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Where is the slide?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__01__where_is_the_slide.mp3",
+    "en": "Where is the slide?",
+    "id": "basic_c__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] Where is the seesaw?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__02__where_is_the_seesaw.mp3",
+    "en": "Where is the seesaw?",
+    "id": "basic_c__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Where is the merry-go-round?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__03__where_is_the_merry_go_round.mp3",
+    "en": "Where is the merry-go-round?",
+    "id": "basic_c__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] Where is the swing?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__04__where_is_the_swing.mp3",
+    "en": "Where is the swing?",
+    "id": "basic_c__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Where is the jungle gym?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__05__where_is_the_jungle_gym.mp3",
+    "en": "Where is the jungle gym?",
+    "id": "basic_c__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] Where is the sandbox?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__06__where_is_the_sandbox.mp3",
+    "en": "Where is the sandbox?",
+    "id": "basic_c__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Where is the playhouse?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__07__where_is_the_playhouse.mp3",
+    "en": "Where is the playhouse?",
+    "id": "basic_c__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] Where is the bumper car?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__08__where_is_the_bumper_car.mp3",
+    "en": "Where is the bumper car?",
+    "id": "basic_c__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Where is the maze?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__09__where_is_the_maze.mp3",
+    "en": "Where is the maze?",
+    "id": "basic_c__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] Where is the roller coaster?",
+    "out": "/workspace/day4-speak/audio/basic_c__unit07__10__where_is_the_roller_coaster.mp3",
+    "en": "Where is the roller coaster?",
+    "id": "basic_c__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want a new doll",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__01__i_want_a_new_doll.mp3",
+    "en": "I want a new doll",
+    "id": "basic_c__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] I want a new pencil case",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__02__i_want_a_new_pencil_case.mp3",
+    "en": "I want a new pencil case",
+    "id": "basic_c__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I want a new school bag",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__03__i_want_a_new_school_bag.mp3",
+    "en": "I want a new school bag",
+    "id": "basic_c__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] I want new earphones",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__04__i_want_new_earphones.mp3",
+    "en": "I want new earphones",
+    "id": "basic_c__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want a new phone",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__05__i_want_a_new_phone.mp3",
+    "en": "I want a new phone",
+    "id": "basic_c__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] I want new clothes",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__06__i_want_new_clothes.mp3",
+    "en": "I want new clothes",
+    "id": "basic_c__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I want a new bike",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__07__i_want_a_new_bike.mp3",
+    "en": "I want a new bike",
+    "id": "basic_c__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] I want a new computer",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__08__i_want_a_new_computer.mp3",
+    "en": "I want a new computer",
+    "id": "basic_c__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want a new brother",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__09__i_want_a_new_brother.mp3",
+    "en": "I want a new brother",
+    "id": "basic_c__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] I want a new house",
+    "out": "/workspace/day4-speak/audio/basic_c__unit08__10__i_want_a_new_house.mp3",
+    "en": "I want a new house",
+    "id": "basic_c__unit08__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is hot",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__01__it_is_hot.mp3",
+    "en": "It is hot",
+    "id": "int2a__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is snowing",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__02__it_is_snowing.mp3",
+    "en": "It is snowing",
+    "id": "int2a__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is stormy",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__03__it_is_stormy.mp3",
+    "en": "It is stormy",
+    "id": "int2a__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is humid",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__04__it_is_humid.mp3",
+    "en": "It is humid",
+    "id": "int2a__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is rainy",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__05__it_is_rainy.mp3",
+    "en": "It is rainy",
+    "id": "int2a__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is cold",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__06__it_is_cold.mp3",
+    "en": "It is cold",
+    "id": "int2a__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is foggy",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__07__it_is_foggy.mp3",
+    "en": "It is foggy",
+    "id": "int2a__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is windy",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__08__it_is_windy.mp3",
+    "en": "It is windy",
+    "id": "int2a__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is hailing",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__09__it_is_hailing.mp3",
+    "en": "It is hailing",
+    "id": "int2a__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is sunny",
+    "out": "/workspace/day4-speak/audio/int2a__unit01__10__it_is_sunny.mp3",
+    "en": "It is sunny",
+    "id": "int2a__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] There are snakes!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__01__there_are_snakes.mp3",
+    "en": "There are snakes!",
+    "id": "int2a__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] There is water!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__02__there_is_water.mp3",
+    "en": "There is water!",
+    "id": "int2a__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] There are bees!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__03__there_are_bees.mp3",
+    "en": "There are bees!",
+    "id": "int2a__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] There is food!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__04__there_is_food.mp3",
+    "en": "There is food!",
+    "id": "int2a__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] There are ants!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__05__there_are_ants.mp3",
+    "en": "There are ants!",
+    "id": "int2a__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] There is a hotel!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__06__there_is_a_hotel.mp3",
+    "en": "There is a hotel!",
+    "id": "int2a__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] There are spiders!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__07__there_are_spiders.mp3",
+    "en": "There are spiders!",
+    "id": "int2a__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] There is a washroom!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__08__there_is_a_washroom.mp3",
+    "en": "There is a washroom!",
+    "id": "int2a__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] There is a teacher!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__09__there_is_a_teacher.mp3",
+    "en": "There is a teacher!",
+    "id": "int2a__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] There is a monster!",
+    "out": "/workspace/day4-speak/audio/int2a__unit02__10__there_is_a_monster.mp3",
+    "en": "There is a monster!",
+    "id": "int2a__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Can you speak Chinese?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__01__can_you_speak_chinese.mp3",
+    "en": "Can you speak Chinese?",
+    "id": "int2a__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] Can you speak Japanese?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__02__can_you_speak_japanese.mp3",
+    "en": "Can you speak Japanese?",
+    "id": "int2a__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Can you speak French?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__03__can_you_speak_french.mp3",
+    "en": "Can you speak French?",
+    "id": "int2a__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] Can you speak German?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__04__can_you_speak_german.mp3",
+    "en": "Can you speak German?",
+    "id": "int2a__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Can you speak Hindi?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__05__can_you_speak_hindi.mp3",
+    "en": "Can you speak Hindi?",
+    "id": "int2a__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] Can you speak Spanish?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__06__can_you_speak_spanish.mp3",
+    "en": "Can you speak Spanish?",
+    "id": "int2a__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Can you speak Vietnamese?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__07__can_you_speak_vietnamese.mp3",
+    "en": "Can you speak Vietnamese?",
+    "id": "int2a__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] Can you speak Korean?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__08__can_you_speak_korean.mp3",
+    "en": "Can you speak Korean?",
+    "id": "int2a__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Can you speak English?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__09__can_you_speak_english.mp3",
+    "en": "Can you speak English?",
+    "id": "int2a__unit03__09"
+  },
+  {
+    "text": "[friendly coach, clear] Can you speak Russian?",
+    "out": "/workspace/day4-speak/audio/int2a__unit03__10__can_you_speak_russian.mp3",
+    "en": "Can you speak Russian?",
+    "id": "int2a__unit03__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want medicine",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__01__i_want_medicine.mp3",
+    "en": "I want medicine",
+    "id": "int2a__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] I want a blanket",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__02__i_want_a_blanket.mp3",
+    "en": "I want a blanket",
+    "id": "int2a__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I want tissue paper",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__03__i_want_tissue_paper.mp3",
+    "en": "I want tissue paper",
+    "id": "int2a__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] I want soup",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__04__i_want_soup.mp3",
+    "en": "I want soup",
+    "id": "int2a__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want juice",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__05__i_want_juice.mp3",
+    "en": "I want juice",
+    "id": "int2a__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] I want water",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__06__i_want_water.mp3",
+    "en": "I want water",
+    "id": "int2a__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I want my phone",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__07__i_want_my_phone.mp3",
+    "en": "I want my phone",
+    "id": "int2a__unit04__07"
+  },
+  {
+    "text": "[clear coach, let's go] I want a hug",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__08__i_want_a_hug.mp3",
+    "en": "I want a hug",
+    "id": "int2a__unit04__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want a computer",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__09__i_want_a_computer.mp3",
+    "en": "I want a computer",
+    "id": "int2a__unit04__09"
+  },
+  {
+    "text": "[friendly coach, clear] I want a book",
+    "out": "/workspace/day4-speak/audio/int2a__unit04__10__i_want_a_book.mp3",
+    "en": "I want a book",
+    "id": "int2a__unit04__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Maybe it is in the kitchen",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__01__maybe_it_is_in_the_kitchen.mp3",
+    "en": "Maybe it is in the kitchen",
+    "id": "int2a__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] Maybe it is in the bathroom",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__02__maybe_it_is_in_the_bathroom.mp3",
+    "en": "Maybe it is in the bathroom",
+    "id": "int2a__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Maybe it is in the living room",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__03__maybe_it_is_in_the_living_room.mp3",
+    "en": "Maybe it is in the living room",
+    "id": "int2a__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] Maybe it is in the garage",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__04__maybe_it_is_in_the_garage.mp3",
+    "en": "Maybe it is in the garage",
+    "id": "int2a__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Maybe it is in the bedroom",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__05__maybe_it_is_in_the_bedroom.mp3",
+    "en": "Maybe it is in the bedroom",
+    "id": "int2a__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] Maybe it is in the attic",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__06__maybe_it_is_in_the_attic.mp3",
+    "en": "Maybe it is in the attic",
+    "id": "int2a__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Maybe it is in the basement",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__07__maybe_it_is_in_the_basement.mp3",
+    "en": "Maybe it is in the basement",
+    "id": "int2a__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] Maybe it is in the dining room",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__08__maybe_it_is_in_the_dining_room.mp3",
+    "en": "Maybe it is in the dining room",
+    "id": "int2a__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Maybe it is in the classroom",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__09__maybe_it_is_in_the_classroom.mp3",
+    "en": "Maybe it is in the classroom",
+    "id": "int2a__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] Maybe it is in the lounge",
+    "out": "/workspace/day4-speak/audio/int2a__unit05__10__maybe_it_is_in_the_lounge.mp3",
+    "en": "Maybe it is in the lounge",
+    "id": "int2a__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Look at this funny video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__01__look_at_this_funny_video.mp3",
+    "en": "Look at this funny video",
+    "id": "int2a__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] Look at this scary video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__02__look_at_this_scary_video.mp3",
+    "en": "Look at this scary video",
+    "id": "int2a__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Look at this gross video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__03__look_at_this_gross_video.mp3",
+    "en": "Look at this gross video",
+    "id": "int2a__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] Look at this sad video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__04__look_at_this_sad_video.mp3",
+    "en": "Look at this sad video",
+    "id": "int2a__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Look at this weird video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__05__look_at_this_weird_video.mp3",
+    "en": "Look at this weird video",
+    "id": "int2a__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] Look at this exciting video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__06__look_at_this_exciting_video.mp3",
+    "en": "Look at this exciting video",
+    "id": "int2a__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Look at this crazy video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__07__look_at_this_crazy_video.mp3",
+    "en": "Look at this crazy video",
+    "id": "int2a__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] Look at this quiet video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__08__look_at_this_quiet_video.mp3",
+    "en": "Look at this quiet video",
+    "id": "int2a__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Look at this boring video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__09__look_at_this_boring_video.mp3",
+    "en": "Look at this boring video",
+    "id": "int2a__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] Look at this loud video",
+    "out": "/workspace/day4-speak/audio/int2a__unit06__10__look_at_this_loud_video.mp3",
+    "en": "Look at this loud video",
+    "id": "int2a__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Where are our classmates?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__01__where_are_our_classmates.mp3",
+    "en": "Where are our classmates?",
+    "id": "int2a__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] Where is our teacher?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__02__where_is_our_teacher.mp3",
+    "en": "Where is our teacher?",
+    "id": "int2a__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Where is the principal?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__03__where_is_the_principal.mp3",
+    "en": "Where is the principal?",
+    "id": "int2a__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] In Korea, students clean their school",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__04__in_korea_students_clean_their_school.mp3",
+    "en": "In Korea, students clean their school",
+    "id": "int2a__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Where is the librarian?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__05__where_is_the_librarian.mp3",
+    "en": "Where is the librarian?",
+    "id": "int2a__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] Where is the janitor?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__06__where_is_the_janitor.mp3",
+    "en": "Where is the janitor?",
+    "id": "int2a__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Where is the lunch lady?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__07__where_is_the_lunch_lady.mp3",
+    "en": "Where is the lunch lady?",
+    "id": "int2a__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] Where is the secretary?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__08__where_is_the_secretary.mp3",
+    "en": "Where is the secretary?",
+    "id": "int2a__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Where is the groundskeeper?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__09__where_is_the_groundskeeper.mp3",
+    "en": "Where is the groundskeeper?",
+    "id": "int2a__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] Where is the nurse?",
+    "out": "/workspace/day4-speak/audio/int2a__unit07__10__where_is_the_nurse.mp3",
+    "en": "Where is the nurse?",
+    "id": "int2a__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I play computer games",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__01__i_play_computer_games.mp3",
+    "en": "I play computer games",
+    "id": "int2a__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] I play soccer",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__02__i_play_soccer.mp3",
+    "en": "I play soccer",
+    "id": "int2a__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I practice martial arts",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__03__i_practice_martial_arts.mp3",
+    "en": "I practice martial arts",
+    "id": "int2a__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] I go to English class",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__04__i_go_to_english_class.mp3",
+    "en": "I go to English class",
+    "id": "int2a__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I play the piano",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__05__i_play_the_piano.mp3",
+    "en": "I play the piano",
+    "id": "int2a__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] I take care of my little brother",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__06__i_take_care_of_my_little_brother.mp3",
+    "en": "I take care of my little brother",
+    "id": "int2a__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I just relax",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__07__i_just_relax.mp3",
+    "en": "I just relax",
+    "id": "int2a__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] I sing",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__08__i_sing.mp3",
+    "en": "I sing",
+    "id": "int2a__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I watch TV",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__09__i_watch_tv.mp3",
+    "en": "I watch TV",
+    "id": "int2a__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] I ride a bike",
+    "out": "/workspace/day4-speak/audio/int2a__unit08__10__i_ride_a_bike.mp3",
+    "en": "I ride a bike",
+    "id": "int2a__unit08__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is Monday",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__01__it_is_monday.mp3",
+    "en": "It is Monday",
+    "id": "int2b__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is Tuesday",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__02__it_is_tuesday.mp3",
+    "en": "It is Tuesday",
+    "id": "int2b__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is Wednesday",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__03__it_is_wednesday.mp3",
+    "en": "It is Wednesday",
+    "id": "int2b__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is Thursday",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__04__it_is_thursday.mp3",
+    "en": "It is Thursday",
+    "id": "int2b__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is Friday",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__05__it_is_friday.mp3",
+    "en": "It is Friday",
+    "id": "int2b__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is Saturday",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__06__it_is_saturday.mp3",
+    "en": "It is Saturday",
+    "id": "int2b__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is Sunday",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__07__it_is_sunday.mp3",
+    "en": "It is Sunday",
+    "id": "int2b__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is a holiday",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__08__it_is_a_holiday.mp3",
+    "en": "It is a holiday",
+    "id": "int2b__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a school day",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__09__it_is_a_school_day.mp3",
+    "en": "It is a school day",
+    "id": "int2b__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is a work day",
+    "out": "/workspace/day4-speak/audio/int2b__unit01__10__it_is_a_work_day.mp3",
+    "en": "It is a work day",
+    "id": "int2b__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is seven thirty",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__01__it_is_seven_thirty.mp3",
+    "en": "It is seven thirty",
+    "id": "int2b__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is breakfast time",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__02__it_is_breakfast_time.mp3",
+    "en": "It is breakfast time",
+    "id": "int2b__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is eight o'clock",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__03__it_is_eight_o_clock.mp3",
+    "en": "It is eight o'clock",
+    "id": "int2b__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is school time",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__04__it_is_school_time.mp3",
+    "en": "It is school time",
+    "id": "int2b__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is three thirty",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__05__it_is_three_thirty.mp3",
+    "en": "It is three thirty",
+    "id": "int2b__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is snack time",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__06__it_is_snack_time.mp3",
+    "en": "It is snack time",
+    "id": "int2b__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is ten a.m.",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__07__it_is_ten_a_m.mp3",
+    "en": "It is ten a.m.",
+    "id": "int2b__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is online class time",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__08__it_is_online_class_time.mp3",
+    "en": "It is online class time",
+    "id": "int2b__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is eleven a.m.",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__09__it_is_eleven_a_m.mp3",
+    "en": "It is eleven a.m.",
+    "id": "int2b__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is recess",
+    "out": "/workspace/day4-speak/audio/int2b__unit02__10__it_is_recess.mp3",
+    "en": "It is recess",
+    "id": "int2b__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want to be a pro-gamer",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__01__i_want_to_be_a_pro_gamer.mp3",
+    "en": "I want to be a pro-gamer",
+    "id": "int2b__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] I want to be an actor",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__02__i_want_to_be_an_actor.mp3",
+    "en": "I want to be an actor",
+    "id": "int2b__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I want to be a food critic",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__03__i_want_to_be_a_food_critic.mp3",
+    "en": "I want to be a food critic",
+    "id": "int2b__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] I want to be an English teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__04__i_want_to_be_an_english_teacher.mp3",
+    "en": "I want to be an English teacher",
+    "id": "int2b__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want to be a police officer",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__05__i_want_to_be_a_police_officer.mp3",
+    "en": "I want to be a police officer",
+    "id": "int2b__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] I want to be a scientist",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__06__i_want_to_be_a_scientist.mp3",
+    "en": "I want to be a scientist",
+    "id": "int2b__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I want to be a doctor",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__07__i_want_to_be_a_doctor.mp3",
+    "en": "I want to be a doctor",
+    "id": "int2b__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] I want to be a judge",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__08__i_want_to_be_a_judge.mp3",
+    "en": "I want to be a judge",
+    "id": "int2b__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I want to be the president",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__09__i_want_to_be_the_president.mp3",
+    "en": "I want to be the president",
+    "id": "int2b__unit03__09"
+  },
+  {
+    "text": "[friendly coach, clear] I want to be a computer hacker",
+    "out": "/workspace/day4-speak/audio/int2b__unit03__10__i_want_to_be_a_computer_hacker.mp3",
+    "en": "I want to be a computer hacker",
+    "id": "int2b__unit03__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] How much is this?",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__01__how_much_is_this.mp3",
+    "en": "How much is this?",
+    "id": "int2b__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is about 100 won",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__02__it_is_about_100_won.mp3",
+    "en": "It is about 100 won",
+    "id": "int2b__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] How much is that?",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__03__how_much_is_that.mp3",
+    "en": "How much is that?",
+    "id": "int2b__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is about 500 won",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__04__it_is_about_500_won.mp3",
+    "en": "It is about 500 won",
+    "id": "int2b__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] How much are these?",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__05__how_much_are_these.mp3",
+    "en": "How much are these?",
+    "id": "int2b__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] They are about 1000 won",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__06__they_are_about_1000_won.mp3",
+    "en": "They are about 1000 won",
+    "id": "int2b__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] How much are those?",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__07__how_much_are_those.mp3",
+    "en": "How much are those?",
+    "id": "int2b__unit04__07"
+  },
+  {
+    "text": "[clear coach, let's go] They are about 5000 won",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__08__they_are_about_5000_won.mp3",
+    "en": "They are about 5000 won",
+    "id": "int2b__unit04__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Everything here is cheap!",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__09__everything_here_is_cheap.mp3",
+    "en": "Everything here is cheap!",
+    "id": "int2b__unit04__09"
+  },
+  {
+    "text": "[friendly coach, clear] Let's buy some more!",
+    "out": "/workspace/day4-speak/audio/int2b__unit04__10__let_s_buy_some_more.mp3",
+    "en": "Let's buy some more!",
+    "id": "int2b__unit04__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Is he smart?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__01__is_he_smart.mp3",
+    "en": "Is he smart?",
+    "id": "int2b__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] Is he fat?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__02__is_he_fat.mp3",
+    "en": "Is he fat?",
+    "id": "int2b__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Is he tall?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__03__is_he_tall.mp3",
+    "en": "Is he tall?",
+    "id": "int2b__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] Is he short?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__04__is_he_short.mp3",
+    "en": "Is he short?",
+    "id": "int2b__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Is he thin?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__05__is_he_thin.mp3",
+    "en": "Is he thin?",
+    "id": "int2b__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] Is he old?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__06__is_he_old.mp3",
+    "en": "Is he old?",
+    "id": "int2b__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Is he young?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__07__is_he_young.mp3",
+    "en": "Is he young?",
+    "id": "int2b__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] Is he ugly?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__08__is_he_ugly.mp3",
+    "en": "Is he ugly?",
+    "id": "int2b__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Is he good-looking?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__09__is_he_good_looking.mp3",
+    "en": "Is he good-looking?",
+    "id": "int2b__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] Is he rich?",
+    "out": "/workspace/day4-speak/audio/int2b__unit05__10__is_he_rich.mp3",
+    "en": "Is he rich?",
+    "id": "int2b__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my English teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__01__this_is_my_english_teacher.mp3",
+    "en": "This is my English teacher",
+    "id": "int2b__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] This is my math teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__02__this_is_my_math_teacher.mp3",
+    "en": "This is my math teacher",
+    "id": "int2b__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is my science teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__03__this_is_my_science_teacher.mp3",
+    "en": "This is my science teacher",
+    "id": "int2b__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] This is my history teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__04__this_is_my_history_teacher.mp3",
+    "en": "This is my history teacher",
+    "id": "int2b__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my music teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__05__this_is_my_music_teacher.mp3",
+    "en": "This is my music teacher",
+    "id": "int2b__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] This is my art teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__06__this_is_my_art_teacher.mp3",
+    "en": "This is my art teacher",
+    "id": "int2b__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is my gym teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__07__this_is_my_gym_teacher.mp3",
+    "en": "This is my gym teacher",
+    "id": "int2b__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] This is my Korean teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__08__this_is_my_korean_teacher.mp3",
+    "en": "This is my Korean teacher",
+    "id": "int2b__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is my social studies teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__09__this_is_my_social_studies_teacher.mp3",
+    "en": "This is my social studies teacher",
+    "id": "int2b__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] This is my Japanese teacher",
+    "out": "/workspace/day4-speak/audio/int2b__unit06__10__this_is_my_japanese_teacher.mp3",
+    "en": "This is my Japanese teacher",
+    "id": "int2b__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Is it in the pencil case?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__01__is_it_in_the_pencil_case.mp3",
+    "en": "Is it in the pencil case?",
+    "id": "int2b__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] Is it on the book?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__02__is_it_on_the_book.mp3",
+    "en": "Is it on the book?",
+    "id": "int2b__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Is it under the desk?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__03__is_it_under_the_desk.mp3",
+    "en": "Is it under the desk?",
+    "id": "int2b__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] Is it behind the phone?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__04__is_it_behind_the_phone.mp3",
+    "en": "Is it behind the phone?",
+    "id": "int2b__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Is it in front of the stairs?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__05__is_it_in_front_of_the_stairs.mp3",
+    "en": "Is it in front of the stairs?",
+    "id": "int2b__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] Is it between the shoes?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__06__is_it_between_the_shoes.mp3",
+    "en": "Is it between the shoes?",
+    "id": "int2b__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Is it next to the bus stop?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__07__is_it_next_to_the_bus_stop.mp3",
+    "en": "Is it next to the bus stop?",
+    "id": "int2b__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] Is it in the pocket?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__08__is_it_in_the_pocket.mp3",
+    "en": "Is it in the pocket?",
+    "id": "int2b__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Is it across the street?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__09__is_it_across_the_street.mp3",
+    "en": "Is it across the street?",
+    "id": "int2b__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] Is it outside the house?",
+    "out": "/workspace/day4-speak/audio/int2b__unit07__10__is_it_outside_the_house.mp3",
+    "en": "Is it outside the house?",
+    "id": "int2b__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is mine",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__01__this_is_mine.mp3",
+    "en": "This is mine",
+    "id": "int2b__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is not yours. It is mine",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__02__it_is_not_yours_it_is_mine.mp3",
+    "en": "It is not yours. It is mine",
+    "id": "int2b__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is not mine. It is ours",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__03__it_is_not_mine_it_is_ours.mp3",
+    "en": "It is not mine. It is ours",
+    "id": "int2b__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] This is not yours, it is hers",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__04__this_is_not_yours_it_is_hers.mp3",
+    "en": "This is not yours, it is hers",
+    "id": "int2b__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] These are not yours",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__05__these_are_not_yours.mp3",
+    "en": "These are not yours",
+    "id": "int2b__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] They are not theirs. They are mine",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__06__they_are_not_theirs_they_are_mine.mp3",
+    "en": "They are not theirs. They are mine",
+    "id": "int2b__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is yours",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__07__this_is_yours.mp3",
+    "en": "This is yours",
+    "id": "int2b__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is not yours, it is his",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__08__it_is_not_yours_it_is_his.mp3",
+    "en": "It is not yours, it is his",
+    "id": "int2b__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What about mine?",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__09__what_about_mine.mp3",
+    "en": "What about mine?",
+    "id": "int2b__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] This is mine and this is mine and this is mine",
+    "out": "/workspace/day4-speak/audio/int2b__unit08__10__this_is_mine_and_this_is_mine_and_this_is_mine.mp3",
+    "en": "This is mine and this is mine and this is mine",
+    "id": "int2b__unit08__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I love summer in Tongyeong City",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__01__i_love_summer_in_tongyeong_city.mp3",
+    "en": "I love summer in Tongyeong City",
+    "id": "int2c__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] We can swim and visit many islands",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__02__we_can_swim_and_visit_many_islands.mp3",
+    "en": "We can swim and visit many islands",
+    "id": "int2c__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] How about you?",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__03__how_about_you.mp3",
+    "en": "How about you?",
+    "id": "int2c__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] I love all four seasons",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__04__i_love_all_four_seasons.mp3",
+    "en": "I love all four seasons",
+    "id": "int2c__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I love fall in Naejangsan National Park",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__05__i_love_fall_in_naejangsan_national_park.mp3",
+    "en": "I love fall in Naejangsan National Park",
+    "id": "int2c__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] We can see beautiful fall leaves",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__06__we_can_see_beautiful_fall_leaves.mp3",
+    "en": "We can see beautiful fall leaves",
+    "id": "int2c__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I love winter in Gangwon Province",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__07__i_love_winter_in_gangwon_province.mp3",
+    "en": "I love winter in Gangwon Province",
+    "id": "int2c__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] We can ski and skate",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__08__we_can_ski_and_skate.mp3",
+    "en": "We can ski and skate",
+    "id": "int2c__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I love spring in Jinhae",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__09__i_love_spring_in_jinhae.mp3",
+    "en": "I love spring in Jinhae",
+    "id": "int2c__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] We can see cherry blossoms everywhere",
+    "out": "/workspace/day4-speak/audio/int2c__unit01__10__we_can_see_cherry_blossoms_everywhere.mp3",
+    "en": "We can see cherry blossoms everywhere",
+    "id": "int2c__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am taking a picture",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__01__i_am_taking_a_picture.mp3",
+    "en": "I am taking a picture",
+    "id": "int2c__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] I am selling fruit",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__02__i_am_selling_fruit.mp3",
+    "en": "I am selling fruit",
+    "id": "int2c__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am bowing",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__03__i_am_bowing.mp3",
+    "en": "I am bowing",
+    "id": "int2c__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] I am fishing",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__04__i_am_fishing.mp3",
+    "en": "I am fishing",
+    "id": "int2c__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am selling vegetables",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__05__i_am_selling_vegetables.mp3",
+    "en": "I am selling vegetables",
+    "id": "int2c__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] I am playing Go",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__06__i_am_playing_go.mp3",
+    "en": "I am playing Go",
+    "id": "int2c__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am playing computer games",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__07__i_am_playing_computer_games.mp3",
+    "en": "I am playing computer games",
+    "id": "int2c__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] We are making kimchi",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__08__we_are_making_kimchi.mp3",
+    "en": "We are making kimchi",
+    "id": "int2c__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am brushing my teeth",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__09__i_am_brushing_my_teeth.mp3",
+    "en": "I am brushing my teeth",
+    "id": "int2c__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] I am sleeping",
+    "out": "/workspace/day4-speak/audio/int2c__unit02__10__i_am_sleeping.mp3",
+    "en": "I am sleeping",
+    "id": "int2c__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Is this yours?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__01__is_this_yours.mp3",
+    "en": "Is this yours?",
+    "id": "int2c__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] Are those yours?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__02__are_those_yours.mp3",
+    "en": "Are those yours?",
+    "id": "int2c__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Whose candy is this?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__03__whose_candy_is_this.mp3",
+    "en": "Whose candy is this?",
+    "id": "int2c__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] I don't know",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__04__i_don_t_know.mp3",
+    "en": "I don't know",
+    "id": "int2c__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Whose phone is this?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__05__whose_phone_is_this.mp3",
+    "en": "Whose phone is this?",
+    "id": "int2c__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] Is this chair yours?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__06__is_this_chair_yours.mp3",
+    "en": "Is this chair yours?",
+    "id": "int2c__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Whose garbage is this?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__07__whose_garbage_is_this.mp3",
+    "en": "Whose garbage is this?",
+    "id": "int2c__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] Is this book yours?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__08__is_this_book_yours.mp3",
+    "en": "Is this book yours?",
+    "id": "int2c__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Whose book is that?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__09__whose_book_is_that.mp3",
+    "en": "Whose book is that?",
+    "id": "int2c__unit03__09"
+  },
+  {
+    "text": "[friendly coach, clear] Is this money yours?",
+    "out": "/workspace/day4-speak/audio/int2c__unit03__10__is_this_money_yours.mp3",
+    "en": "Is this money yours?",
+    "id": "int2c__unit03__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What is your favorite animal?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__01__what_is_your_favorite_animal.mp3",
+    "en": "What is your favorite animal?",
+    "id": "int2c__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] What is your favorite season?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__02__what_is_your_favorite_season.mp3",
+    "en": "What is your favorite season?",
+    "id": "int2c__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] What is your favorite fruit?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__03__what_is_your_favorite_fruit.mp3",
+    "en": "What is your favorite fruit?",
+    "id": "int2c__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] What is your favorite game?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__04__what_is_your_favorite_game.mp3",
+    "en": "What is your favorite game?",
+    "id": "int2c__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What is your favorite color?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__05__what_is_your_favorite_color.mp3",
+    "en": "What is your favorite color?",
+    "id": "int2c__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] What is your favorite hobby?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__06__what_is_your_favorite_hobby.mp3",
+    "en": "What is your favorite hobby?",
+    "id": "int2c__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] What is your favorite music?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__07__what_is_your_favorite_music.mp3",
+    "en": "What is your favorite music?",
+    "id": "int2c__unit04__07"
+  },
+  {
+    "text": "[clear coach, let's go] What is your favorite snack?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__08__what_is_your_favorite_snack.mp3",
+    "en": "What is your favorite snack?",
+    "id": "int2c__unit04__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What is your favorite sport?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__09__what_is_your_favorite_sport.mp3",
+    "en": "What is your favorite sport?",
+    "id": "int2c__unit04__09"
+  },
+  {
+    "text": "[friendly coach, clear] What is your favorite character?",
+    "out": "/workspace/day4-speak/audio/int2c__unit04__10__what_is_your_favorite_character.mp3",
+    "en": "What is your favorite character?",
+    "id": "int2c__unit04__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am feeling confused",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__01__i_am_feeling_confused.mp3",
+    "en": "I am feeling confused",
+    "id": "int2c__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] I am feeling embarrassed",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__02__i_am_feeling_embarrassed.mp3",
+    "en": "I am feeling embarrassed",
+    "id": "int2c__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am feeling jealous",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__03__i_am_feeling_jealous.mp3",
+    "en": "I am feeling jealous",
+    "id": "int2c__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] I am feeling surprised",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__04__i_am_feeling_surprised.mp3",
+    "en": "I am feeling surprised",
+    "id": "int2c__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am feeling proud",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__05__i_am_feeling_proud.mp3",
+    "en": "I am feeling proud",
+    "id": "int2c__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] I am feeling ignored",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__06__i_am_feeling_ignored.mp3",
+    "en": "I am feeling ignored",
+    "id": "int2c__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am feeling fantastic",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__07__i_am_feeling_fantastic.mp3",
+    "en": "I am feeling fantastic",
+    "id": "int2c__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] I am feeling guilty",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__08__i_am_feeling_guilty.mp3",
+    "en": "I am feeling guilty",
+    "id": "int2c__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am feeling nervous",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__09__i_am_feeling_nervous.mp3",
+    "en": "I am feeling nervous",
+    "id": "int2c__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] I am feeling worried",
+    "out": "/workspace/day4-speak/audio/int2c__unit05__10__i_am_feeling_worried.mp3",
+    "en": "I am feeling worried",
+    "id": "int2c__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I have a cold",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__01__i_have_a_cold.mp3",
+    "en": "I have a cold",
+    "id": "int2c__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] My knee hurts",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__02__my_knee_hurts.mp3",
+    "en": "My knee hurts",
+    "id": "int2c__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I have a headache",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__03__i_have_a_headache.mp3",
+    "en": "I have a headache",
+    "id": "int2c__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] My back hurts",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__04__my_back_hurts.mp3",
+    "en": "My back hurts",
+    "id": "int2c__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I have a sore throat",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__05__i_have_a_sore_throat.mp3",
+    "en": "I have a sore throat",
+    "id": "int2c__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] I have a fever",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__06__i_have_a_fever.mp3",
+    "en": "I have a fever",
+    "id": "int2c__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I have a stomachache",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__07__i_have_a_stomachache.mp3",
+    "en": "I have a stomachache",
+    "id": "int2c__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] My tooth hurts",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__08__my_tooth_hurts.mp3",
+    "en": "My tooth hurts",
+    "id": "int2c__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I have a bloody nose",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__09__i_have_a_bloody_nose.mp3",
+    "en": "I have a bloody nose",
+    "id": "int2c__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] I sprained my ankle",
+    "out": "/workspace/day4-speak/audio/int2c__unit06__10__i_sprained_my_ankle.mp3",
+    "en": "I sprained my ankle",
+    "id": "int2c__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Hello",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__01__hello.mp3",
+    "en": "Hello",
+    "id": "int2c__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] Is Beomjun there?",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__02__is_beomjun_there.mp3",
+    "en": "Is Beomjun there?",
+    "id": "int2c__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Who is this?",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__03__who_is_this.mp3",
+    "en": "Who is this?",
+    "id": "int2c__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] This is Mr. Jay",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__04__this_is_mr_jay.mp3",
+    "en": "This is Mr. Jay",
+    "id": "int2c__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Hello, Mr. Jay",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__05__hello_mr_jay.mp3",
+    "en": "Hello, Mr. Jay",
+    "id": "int2c__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] Sorry, he is out",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__06__sorry_he_is_out.mp3",
+    "en": "Sorry, he is out",
+    "id": "int2c__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Please call his friend Taehwan",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__07__please_call_his_friend_taehwan.mp3",
+    "en": "Please call his friend Taehwan",
+    "id": "int2c__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] What is his phone number?",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__08__what_is_his_phone_number.mp3",
+    "en": "What is his phone number?",
+    "id": "int2c__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] His phone number is 010 3457 7543",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__09__his_phone_number_is_010_3457_7543.mp3",
+    "en": "His phone number is 010 3457 7543",
+    "id": "int2c__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] Okay, thank you",
+    "out": "/workspace/day4-speak/audio/int2c__unit07__10__okay_thank_you.mp3",
+    "en": "Okay, thank you",
+    "id": "int2c__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I'll miss you",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__01__i_ll_miss_you.mp3",
+    "en": "I'll miss you",
+    "id": "int2c__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] Take care",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__02__take_care.mp3",
+    "en": "Take care",
+    "id": "int2c__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] So long",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__03__so_long.mp3",
+    "en": "So long",
+    "id": "int2c__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] I am off",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__04__i_am_off.mp3",
+    "en": "I am off",
+    "id": "int2c__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Time to say goodbye",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__05__time_to_say_goodbye.mp3",
+    "en": "Time to say goodbye",
+    "id": "int2c__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] See you",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__06__see_you.mp3",
+    "en": "See you",
+    "id": "int2c__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Good luck",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__07__good_luck.mp3",
+    "en": "Good luck",
+    "id": "int2c__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] Take it easy",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__08__take_it_easy.mp3",
+    "en": "Take it easy",
+    "id": "int2c__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Have a nice day",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__09__have_a_nice_day.mp3",
+    "en": "Have a nice day",
+    "id": "int2c__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] I must be going",
+    "out": "/workspace/day4-speak/audio/int2c__unit08__10__i_must_be_going.mp3",
+    "en": "I must be going",
+    "id": "int2c__unit08__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I can draw a circle",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__01__i_can_draw_a_circle.mp3",
+    "en": "I can draw a circle",
+    "id": "int3a__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] I can draw a star",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__02__i_can_draw_a_star.mp3",
+    "en": "I can draw a star",
+    "id": "int3a__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I can draw a tree",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__03__i_can_draw_a_tree.mp3",
+    "en": "I can draw a tree",
+    "id": "int3a__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] I can draw poo",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__04__i_can_draw_poo.mp3",
+    "en": "I can draw poo",
+    "id": "int3a__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I can draw a flag",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__05__i_can_draw_a_flag.mp3",
+    "en": "I can draw a flag",
+    "id": "int3a__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] I can draw Korea",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__06__i_can_draw_korea.mp3",
+    "en": "I can draw Korea",
+    "id": "int3a__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I can draw a monster",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__07__i_can_draw_a_monster.mp3",
+    "en": "I can draw a monster",
+    "id": "int3a__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] I can draw an apple",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__08__i_can_draw_an_apple.mp3",
+    "en": "I can draw an apple",
+    "id": "int3a__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I can draw a hat",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__09__i_can_draw_a_hat.mp3",
+    "en": "I can draw a hat",
+    "id": "int3a__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] I can draw a toy",
+    "out": "/workspace/day4-speak/audio/int3a__unit01__10__i_can_draw_a_toy.mp3",
+    "en": "I can draw a toy",
+    "id": "int3a__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I like vanilla",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__01__i_like_vanilla.mp3",
+    "en": "I like vanilla",
+    "id": "int3a__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] I like chocolate",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__02__i_like_chocolate.mp3",
+    "en": "I like chocolate",
+    "id": "int3a__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I like strawberry",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__03__i_like_strawberry.mp3",
+    "en": "I like strawberry",
+    "id": "int3a__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] I like melon",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__04__i_like_melon.mp3",
+    "en": "I like melon",
+    "id": "int3a__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I like mint",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__05__i_like_mint.mp3",
+    "en": "I like mint",
+    "id": "int3a__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] I like banana",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__06__i_like_banana.mp3",
+    "en": "I like banana",
+    "id": "int3a__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I like lemon",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__07__i_like_lemon.mp3",
+    "en": "I like lemon",
+    "id": "int3a__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] I like milk",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__08__i_like_milk.mp3",
+    "en": "I like milk",
+    "id": "int3a__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I like red bean",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__09__i_like_red_bean.mp3",
+    "en": "I like red bean",
+    "id": "int3a__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] I like cotton candy",
+    "out": "/workspace/day4-speak/audio/int3a__unit02__10__i_like_cotton_candy.mp3",
+    "en": "I like cotton candy",
+    "id": "int3a__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is good",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__01__this_is_good.mp3",
+    "en": "This is good",
+    "id": "int3a__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] That is bad",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__02__that_is_bad.mp3",
+    "en": "That is bad",
+    "id": "int3a__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is cold",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__03__this_is_cold.mp3",
+    "en": "This is cold",
+    "id": "int3a__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] That is hot",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__04__that_is_hot.mp3",
+    "en": "That is hot",
+    "id": "int3a__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is small",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__05__this_is_small.mp3",
+    "en": "This is small",
+    "id": "int3a__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] That is big",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__06__that_is_big.mp3",
+    "en": "That is big",
+    "id": "int3a__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] This is soft",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__07__this_is_soft.mp3",
+    "en": "This is soft",
+    "id": "int3a__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] That is hard",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__08__that_is_hard.mp3",
+    "en": "That is hard",
+    "id": "int3a__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] This is quiet",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__09__this_is_quiet.mp3",
+    "en": "This is quiet",
+    "id": "int3a__unit03__09"
+  },
+  {
+    "text": "[friendly coach, clear] That is loud",
+    "out": "/workspace/day4-speak/audio/int3a__unit03__10__that_is_loud.mp3",
+    "en": "That is loud",
+    "id": "int3a__unit03__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] He is 15 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__01__he_is_15_years_old.mp3",
+    "en": "He is 15 years old",
+    "id": "int3a__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] She is 27 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__02__she_is_27_years_old.mp3",
+    "en": "She is 27 years old",
+    "id": "int3a__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] He is 5 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__03__he_is_5_years_old.mp3",
+    "en": "He is 5 years old",
+    "id": "int3a__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] She is 10 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__04__she_is_10_years_old.mp3",
+    "en": "She is 10 years old",
+    "id": "int3a__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] He is 55 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__05__he_is_55_years_old.mp3",
+    "en": "He is 55 years old",
+    "id": "int3a__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] She is 30 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__06__she_is_30_years_old.mp3",
+    "en": "She is 30 years old",
+    "id": "int3a__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] He is 100 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__07__he_is_100_years_old.mp3",
+    "en": "He is 100 years old",
+    "id": "int3a__unit04__07"
+  },
+  {
+    "text": "[clear coach, let's go] She is 39 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__08__she_is_39_years_old.mp3",
+    "en": "She is 39 years old",
+    "id": "int3a__unit04__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] He is 1 year old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__09__he_is_1_year_old.mp3",
+    "en": "He is 1 year old",
+    "id": "int3a__unit04__09"
+  },
+  {
+    "text": "[friendly coach, clear] She is 77 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit04__10__she_is_77_years_old.mp3",
+    "en": "She is 77 years old",
+    "id": "int3a__unit04__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a moth",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__01__it_is_a_moth.mp3",
+    "en": "It is a moth",
+    "id": "int3a__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is a centipede",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__02__it_is_a_centipede.mp3",
+    "en": "It is a centipede",
+    "id": "int3a__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is a mosquito",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__03__it_is_a_mosquito.mp3",
+    "en": "It is a mosquito",
+    "id": "int3a__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is a cicada",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__04__it_is_a_cicada.mp3",
+    "en": "It is a cicada",
+    "id": "int3a__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a spider",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__05__it_is_a_spider.mp3",
+    "en": "It is a spider",
+    "id": "int3a__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is a cockroach",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__06__it_is_a_cockroach.mp3",
+    "en": "It is a cockroach",
+    "id": "int3a__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is an ant",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__07__it_is_an_ant.mp3",
+    "en": "It is an ant",
+    "id": "int3a__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is a silkworm",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__08__it_is_a_silkworm.mp3",
+    "en": "It is a silkworm",
+    "id": "int3a__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a butterfly",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__09__it_is_a_butterfly.mp3",
+    "en": "It is a butterfly",
+    "id": "int3a__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is a firefly",
+    "out": "/workspace/day4-speak/audio/int3a__unit05__10__it_is_a_firefly.mp3",
+    "en": "It is a firefly",
+    "id": "int3a__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Rose",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__01__rose.mp3",
+    "en": "Rose",
+    "id": "int3a__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] Iris",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__02__iris.mp3",
+    "en": "Iris",
+    "id": "int3a__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Hunter",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__03__hunter.mp3",
+    "en": "Hunter",
+    "id": "int3a__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] Ginger",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__04__ginger.mp3",
+    "en": "Ginger",
+    "id": "int3a__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Stingray",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__05__stingray.mp3",
+    "en": "Stingray",
+    "id": "int3a__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] Mike",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__06__mike.mp3",
+    "en": "Mike",
+    "id": "int3a__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Ivy",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__07__ivy.mp3",
+    "en": "Ivy",
+    "id": "int3a__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] Baker",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__08__baker.mp3",
+    "en": "Baker",
+    "id": "int3a__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Lily",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__09__lily.mp3",
+    "en": "Lily",
+    "id": "int3a__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] Violet",
+    "out": "/workspace/day4-speak/audio/int3a__unit06__10__violet.mp3",
+    "en": "Violet",
+    "id": "int3a__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Stand up!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__01__stand_up.mp3",
+    "en": "Stand up!",
+    "id": "int3a__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] Run!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__02__run.mp3",
+    "en": "Run!",
+    "id": "int3a__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Jump rope!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__03__jump_rope.mp3",
+    "en": "Jump rope!",
+    "id": "int3a__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] Climb up!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__04__climb_up.mp3",
+    "en": "Climb up!",
+    "id": "int3a__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Clap three times!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__05__clap_three_times.mp3",
+    "en": "Clap three times!",
+    "id": "int3a__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] Turn around!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__06__turn_around.mp3",
+    "en": "Turn around!",
+    "id": "int3a__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Dance!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__07__dance.mp3",
+    "en": "Dance!",
+    "id": "int3a__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] Sit down!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__08__sit_down.mp3",
+    "en": "Sit down!",
+    "id": "int3a__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Get down!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__09__get_down.mp3",
+    "en": "Get down!",
+    "id": "int3a__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] Do jumping jacks!",
+    "out": "/workspace/day4-speak/audio/int3a__unit07__10__do_jumping_jacks.mp3",
+    "en": "Do jumping jacks!",
+    "id": "int3a__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am 11 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__01__i_am_11_years_old.mp3",
+    "en": "I am 11 years old",
+    "id": "int3a__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] I am 18 years old",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__02__i_am_18_years_old.mp3",
+    "en": "I am 18 years old",
+    "id": "int3a__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I can sing and dance",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__03__i_can_sing_and_dance.mp3",
+    "en": "I can sing and dance",
+    "id": "int3a__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] I can draw",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__04__i_can_draw.mp3",
+    "en": "I can draw",
+    "id": "int3a__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I really like dogs",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__05__i_really_like_dogs.mp3",
+    "en": "I really like dogs",
+    "id": "int3a__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] I like music",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__06__i_like_music.mp3",
+    "en": "I like music",
+    "id": "int3a__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Where are you from?",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__07__where_are_you_from.mp3",
+    "en": "Where are you from?",
+    "id": "int3a__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] I am from Seoul",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__08__i_am_from_seoul.mp3",
+    "en": "I am from Seoul",
+    "id": "int3a__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] There are six people in my family",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__09__there_are_six_people_in_my_family.mp3",
+    "en": "There are six people in my family",
+    "id": "int3a__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] What school do you go to?",
+    "out": "/workspace/day4-speak/audio/int3a__unit08__10__what_school_do_you_go_to.mp3",
+    "en": "What school do you go to?",
+    "id": "int3a__unit08__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am in kindergarten",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__01__i_am_in_kindergarten.mp3",
+    "en": "I am in kindergarten",
+    "id": "int3b__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] I am in first grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__02__i_am_in_first_grade.mp3",
+    "en": "I am in first grade",
+    "id": "int3b__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am in second grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__03__i_am_in_second_grade.mp3",
+    "en": "I am in second grade",
+    "id": "int3b__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] I am in third grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__04__i_am_in_third_grade.mp3",
+    "en": "I am in third grade",
+    "id": "int3b__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am in fourth grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__05__i_am_in_fourth_grade.mp3",
+    "en": "I am in fourth grade",
+    "id": "int3b__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] I am in fifth grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__06__i_am_in_fifth_grade.mp3",
+    "en": "I am in fifth grade",
+    "id": "int3b__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I am in sixth grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__07__i_am_in_sixth_grade.mp3",
+    "en": "I am in sixth grade",
+    "id": "int3b__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] I am in seventh grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__08__i_am_in_seventh_grade.mp3",
+    "en": "I am in seventh grade",
+    "id": "int3b__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I am in eighth grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__09__i_am_in_eighth_grade.mp3",
+    "en": "I am in eighth grade",
+    "id": "int3b__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] I am in ninth grade",
+    "out": "/workspace/day4-speak/audio/int3b__unit01__10__i_am_in_ninth_grade.mp3",
+    "en": "I am in ninth grade",
+    "id": "int3b__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a guitar",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__01__it_is_a_guitar.mp3",
+    "en": "It is a guitar",
+    "id": "int3b__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is a piano",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__02__it_is_a_piano.mp3",
+    "en": "It is a piano",
+    "id": "int3b__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is a flute",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__03__it_is_a_flute.mp3",
+    "en": "It is a flute",
+    "id": "int3b__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is a drum",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__04__it_is_a_drum.mp3",
+    "en": "It is a drum",
+    "id": "int3b__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a violin",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__05__it_is_a_violin.mp3",
+    "en": "It is a violin",
+    "id": "int3b__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is a saxophone",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__06__it_is_a_saxophone.mp3",
+    "en": "It is a saxophone",
+    "id": "int3b__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is a microwave",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__07__it_is_a_microwave.mp3",
+    "en": "It is a microwave",
+    "id": "int3b__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is a gayageum",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__08__it_is_a_gayageum.mp3",
+    "en": "It is a gayageum",
+    "id": "int3b__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is a cello",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__09__it_is_a_cello.mp3",
+    "en": "It is a cello",
+    "id": "int3b__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is a ukulele",
+    "out": "/workspace/day4-speak/audio/int3b__unit02__10__it_is_a_ukulele.mp3",
+    "en": "It is a ukulele",
+    "id": "int3b__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Slower please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__01__slower_please.mp3",
+    "en": "Slower please",
+    "id": "int3b__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] Warmer please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__02__warmer_please.mp3",
+    "en": "Warmer please",
+    "id": "int3b__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Louder please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__03__louder_please.mp3",
+    "en": "Louder please",
+    "id": "int3b__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] Higher please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__04__higher_please.mp3",
+    "en": "Higher please",
+    "id": "int3b__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Cooler please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__05__cooler_please.mp3",
+    "en": "Cooler please",
+    "id": "int3b__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] Smaller please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__06__smaller_please.mp3",
+    "en": "Smaller please",
+    "id": "int3b__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] More please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__07__more_please.mp3",
+    "en": "More please",
+    "id": "int3b__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] Less please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__08__less_please.mp3",
+    "en": "Less please",
+    "id": "int3b__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Quieter please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__09__quieter_please.mp3",
+    "en": "Quieter please",
+    "id": "int3b__unit03__09"
+  },
+  {
+    "text": "[friendly coach, clear] Louder please",
+    "out": "/workspace/day4-speak/audio/int3b__unit03__10__louder_please.mp3",
+    "en": "Louder please",
+    "id": "int3b__unit03__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Is she your mom?",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__01__is_she_your_mom.mp3",
+    "en": "Is she your mom?",
+    "id": "int3b__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] Is she your aunt?",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__02__is_she_your_aunt.mp3",
+    "en": "Is she your aunt?",
+    "id": "int3b__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] She is my grandmother",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__03__she_is_my_grandmother.mp3",
+    "en": "She is my grandmother",
+    "id": "int3b__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] She is my sister",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__04__she_is_my_sister.mp3",
+    "en": "She is my sister",
+    "id": "int3b__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] She is my teacher",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__05__she_is_my_teacher.mp3",
+    "en": "She is my teacher",
+    "id": "int3b__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] Is he your dad?",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__06__is_he_your_dad.mp3",
+    "en": "Is he your dad?",
+    "id": "int3b__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Is he your brother?",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__07__is_he_your_brother.mp3",
+    "en": "Is he your brother?",
+    "id": "int3b__unit04__07"
+  },
+  {
+    "text": "[clear coach, let's go] He is my grandfather",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__08__he_is_my_grandfather.mp3",
+    "en": "He is my grandfather",
+    "id": "int3b__unit04__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] He is my uncle",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__09__he_is_my_uncle.mp3",
+    "en": "He is my uncle",
+    "id": "int3b__unit04__09"
+  },
+  {
+    "text": "[friendly coach, clear] He is me",
+    "out": "/workspace/day4-speak/audio/int3b__unit04__10__he_is_me.mp3",
+    "en": "He is me",
+    "id": "int3b__unit04__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Eat up!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__01__eat_up.mp3",
+    "en": "Eat up!",
+    "id": "int3b__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] Wash up!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__02__wash_up.mp3",
+    "en": "Wash up!",
+    "id": "int3b__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Hurry up!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__03__hurry_up.mp3",
+    "en": "Hurry up!",
+    "id": "int3b__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] Clean up!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__04__clean_up.mp3",
+    "en": "Clean up!",
+    "id": "int3b__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Slow down!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__05__slow_down.mp3",
+    "en": "Slow down!",
+    "id": "int3b__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] Put it down!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__06__put_it_down.mp3",
+    "en": "Put it down!",
+    "id": "int3b__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Come down!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__07__come_down.mp3",
+    "en": "Come down!",
+    "id": "int3b__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] Be quiet!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__08__be_quiet.mp3",
+    "en": "Be quiet!",
+    "id": "int3b__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Give up!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__09__give_up.mp3",
+    "en": "Give up!",
+    "id": "int3b__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] Cool it down!",
+    "out": "/workspace/day4-speak/audio/int3b__unit05__10__cool_it_down.mp3",
+    "en": "Cool it down!",
+    "id": "int3b__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] They are apples",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__01__they_are_apples.mp3",
+    "en": "They are apples",
+    "id": "int3b__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] They are mangoes",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__02__they_are_mangoes.mp3",
+    "en": "They are mangoes",
+    "id": "int3b__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] They are lychees",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__03__they_are_lychees.mp3",
+    "en": "They are lychees",
+    "id": "int3b__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] They are rambutans",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__04__they_are_rambutans.mp3",
+    "en": "They are rambutans",
+    "id": "int3b__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] They are grapefruits",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__05__they_are_grapefruits.mp3",
+    "en": "They are grapefruits",
+    "id": "int3b__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] They are mangosteens",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__06__they_are_mangosteens.mp3",
+    "en": "They are mangosteens",
+    "id": "int3b__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] They are durians",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__07__they_are_durians.mp3",
+    "en": "They are durians",
+    "id": "int3b__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] They are lemons",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__08__they_are_lemons.mp3",
+    "en": "They are lemons",
+    "id": "int3b__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] They are pineapples",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__09__they_are_pineapples.mp3",
+    "en": "They are pineapples",
+    "id": "int3b__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] They are avocados",
+    "out": "/workspace/day4-speak/audio/int3b__unit06__10__they_are_avocados.mp3",
+    "en": "They are avocados",
+    "id": "int3b__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't forget your transit card",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__01__don_t_forget_your_transit_card.mp3",
+    "en": "Don't forget your transit card",
+    "id": "int3b__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] Don't forget your hat",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__02__don_t_forget_your_hat.mp3",
+    "en": "Don't forget your hat",
+    "id": "int3b__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Don't forget your coat",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__03__don_t_forget_your_coat.mp3",
+    "en": "Don't forget your coat",
+    "id": "int3b__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] Don't forget your money",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__04__don_t_forget_your_money.mp3",
+    "en": "Don't forget your money",
+    "id": "int3b__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't forget your phone",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__05__don_t_forget_your_phone.mp3",
+    "en": "Don't forget your phone",
+    "id": "int3b__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] Don't forget your backpack",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__06__don_t_forget_your_backpack.mp3",
+    "en": "Don't forget your backpack",
+    "id": "int3b__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Don't forget your lunch",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__07__don_t_forget_your_lunch.mp3",
+    "en": "Don't forget your lunch",
+    "id": "int3b__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] Don't forget your little sister",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__08__don_t_forget_your_little_sister.mp3",
+    "en": "Don't forget your little sister",
+    "id": "int3b__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't forget your umbrella",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__09__don_t_forget_your_umbrella.mp3",
+    "en": "Don't forget your umbrella",
+    "id": "int3b__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] Don't forget your textbook",
+    "out": "/workspace/day4-speak/audio/int3b__unit07__10__don_t_forget_your_textbook.mp3",
+    "en": "Don't forget your textbook",
+    "id": "int3b__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Where are you from?",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__01__where_are_you_from.mp3",
+    "en": "Where are you from?",
+    "id": "int3b__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] I am from Canada",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__02__i_am_from_canada.mp3",
+    "en": "I am from Canada",
+    "id": "int3b__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] How tall are you?",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__03__how_tall_are_you.mp3",
+    "en": "How tall are you?",
+    "id": "int3b__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] I am 187 centimeters tall",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__04__i_am_187_centimeters_tall.mp3",
+    "en": "I am 187 centimeters tall",
+    "id": "int3b__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Why did you come to Korea?",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__05__why_did_you_come_to_korea.mp3",
+    "en": "Why did you come to Korea?",
+    "id": "int3b__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] I came to teach English",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__06__i_came_to_teach_english.mp3",
+    "en": "I came to teach English",
+    "id": "int3b__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] What Korean food do you like?",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__07__what_korean_food_do_you_like.mp3",
+    "en": "What Korean food do you like?",
+    "id": "int3b__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] I like gimbap!",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__08__i_like_gimbap.mp3",
+    "en": "I like gimbap!",
+    "id": "int3b__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] How much do you weigh?",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__09__how_much_do_you_weigh.mp3",
+    "en": "How much do you weigh?",
+    "id": "int3b__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] That is a secret!",
+    "out": "/workspace/day4-speak/audio/int3b__unit08__10__that_is_a_secret.mp3",
+    "en": "That is a secret!",
+    "id": "int3b__unit08__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Do you like sweet food?",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__01__do_you_like_sweet_food.mp3",
+    "en": "Do you like sweet food?",
+    "id": "int3c__unit01__01"
+  },
+  {
+    "text": "[friendly coach, clear] Try ddeok",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__02__try_ddeok.mp3",
+    "en": "Try ddeok",
+    "id": "int3c__unit01__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is a sticky rice dessert",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__03__it_is_a_sticky_rice_dessert.mp3",
+    "en": "It is a sticky rice dessert",
+    "id": "int3c__unit01__03"
+  },
+  {
+    "text": "[clear coach, let's go] Do you like salty food?",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__04__do_you_like_salty_food.mp3",
+    "en": "Do you like salty food?",
+    "id": "int3c__unit01__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Try doenjang guk",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__05__try_doenjang_guk.mp3",
+    "en": "Try doenjang guk",
+    "id": "int3c__unit01__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is doenjang jjigae",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__06__it_is_doenjang_jjigae.mp3",
+    "en": "It is doenjang jjigae",
+    "id": "int3c__unit01__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Do you like sour food?",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__07__do_you_like_sour_food.mp3",
+    "en": "Do you like sour food?",
+    "id": "int3c__unit01__07"
+  },
+  {
+    "text": "[clear coach, let's go] Try this",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__08__try_this.mp3",
+    "en": "Try this",
+    "id": "int3c__unit01__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] What is it?",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__09__what_is_it.mp3",
+    "en": "What is it?",
+    "id": "int3c__unit01__09"
+  },
+  {
+    "text": "[friendly coach, clear] I don't know",
+    "out": "/workspace/day4-speak/audio/int3c__unit01__10__i_don_t_know.mp3",
+    "en": "I don't know",
+    "id": "int3c__unit01__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't run",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__01__don_t_run.mp3",
+    "en": "Don't run",
+    "id": "int3c__unit02__01"
+  },
+  {
+    "text": "[friendly coach, clear] Don't yell",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__02__don_t_yell.mp3",
+    "en": "Don't yell",
+    "id": "int3c__unit02__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Don't open it",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__03__don_t_open_it.mp3",
+    "en": "Don't open it",
+    "id": "int3c__unit02__03"
+  },
+  {
+    "text": "[clear coach, let's go] Don't pull it",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__04__don_t_pull_it.mp3",
+    "en": "Don't pull it",
+    "id": "int3c__unit02__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't sleep",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__05__don_t_sleep.mp3",
+    "en": "Don't sleep",
+    "id": "int3c__unit02__05"
+  },
+  {
+    "text": "[friendly coach, clear] Don't throw that",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__06__don_t_throw_that.mp3",
+    "en": "Don't throw that",
+    "id": "int3c__unit02__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Don't burp here",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__07__don_t_burp_here.mp3",
+    "en": "Don't burp here",
+    "id": "int3c__unit02__07"
+  },
+  {
+    "text": "[clear coach, let's go] Don't fight",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__08__don_t_fight.mp3",
+    "en": "Don't fight",
+    "id": "int3c__unit02__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Don't touch",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__09__don_t_touch.mp3",
+    "en": "Don't touch",
+    "id": "int3c__unit02__09"
+  },
+  {
+    "text": "[friendly coach, clear] Don't cry",
+    "out": "/workspace/day4-speak/audio/int3c__unit02__10__don_t_cry.mp3",
+    "en": "Don't cry",
+    "id": "int3c__unit02__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Can I wear a dress?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__01__can_i_wear_a_dress.mp3",
+    "en": "Can I wear a dress?",
+    "id": "int3c__unit03__01"
+  },
+  {
+    "text": "[friendly coach, clear] Can I wear a shirt?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__02__can_i_wear_a_shirt.mp3",
+    "en": "Can I wear a shirt?",
+    "id": "int3c__unit03__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Can I wear pants?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__03__can_i_wear_pants.mp3",
+    "en": "Can I wear pants?",
+    "id": "int3c__unit03__03"
+  },
+  {
+    "text": "[clear coach, let's go] Can I wear socks?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__04__can_i_wear_socks.mp3",
+    "en": "Can I wear socks?",
+    "id": "int3c__unit03__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Can I wear a coat?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__05__can_i_wear_a_coat.mp3",
+    "en": "Can I wear a coat?",
+    "id": "int3c__unit03__05"
+  },
+  {
+    "text": "[friendly coach, clear] Can I wear gloves?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__06__can_i_wear_gloves.mp3",
+    "en": "Can I wear gloves?",
+    "id": "int3c__unit03__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Can I wear shoes?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__07__can_i_wear_shoes.mp3",
+    "en": "Can I wear shoes?",
+    "id": "int3c__unit03__07"
+  },
+  {
+    "text": "[clear coach, let's go] Can I wear a skirt?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__08__can_i_wear_a_skirt.mp3",
+    "en": "Can I wear a skirt?",
+    "id": "int3c__unit03__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Can I wear a hat?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__09__can_i_wear_a_hat.mp3",
+    "en": "Can I wear a hat?",
+    "id": "int3c__unit03__09"
+  },
+  {
+    "text": "[friendly coach, clear] Can I wear glasses?",
+    "out": "/workspace/day4-speak/audio/int3c__unit03__10__can_i_wear_glasses.mp3",
+    "en": "Can I wear glasses?",
+    "id": "int3c__unit03__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Let's go to school",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__01__let_s_go_to_school.mp3",
+    "en": "Let's go to school",
+    "id": "int3c__unit04__01"
+  },
+  {
+    "text": "[friendly coach, clear] Let's sing",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__02__let_s_sing.mp3",
+    "en": "Let's sing",
+    "id": "int3c__unit04__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Let's play soccer",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__03__let_s_play_soccer.mp3",
+    "en": "Let's play soccer",
+    "id": "int3c__unit04__03"
+  },
+  {
+    "text": "[clear coach, let's go] Let's climb the jungle gym",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__04__let_s_climb_the_jungle_gym.mp3",
+    "en": "Let's climb the jungle gym",
+    "id": "int3c__unit04__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Let's watch TV",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__05__let_s_watch_tv.mp3",
+    "en": "Let's watch TV",
+    "id": "int3c__unit04__05"
+  },
+  {
+    "text": "[friendly coach, clear] Let's cook",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__06__let_s_cook.mp3",
+    "en": "Let's cook",
+    "id": "int3c__unit04__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Let's talk",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__07__let_s_talk.mp3",
+    "en": "Let's talk",
+    "id": "int3c__unit04__07"
+  },
+  {
+    "text": "[clear coach, let's go] Let's ride bikes",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__08__let_s_ride_bikes.mp3",
+    "en": "Let's ride bikes",
+    "id": "int3c__unit04__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Let's play an RPG",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__09__let_s_play_an_rpg.mp3",
+    "en": "Let's play an RPG",
+    "id": "int3c__unit04__09"
+  },
+  {
+    "text": "[friendly coach, clear] Let's study",
+    "out": "/workspace/day4-speak/audio/int3c__unit04__10__let_s_study.mp3",
+    "en": "Let's study",
+    "id": "int3c__unit04__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I have a pencil",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__01__i_have_a_pencil.mp3",
+    "en": "I have a pencil",
+    "id": "int3c__unit05__01"
+  },
+  {
+    "text": "[friendly coach, clear] I have a hat",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__02__i_have_a_hat.mp3",
+    "en": "I have a hat",
+    "id": "int3c__unit05__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I have a pencil case",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__03__i_have_a_pencil_case.mp3",
+    "en": "I have a pencil case",
+    "id": "int3c__unit05__03"
+  },
+  {
+    "text": "[clear coach, let's go] I have a newspaper",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__04__i_have_a_newspaper.mp3",
+    "en": "I have a newspaper",
+    "id": "int3c__unit05__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I have a book",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__05__i_have_a_book.mp3",
+    "en": "I have a book",
+    "id": "int3c__unit05__05"
+  },
+  {
+    "text": "[friendly coach, clear] I have a puzzle",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__06__i_have_a_puzzle.mp3",
+    "en": "I have a puzzle",
+    "id": "int3c__unit05__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] I have a chessboard",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__07__i_have_a_chessboard.mp3",
+    "en": "I have a chessboard",
+    "id": "int3c__unit05__07"
+  },
+  {
+    "text": "[clear coach, let's go] I have a phone",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__08__i_have_a_phone.mp3",
+    "en": "I have a phone",
+    "id": "int3c__unit05__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] I have a pillow",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__09__i_have_a_pillow.mp3",
+    "en": "I have a pillow",
+    "id": "int3c__unit05__09"
+  },
+  {
+    "text": "[friendly coach, clear] I have a cup",
+    "out": "/workspace/day4-speak/audio/int3c__unit05__10__i_have_a_cup.mp3",
+    "en": "I have a cup",
+    "id": "int3c__unit05__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] How many cities are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__01__how_many_cities_are_there.mp3",
+    "en": "How many cities are there?",
+    "id": "int3c__unit06__01"
+  },
+  {
+    "text": "[friendly coach, clear] How many provinces are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__02__how_many_provinces_are_there.mp3",
+    "en": "How many provinces are there?",
+    "id": "int3c__unit06__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] How many national parks are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__03__how_many_national_parks_are_there.mp3",
+    "en": "How many national parks are there?",
+    "id": "int3c__unit06__03"
+  },
+  {
+    "text": "[clear coach, let's go] How many islands are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__04__how_many_islands_are_there.mp3",
+    "en": "How many islands are there?",
+    "id": "int3c__unit06__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] How many volcanoes are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__05__how_many_volcanoes_are_there.mp3",
+    "en": "How many volcanoes are there?",
+    "id": "int3c__unit06__05"
+  },
+  {
+    "text": "[friendly coach, clear] How many deserts are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__06__how_many_deserts_are_there.mp3",
+    "en": "How many deserts are there?",
+    "id": "int3c__unit06__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] How many people are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__07__how_many_people_are_there.mp3",
+    "en": "How many people are there?",
+    "id": "int3c__unit06__07"
+  },
+  {
+    "text": "[clear coach, let's go] How many mountains are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__08__how_many_mountains_are_there.mp3",
+    "en": "How many mountains are there?",
+    "id": "int3c__unit06__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] How many tigers are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__09__how_many_tigers_are_there.mp3",
+    "en": "How many tigers are there?",
+    "id": "int3c__unit06__09"
+  },
+  {
+    "text": "[friendly coach, clear] How many students are there?",
+    "out": "/workspace/day4-speak/audio/int3c__unit06__10__how_many_students_are_there.mp3",
+    "en": "How many students are there?",
+    "id": "int3c__unit06__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Yes, I can dance",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__01__yes_i_can_dance.mp3",
+    "en": "Yes, I can dance",
+    "id": "int3c__unit07__01"
+  },
+  {
+    "text": "[friendly coach, clear] Yes, I can jump",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__02__yes_i_can_jump.mp3",
+    "en": "Yes, I can jump",
+    "id": "int3c__unit07__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Yes, I can sing",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__03__yes_i_can_sing.mp3",
+    "en": "Yes, I can sing",
+    "id": "int3c__unit07__03"
+  },
+  {
+    "text": "[clear coach, let's go] No, I cannot fight",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__04__no_i_cannot_fight.mp3",
+    "en": "No, I cannot fight",
+    "id": "int3c__unit07__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Yes, I can type",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__05__yes_i_can_type.mp3",
+    "en": "Yes, I can type",
+    "id": "int3c__unit07__05"
+  },
+  {
+    "text": "[friendly coach, clear] Yes, I can walk",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__06__yes_i_can_walk.mp3",
+    "en": "Yes, I can walk",
+    "id": "int3c__unit07__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] Yes, I can cook",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__07__yes_i_can_cook.mp3",
+    "en": "Yes, I can cook",
+    "id": "int3c__unit07__07"
+  },
+  {
+    "text": "[clear coach, let's go] No, I cannot fly",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__08__no_i_cannot_fly.mp3",
+    "en": "No, I cannot fly",
+    "id": "int3c__unit07__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] Yes, I can love",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__09__yes_i_can_love.mp3",
+    "en": "Yes, I can love",
+    "id": "int3c__unit07__09"
+  },
+  {
+    "text": "[friendly coach, clear] Yes, I can run",
+    "out": "/workspace/day4-speak/audio/int3c__unit07__10__yes_i_can_run.mp3",
+    "en": "Yes, I can run",
+    "id": "int3c__unit07__10"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is one o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__01__it_is_one_o_clock.mp3",
+    "en": "It is one o'clock",
+    "id": "int3c__unit08__01"
+  },
+  {
+    "text": "[friendly coach, clear] It is five o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__02__it_is_five_o_clock.mp3",
+    "en": "It is five o'clock",
+    "id": "int3c__unit08__02"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is six o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__03__it_is_six_o_clock.mp3",
+    "en": "It is six o'clock",
+    "id": "int3c__unit08__03"
+  },
+  {
+    "text": "[clear coach, let's go] It is seven o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__04__it_is_seven_o_clock.mp3",
+    "en": "It is seven o'clock",
+    "id": "int3c__unit08__04"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is eight o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__05__it_is_eight_o_clock.mp3",
+    "en": "It is eight o'clock",
+    "id": "int3c__unit08__05"
+  },
+  {
+    "text": "[friendly coach, clear] It is nine o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__06__it_is_nine_o_clock.mp3",
+    "en": "It is nine o'clock",
+    "id": "int3c__unit08__06"
+  },
+  {
+    "text": "[upbeat coach, warm and clear] It is ten o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__07__it_is_ten_o_clock.mp3",
+    "en": "It is ten o'clock",
+    "id": "int3c__unit08__07"
+  },
+  {
+    "text": "[clear coach, let's go] It is eleven o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__08__it_is_eleven_o_clock.mp3",
+    "en": "It is eleven o'clock",
+    "id": "int3c__unit08__08"
+  },
+  {
+    "text": "[energetic coach, clear and encouraging] It is twelve o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__09__it_is_twelve_o_clock.mp3",
+    "en": "It is twelve o'clock",
+    "id": "int3c__unit08__09"
+  },
+  {
+    "text": "[friendly coach, clear] It is two o'clock",
+    "out": "/workspace/day4-speak/audio/int3c__unit08__10__it_is_two_o_clock.mp3",
+    "en": "It is two o'clock",
+    "id": "int3c__unit08__10"
+  }
+]

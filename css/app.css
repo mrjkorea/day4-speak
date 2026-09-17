@@ -34,6 +34,9 @@ body {
   display: grid; gap: 12px; margin-top: 16px;
 }
 .card-grid { grid-template-columns: 1fr; }
+@media (min-width: 640px) {
+  .card-grid { grid-template-columns: repeat(3, 1fr); }
+}
 @media (min-width: 480px) {
   .unit-grid { grid-template-columns: 1fr 1fr; }
 }
