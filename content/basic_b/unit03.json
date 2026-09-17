@@ -1,0 +1,96 @@
+{
+  "id": "unit03",
+  "title": "Classroom English Two",
+  "items": [
+    {
+      "id": "basic_b-unit03-01",
+      "n": 1,
+      "korean": "다시!",
+      "english": "Again!",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_01_again.mp3",
+      "audio_source": "day5-stu"
+    },
+    {
+      "id": "basic_b-unit03-02",
+      "n": 2,
+      "korean": "이걸 재활용해!",
+      "english": "Recycle this!",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_02_recycle_this.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit03-03",
+      "n": 3,
+      "korean": "이걸 버려!",
+      "english": "Trash this!",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_03_trash_this.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit03-04",
+      "n": 4,
+      "korean": "그거 하지마!",
+      "english": "Don't do that!",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_04_don_t_do_that.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit03-05",
+      "n": 5,
+      "korean": "고마워",
+      "english": "Thank you",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_05_thank_you.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit03-06",
+      "n": 6,
+      "korean": "실례합니다",
+      "english": "Excuse me",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_06_excuse_me.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit03-07",
+      "n": 7,
+      "korean": "저는 이해가 안됩니다",
+      "english": "I do not understand",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_07_i_do_not_understand.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit03-08",
+      "n": 8,
+      "korean": "저는 모르겠습니다",
+      "english": "I do not know",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_08_i_do_not_know.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit03-09",
+      "n": 9,
+      "korean": "도와주세요",
+      "english": "Help me please",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_09_help_me_please.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit03-10",
+      "n": 10,
+      "korean": "조용히해!",
+      "english": "Quiet!",
+      "alts": [],
+      "audio": "audio/basic_b_unit03_10_quiet.mp3",
+      "audio_source": "day6-student"
+    }
+  ]
+}

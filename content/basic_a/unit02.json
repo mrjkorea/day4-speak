@@ -1,0 +1,96 @@
+{
+  "id": "unit02",
+  "title": "Hello",
+  "items": [
+    {
+      "id": "basic_a-unit02-01",
+      "n": 1,
+      "korean": "안녕하세요, Mr.고양이",
+      "english": "Hello, Mr. Cat",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_01_hello_mr_cat.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-02",
+      "n": 2,
+      "korean": "안녕하세요, Mr.개",
+      "english": "Hello, Mr. Dog",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_02_hello_mr_dog.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-03",
+      "n": 3,
+      "korean": "안녕하세요, Mr.소",
+      "english": "Hello, Mr. Cow",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_03_hello_mr_cow.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-04",
+      "n": 4,
+      "korean": "안녕하세요, Mr.말",
+      "english": "Hello, Mr. Horse",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_04_hello_mr_horse.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-05",
+      "n": 5,
+      "korean": "안녕하세요, Ms.닭",
+      "english": "Hello, Ms. Chicken",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_05_hello_ms_chicken.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-06",
+      "n": 6,
+      "korean": "안녕하세요, Ms.염소",
+      "english": "Hello, Ms. Goat",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_06_hello_ms_goat.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-07",
+      "n": 7,
+      "korean": "안녕하세요, Ms.돼지",
+      "english": "Hello, Ms. Pig",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_07_hello_ms_pig.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-08",
+      "n": 8,
+      "korean": "안녕하세요, Mrs.양",
+      "english": "Hello, Mrs. Sheep",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_08_hello_mrs_sheep.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-09",
+      "n": 9,
+      "korean": "안녕하세요, Mrs.오리",
+      "english": "Hello, Mrs. Duck",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_09_hello_mrs_duck.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit02-10",
+      "n": 10,
+      "korean": "안녕하세요, Mrs.거미",
+      "english": "Hello, Mrs. Spider",
+      "alts": [],
+      "audio": "audio/basic_a_unit02_10_hello_mrs_spider.mp3",
+      "audio_source": "fish-maya-baked"
+    }
+  ]
+}

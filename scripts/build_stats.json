@@ -1,0 +1,12 @@
+{
+  "books": 3,
+  "units": 24,
+  "items": 236,
+  "audio_reuse": 200,
+  "audio_missing": 36,
+  "by_source": {
+    "day6-student": 183,
+    "day5-stu": 9,
+    "day5-listen": 8
+  }
+}

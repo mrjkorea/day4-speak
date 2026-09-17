@@ -1,0 +1,96 @@
+{
+  "id": "unit03",
+  "title": "Classroom English Three",
+  "items": [
+    {
+      "id": "basic_c-unit03-01",
+      "n": 1,
+      "korean": "월요일에 봐요",
+      "english": "See you Monday",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_01_see_you_monday.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-02",
+      "n": 2,
+      "korean": "시작해도 되나요?",
+      "english": "May I start?",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_02_may_i_start.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-03",
+      "n": 3,
+      "korean": "보고해라!",
+      "english": "Report!",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_03_report.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-04",
+      "n": 4,
+      "korean": "cat의 철자를 말해라!",
+      "english": "Spell cat!",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_04_spell_cat.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-05",
+      "n": 5,
+      "korean": "cat이 무슨 뜻인가요?",
+      "english": "What does cat mean?",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_05_what_does_cat_mean.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-06",
+      "n": 6,
+      "korean": "천만에요",
+      "english": "You are welcome",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_06_you_are_welcome.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-07",
+      "n": 7,
+      "korean": "절 시험 해 주세요",
+      "english": "Please test me",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_07_please_test_me.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-08",
+      "n": 8,
+      "korean": "내일 봐요",
+      "english": "See you tomorrow",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_08_see_you_tomorrow.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-09",
+      "n": 9,
+      "korean": "저는 이해가 안됩니다",
+      "english": "I do not understand",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_09_i_do_not_understand.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit03-10",
+      "n": 10,
+      "korean": "저는 모르겠습니다",
+      "english": "I do not know",
+      "alts": [],
+      "audio": "audio/basic_c_unit03_10_i_do_not_know.mp3",
+      "audio_source": "day6-student"
+    }
+  ]
+}

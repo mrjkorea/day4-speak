@@ -1,0 +1,1100 @@
+{
+  "BASIC_A": [
+    {
+      "title": "UNIT1: NUmbers 1 to 10",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "일"
+        },
+        {
+          "n": 2,
+          "korean_raw": "이"
+        },
+        {
+          "n": 3,
+          "korean_raw": "삼"
+        },
+        {
+          "n": 4,
+          "korean_raw": "사"
+        },
+        {
+          "n": 5,
+          "korean_raw": "오"
+        },
+        {
+          "n": 6,
+          "korean_raw": "육"
+        },
+        {
+          "n": 7,
+          "korean_raw": "칠"
+        },
+        {
+          "n": 8,
+          "korean_raw": "팔"
+        },
+        {
+          "n": 9,
+          "korean_raw": "구"
+        },
+        {
+          "n": 10,
+          "korean_raw": "십"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE:   Four, Six, Two ___________________________\n\n\n1. 일\n Image result for funny cat \n\n\t2. 이 Image result for funny puppy \n\t   3.  삼 "
+    },
+    {
+      "title": "UNIT2: Hello.",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "안녕하세요, Mr.고양이"
+        },
+        {
+          "n": 2,
+          "korean_raw": "안녕하세요,Mr. 개"
+        },
+        {
+          "n": 3,
+          "korean_raw": "안녕하세요, Mr.소"
+        },
+        {
+          "n": 4,
+          "korean_raw": "안녕하세요, Mr. 말"
+        },
+        {
+          "n": 5,
+          "korean_raw": "안녕하세요, Ms.닭"
+        },
+        {
+          "n": 6,
+          "korean_raw": "안녕하세요,Ms.염소"
+        },
+        {
+          "n": 7,
+          "korean_raw": "안녕하세요, Ms.돼지"
+        },
+        {
+          "n": 8,
+          "korean_raw": "안녕하세요, Mrs.양"
+        },
+        {
+          "n": 9,
+          "korean_raw": "안녕하세요, Mrs. 오리"
+        },
+        {
+          "n": 10,
+          "korean_raw": "안녕하세요,Mrs. 거미"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE:     Hello Mr. Monkey    ________________________________\n                        1. 안녕하세요, Mr.고양이 Image result for funny cat \n\n\n"
+    },
+    {
+      "title": "UNIT3: computer orders",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "헤드셋을 뽑아라"
+        },
+        {
+          "n": 2,
+          "korean_raw": "스크롤을 내려라"
+        },
+        {
+          "n": 3,
+          "korean_raw": "네 ID를 쳐라"
+        },
+        {
+          "n": 4,
+          "korean_raw": "새 탭을 만들어라"
+        },
+        {
+          "n": 5,
+          "korean_raw": "왼쪽 클릭"
+        },
+        {
+          "n": 6,
+          "korean_raw": "오른쪽 클릭"
+        },
+        {
+          "n": 7,
+          "korean_raw": "연속 클릭"
+        },
+        {
+          "n": 8,
+          "korean_raw": "X를 클릭하지마라"
+        },
+        {
+          "n": 9,
+          "korean_raw": "네 컴퓨터를 다시 켜라"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\n                                 EXAMPLE: Click on it ______________________\n                                                   1. 헤드셋을 뽑"
+    },
+    {
+      "title": "UNIT4: CLASSROOM ENGLISH ONE",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "안녕하세요(오후 인사)"
+        },
+        {
+          "n": 2,
+          "korean_raw": "내일 봐요"
+        },
+        {
+          "n": 3,
+          "korean_raw": "미안해요"
+        },
+        {
+          "n": 4,
+          "korean_raw": "뭐라고요?"
+        },
+        {
+          "n": 5,
+          "korean_raw": "도와주세요"
+        },
+        {
+          "n": 6,
+          "korean_raw": "조용히해!"
+        },
+        {
+          "n": 7,
+          "korean_raw": "기다려!"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: Good morning ___________________________\n                                                      1. 안녕하세요(오후 인사) Image result for "
+    },
+    {
+      "title": "UNIT5: family",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WIT?이 분은 제 엄마입니다"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WIT?이 분은 제 아빠입니다"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WIT?이 사람은 제 누나(여동생)입니다"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WIT?이 사람은 제 형(남동생)입니다"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WIT?이 분은 제 삼촌입니다"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WIT?이 분은 제 숙모입니다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WIT?이 분은 제 할머니입니다"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WIT?이 사람은 제 사촌입니다"
+        },
+        {
+          "n": 9,
+          "korean_raw": "WIT?이 사람은 제 조카입니다"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WIT?이 사람은 제 손자입니다."
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n        EXAMPLE:         Who is this? _____________________\n                        This is my father in law ___________________________\n  "
+    },
+    {
+      "title": "UNIT6: what is this?",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WIT?책상입니다"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WIT?짐 볼입니다"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WIT?마우스입니다"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WIT?키보드입니다"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WIT?모니터입니다"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WIT?헤드셋입니다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WIT?큐브입니다"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WIT?클립보드입니다"
+        },
+        {
+          "n": 9,
+          "korean_raw": "WIT?펜입니다"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WIT?책입니다"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: What is this? ________________\nIt is a pen_____________________\n\n\n                                                              "
+    },
+    {
+      "title": "Let’s speak UNIT7: i can",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WCYD?나는 춤을 출 수 있다"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WCYD?나는 빠르게 달릴 수 있다"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WCYD?나는 노래를 할 수 있다"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WCYD?나는 태권도를 할 수 있다"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WCYD?나는 피아노를 칠 수 있다"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WCYD?나는 그릴 수 있다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WCYD?나는 중국어를 할 수 있다"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WCYD?나는 마술을 할 수 있다"
+        },
+        {
+          "n": 9,
+          "korean_raw": "WCYD?나는 공부를 할 수 있다"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WCYD?나는 먹을 수 있다"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \nEXAMPLE:                What can you do? ___________________\n                            I can drive a car __________________________\n     "
+    },
+    {
+      "title": "UNIT8: NUMBERS 11 to 100",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "100"
+        },
+        {
+          "n": 2,
+          "korean_raw": "99"
+        },
+        {
+          "n": 3,
+          "korean_raw": "97"
+        },
+        {
+          "n": 4,
+          "korean_raw": "55"
+        },
+        {
+          "n": 5,
+          "korean_raw": "33"
+        },
+        {
+          "n": 6,
+          "korean_raw": "22"
+        },
+        {
+          "n": 7,
+          "korean_raw": "15"
+        },
+        {
+          "n": 8,
+          "korean_raw": "13"
+        },
+        {
+          "n": 9,
+          "korean_raw": "12"
+        },
+        {
+          "n": 10,
+          "korean_raw": "11"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \nthirty seven __  twenty nine ___ eighteen  __ forty one ___Seventy two ___ fifty six __ ninety three ___ zero ___\n\n\n1.100\n Image result for"
+    }
+  ],
+  "BASIC_B": [
+    {
+      "title": "UNIT1: how are you?",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "HAY? 나는 행복해"
+        },
+        {
+          "n": 2,
+          "korean_raw": "HAY? 나는 슬퍼"
+        },
+        {
+          "n": 3,
+          "korean_raw": "HAY? 나는 화나"
+        },
+        {
+          "n": 4,
+          "korean_raw": "HAY? 나는 배고파"
+        },
+        {
+          "n": 5,
+          "korean_raw": "HAY? 나는 힘들어"
+        },
+        {
+          "n": 6,
+          "korean_raw": "HAY?나는 지루해"
+        },
+        {
+          "n": 7,
+          "korean_raw": "HAY? 나는 무서워"
+        },
+        {
+          "n": 8,
+          "korean_raw": "HAY? 나는 아파"
+        },
+        {
+          "n": 9,
+          "korean_raw": "HAY? 나는 걱정돼"
+        },
+        {
+          "n": 10,
+          "korean_raw": "HAY? 나는 졸려"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n                         EXAMPLE: How are you? _________________\n I’m sad_______________________\n\n\n1.  HAY? 나는 행복해 Image result for funny c"
+    },
+    {
+      "title": "UNIT2:i like Mr. jay",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WDYL? 나는 면을 좋아해"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WDYL?나는 고기를 좋아해"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WDYL? 나는 과일을 좋아해"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WDYL? 나는 게임을 좋아해"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WDYL? 나는 학교를 좋아해"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WDYL? 나는 운동을 좋아해"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WDYL? 나는 영화를 좋아해"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WDYL? 나는 음악을 좋아해"
+        },
+        {
+          "n": 9,
+          "korean_raw": "WDYL? 나는 너를 좋아해"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WDYL? 나는 사과를 좋아해"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: What do you like? ______________\n                                   I like eggs ____________________\n \n                         "
+    },
+    {
+      "title": "UNIT3: CLASSROOM ENGLISH two",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "다시!"
+        },
+        {
+          "n": 2,
+          "korean_raw": "이걸 재활용해!"
+        },
+        {
+          "n": 3,
+          "korean_raw": "이걸 버려!"
+        },
+        {
+          "n": 4,
+          "korean_raw": "그거 하지마!"
+        },
+        {
+          "n": 5,
+          "korean_raw": "고마워"
+        },
+        {
+          "n": 6,
+          "korean_raw": "실례합니다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "저는 이해가 안됩니다"
+        },
+        {
+          "n": 8,
+          "korean_raw": "저는 모르겠습니다"
+        },
+        {
+          "n": 9,
+          "korean_raw": "도와주세요"
+        },
+        {
+          "n": 10,
+          "korean_raw": "조용히해!"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n                            \n                          EXAMPLE: Trash these_________________\n                                              "
+    },
+    {
+      "title": "UNIT4: rock paper scissors!",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "SIOYL! 바위가 이겼다"
+        },
+        {
+          "n": 2,
+          "korean_raw": "SIOYL! 보가 이겼다"
+        },
+        {
+          "n": 3,
+          "korean_raw": "SIOYL! 가위가 이겼다"
+        },
+        {
+          "n": 4,
+          "korean_raw": "SIOYL! 바위가 이겼다"
+        },
+        {
+          "n": 5,
+          "korean_raw": "SIOYL! 보가 이겼다"
+        },
+        {
+          "n": 6,
+          "korean_raw": "SIOYL! 가위가 이겼다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "SIOYL! 바위가 이겼다"
+        },
+        {
+          "n": 8,
+          "korean_raw": "SIOYL! 보가 이겼다"
+        },
+        {
+          "n": 9,
+          "korean_raw": "SIOYL! 가위가 이겼다"
+        },
+        {
+          "n": 10,
+          "korean_raw": "SIOYL! 바위가 이겼다"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/120초 \nEXAMPLE: Show it ,or you lose ROCK PAPER SCISSORS! _________________\nI win_____________________\n\n\n                                        "
+    },
+    {
+      "title": "UNIT5: WHAT IS IT?",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WII? 책이야"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WII? 휴대폰 충전기였다"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WII? 양말이었다"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WII? 장난감이야"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WII? 속옷이야"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WII? 칫솔이었다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WII? 야간등이야"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WII? 곰인형이었다"
+        },
+        {
+          "n": 9,
+          "korean_raw": "WII? 사과였다"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WII? 가방이야"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n  EXAMPLE: What is it? __________________\nIt is a pen __________________________\n\n\n                                                        "
+    },
+    {
+      "title": "UNIT6: i like my body",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WIT?이것은 내 머리입니다"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WIT?이것은 내 코입니다"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WIT?이것은 내 입입니다"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WIT?이것은 내 귀입니다"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WIT?이것은 내 눈입니다"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WIT?이것은 내 목입니다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WIT?이것은 내 몸입니다"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WIT?이것은 내 턱입니다."
+        },
+        {
+          "n": 9,
+          "korean_raw": "WIT?이것은 내 손입니다"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WIT? 이것은 내 어깨입니다"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: What is this? ________________\nThis is my finger ________________\n                                                              "
+    },
+    {
+      "title": "UNIT7: WHAT COLOR IS THAT?",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WCIST?하얀색이야"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WCIST?검은색이야"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WCIST?갈색이야"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WCIST?빨간색이야"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WCIST?주황색이야"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WCIST?노랑색이야"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WCIST?초록색이야"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WCIST?파란색이야"
+        },
+        {
+          "n": 9,
+          "korean_raw": "WCIST?보라색이야"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WCIST?다색이야"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: What color is that? _____________\nIt is pink ___________________\n                                                               "
+    },
+    {
+      "title": "UNIT8: how OLD ARE YOU?",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "HOAY?나는 7살입니다"
+        },
+        {
+          "n": 2,
+          "korean_raw": "HOAY?나는 10살입니다"
+        },
+        {
+          "n": 3,
+          "korean_raw": "HOAY?나는 14살입니다"
+        },
+        {
+          "n": 4,
+          "korean_raw": "HOAY?나는 17살입니다"
+        },
+        {
+          "n": 5,
+          "korean_raw": "HOAY?나는 22살입니다"
+        },
+        {
+          "n": 6,
+          "korean_raw": "HOAY?나는 25살입니다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "HOAY?나는 33살입니다"
+        },
+        {
+          "n": 8,
+          "korean_raw": "HOAY?나는 66살입니다"
+        },
+        {
+          "n": 9,
+          "korean_raw": "HOAY?나는  1살입니다"
+        },
+        {
+          "n": 10,
+          "korean_raw": "HOAY?나는 100살입니다"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: How old are you? _________________\nI am twelve years old. ______________________\n                                               "
+    }
+  ],
+  "BASIC_C": [
+    {
+      "title": "UNIT1: I love my dog zoey",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "나는 내 개 'Zoey'를  사랑해"
+        },
+        {
+          "n": 2,
+          "korean_raw": "나는 내 고양이 'Leo'를 사랑해"
+        },
+        {
+          "n": 3,
+          "korean_raw": "나는 내 새 'Sarah'를 사랑해"
+        },
+        {
+          "n": 4,
+          "korean_raw": "나는 내 토끼 'Sam'을 사랑해"
+        },
+        {
+          "n": 5,
+          "korean_raw": "나는 내 햄스터 'Fluffy'를 사랑해"
+        },
+        {
+          "n": 6,
+          "korean_raw": "나는 내 물고기 'Nimo'를 사랑해"
+        },
+        {
+          "n": 7,
+          "korean_raw": "나는 내 풍뎅이 'Bob'을 사랑해"
+        },
+        {
+          "n": 8,
+          "korean_raw": "나는 내 거북이 'Tom'을 사랑해"
+        },
+        {
+          "n": 9,
+          "korean_raw": "나는 내 뱀 'Jessica'를 사랑해"
+        },
+        {
+          "n": 10,
+          "korean_raw": "나는 내 다람쥐 ‘Sandy’를 사랑해"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: I love my monkey ‘John’ ___________________________\n1. 나는 내 개 'Zoey'를  사랑해 \n Image result for funny cat \n\n\t2. 나는 내 고양이 'Leo'를 사랑"
+    },
+    {
+      "title": "UNIT2: look at my New hat",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "나의 새 모자를 봐"
+        },
+        {
+          "n": 2,
+          "korean_raw": "나의 새 이어폰을 봐"
+        },
+        {
+          "n": 3,
+          "korean_raw": "나의 새 신발을 봐"
+        },
+        {
+          "n": 4,
+          "korean_raw": "나의 새 휴대폰을 봐"
+        },
+        {
+          "n": 5,
+          "korean_raw": "나의 새 외투를 봐"
+        },
+        {
+          "n": 6,
+          "korean_raw": "나의 새 시계를 봐"
+        },
+        {
+          "n": 7,
+          "korean_raw": "나의 새 가방을 봐"
+        },
+        {
+          "n": 8,
+          "korean_raw": "나의 새 컴퓨터를 봐"
+        },
+        {
+          "n": 9,
+          "korean_raw": "나의 새 장갑을 봐"
+        },
+        {
+          "n": 10,
+          "korean_raw": "나의 새 집을 봐"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: LOOK AT MY NEW GLASSES __________________\n                        1. 나의 새 모자를 봐\n Image result for funny cat \n\n\t                 "
+    },
+    {
+      "title": "UNIT3: CLASSROOM ENGLIsh three",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "월요일에 봐요"
+        },
+        {
+          "n": 2,
+          "korean_raw": "시작해도 되나요?"
+        },
+        {
+          "n": 3,
+          "korean_raw": "보고해라!"
+        },
+        {
+          "n": 4,
+          "korean_raw": "cat의 철자를 말해라!"
+        },
+        {
+          "n": 5,
+          "korean_raw": "cat이 무슨 뜻인가요?"
+        },
+        {
+          "n": 6,
+          "korean_raw": "천만에요"
+        },
+        {
+          "n": 7,
+          "korean_raw": "절 시험 해 주세요"
+        },
+        {
+          "n": 8,
+          "korean_raw": "내일 봐요"
+        },
+        {
+          "n": 9,
+          "korean_raw": "저는 이해가 안됩니다"
+        },
+        {
+          "n": 10,
+          "korean_raw": "저는 모르겠습니다"
+        },
+        {
+          "n": 1,
+          "korean_raw": "____________    2.____________   3.____________   4. ____________"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: May I go home? ________________\n                                             1. 월요일에 봐요\n Image result for funny cat \n\n\t         "
+    },
+    {
+      "title": "UNIT4: what can we see near tongyeong?",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WCWSN 서울"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WCWSN부산"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WCWSN 제주"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WCWSN통영"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WCWSN공주"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WCWSN 안동"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WCWSN순천"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WCWSN고성"
+        },
+        {
+          "n": 9,
+          "korean_raw": "WCWSN 평창"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WCWSN  진도"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: What can we see near Geoje?______________________________?\nYou can see a POW camp_______________________________________.\n      "
+    },
+    {
+      "title": "UNIT5: SpellING bee",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "돼지"
+        },
+        {
+          "n": 2,
+          "korean_raw": "개"
+        },
+        {
+          "n": 3,
+          "korean_raw": "고양이"
+        },
+        {
+          "n": 4,
+          "korean_raw": "서울"
+        },
+        {
+          "n": 5,
+          "korean_raw": "통영"
+        },
+        {
+          "n": 6,
+          "korean_raw": "캐나다"
+        },
+        {
+          "n": 7,
+          "korean_raw": "학교"
+        },
+        {
+          "n": 8,
+          "korean_raw": "그네"
+        },
+        {
+          "n": 9,
+          "korean_raw": "무릎"
+        },
+        {
+          "n": 10,
+          "korean_raw": "얼굴"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\n                      EXAMPLE:                     Spell English! ________________\n                        E.N.G.L.I.S.H ________________"
+    },
+    {
+      "title": "UNIT6: don’t touch your arm",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "당신의 팔을 만지지 마세요"
+        },
+        {
+          "n": 2,
+          "korean_raw": "당신의 다리를 만지지 마세요"
+        },
+        {
+          "n": 3,
+          "korean_raw": "당신의 무릎을 만지지 마세요"
+        },
+        {
+          "n": 4,
+          "korean_raw": "당신의 등을 만지지 마세요"
+        },
+        {
+          "n": 5,
+          "korean_raw": "당신의 얼굴을 만지지 마세요"
+        },
+        {
+          "n": 6,
+          "korean_raw": "당신의 배를 만지지 마세요"
+        },
+        {
+          "n": 7,
+          "korean_raw": "당신의 손목을 만지지 마세요"
+        },
+        {
+          "n": 8,
+          "korean_raw": "당신의 발가락을 만지지 마세요"
+        },
+        {
+          "n": 9,
+          "korean_raw": "당신의 목을 만지지 마세요"
+        },
+        {
+          "n": 10,
+          "korean_raw": "당신의 귀를 만지지 마세요"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: Don’t touch your shoulder __________________ Sorry____________\n\n\n                                                               "
+    },
+    {
+      "title": "UNIT7: come play with us",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "미끄럼틀은 어디에 있어?"
+        },
+        {
+          "n": 2,
+          "korean_raw": "시소는 어디에 있어?"
+        },
+        {
+          "n": 3,
+          "korean_raw": "회전목마는 어디에 있어?"
+        },
+        {
+          "n": 4,
+          "korean_raw": "그네는 어디에 있어?"
+        },
+        {
+          "n": 5,
+          "korean_raw": "정글짐은 어디에 있어?"
+        },
+        {
+          "n": 6,
+          "korean_raw": "모래사장은 어디에 있어?"
+        },
+        {
+          "n": 7,
+          "korean_raw": "놀이터는 어디에 있어?"
+        },
+        {
+          "n": 8,
+          "korean_raw": "범퍼카는 어디에 있어?"
+        },
+        {
+          "n": 9,
+          "korean_raw": "미로는 어디에 있어?"
+        },
+        {
+          "n": 10,
+          "korean_raw": "롤러코스터는 어디에 있어?"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \nEXAMPLE: Where is the bench? ___________________\nIt is here. ________________     It is there. ___________________\n                        "
+    },
+    {
+      "title": "UNIT8: i want a new computer",
+      "items": [
+        {
+          "n": 1,
+          "korean_raw": "WDYW? 나는 새 인형을 원해"
+        },
+        {
+          "n": 2,
+          "korean_raw": "WDYW?나는 새 필통을 원해"
+        },
+        {
+          "n": 3,
+          "korean_raw": "WDYW?나는 새 책가방을 원해"
+        },
+        {
+          "n": 4,
+          "korean_raw": "WDYW?나는 새 이어폰을 원해"
+        },
+        {
+          "n": 5,
+          "korean_raw": "WDYW?나는 새 휴대폰을 원해"
+        },
+        {
+          "n": 6,
+          "korean_raw": "WDYW?나는 새 옷을 원해"
+        },
+        {
+          "n": 7,
+          "korean_raw": "WDYW?나는 새 자전거를 원해"
+        },
+        {
+          "n": 8,
+          "korean_raw": "WDYW?나는 새 컴퓨터를 원해"
+        },
+        {
+          "n": 9,
+          "korean_raw": "WDYW?나는 새 남동생을 원해"
+        },
+        {
+          "n": 10,
+          "korean_raw": "WDYW?나는 새 집을 원해"
+        }
+      ],
+      "raw_preview": "CP Sign _________________  STOPWATCH___________________/60초 \n\n\nEXAMPLE: What do you want? __________________\nI want a smartphone __________________\n                                                    "
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "basic_a",
+      "label": "Basic A",
+      "path": "content/basic_a.json",
+      "units": 8,
+      "items": 76
+    },
+    {
+      "id": "basic_b",
+      "label": "Basic B",
+      "path": "content/basic_b.json",
+      "units": 8,
+      "items": 80
+    },
+    {
+      "id": "basic_c",
+      "label": "Basic C",
+      "path": "content/basic_c.json",
+      "units": 8,
+      "items": 80
+    }
+  ],
+  "pass_score": 80,
+  "scoring": "webspeech-levenshtein",
+  "version": 1
+}

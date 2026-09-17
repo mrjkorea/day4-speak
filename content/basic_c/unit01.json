@@ -1,0 +1,96 @@
+{
+  "id": "unit01",
+  "title": "I Love My Dog Zoey",
+  "items": [
+    {
+      "id": "basic_c-unit01-01",
+      "n": 1,
+      "korean": "나는 내 개 'Zoey'를 사랑해",
+      "english": "I love my dog Zoey",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_01_i_love_my_dog_zoey.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-02",
+      "n": 2,
+      "korean": "나는 내 고양이 'Leo'를 사랑해",
+      "english": "I love my cat Leo",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_02_i_love_my_cat_leo.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-03",
+      "n": 3,
+      "korean": "나는 내 새 'Sarah'를 사랑해",
+      "english": "I love my bird Sarah",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_03_i_love_my_bird_sarah.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-04",
+      "n": 4,
+      "korean": "나는 내 토끼 'Sam'을 사랑해",
+      "english": "I love my rabbit Sam",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_04_i_love_my_rabbit_sam.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-05",
+      "n": 5,
+      "korean": "나는 내 햄스터 'Fluffy'를 사랑해",
+      "english": "I love my hamster Fluffy",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_05_i_love_my_hamster_fluffy.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-06",
+      "n": 6,
+      "korean": "나는 내 물고기 'Nimo'를 사랑해",
+      "english": "I love my fish Nimo",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_06_i_love_my_fish_nimo.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-07",
+      "n": 7,
+      "korean": "나는 내 풍뎅이 'Bob'을 사랑해",
+      "english": "I love my beetle Bob",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_07_i_love_my_beetle_bob.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-08",
+      "n": 8,
+      "korean": "나는 내 거북이 'Tom'을 사랑해",
+      "english": "I love my turtle Tom",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_08_i_love_my_turtle_tom.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-09",
+      "n": 9,
+      "korean": "나는 내 뱀 'Jessica'를 사랑해",
+      "english": "I love my snake Jessica",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_09_i_love_my_snake_jessica.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit01-10",
+      "n": 10,
+      "korean": "나는 내 다람쥐 'Sandy'를 사랑해",
+      "english": "I love my squirrel Sandy",
+      "alts": [],
+      "audio": "audio/basic_c_unit01_10_i_love_my_squirrel_sandy.mp3",
+      "audio_source": "fish-maya-baked"
+    }
+  ]
+}

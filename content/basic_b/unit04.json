@@ -1,0 +1,126 @@
+{
+  "id": "unit04",
+  "title": "Rock Paper Scissors",
+  "items": [
+    {
+      "id": "basic_b-unit04-01",
+      "n": 1,
+      "korean": "바위가 이겼다",
+      "english": "Rock wins",
+      "alts": [
+        "rock",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_01_rock_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-02",
+      "n": 2,
+      "korean": "보가 이겼다",
+      "english": "Paper wins",
+      "alts": [
+        "paper",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_02_paper_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-03",
+      "n": 3,
+      "korean": "가위가 이겼다",
+      "english": "Scissors wins",
+      "alts": [
+        "scissors",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_03_scissors_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-04",
+      "n": 4,
+      "korean": "바위가 이겼다",
+      "english": "Rock wins",
+      "alts": [
+        "rock",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_04_rock_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-05",
+      "n": 5,
+      "korean": "보가 이겼다",
+      "english": "Paper wins",
+      "alts": [
+        "paper",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_05_paper_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-06",
+      "n": 6,
+      "korean": "가위가 이겼다",
+      "english": "Scissors wins",
+      "alts": [
+        "scissors",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_06_scissors_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-07",
+      "n": 7,
+      "korean": "바위가 이겼다",
+      "english": "Rock wins",
+      "alts": [
+        "rock",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_07_rock_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-08",
+      "n": 8,
+      "korean": "보가 이겼다",
+      "english": "Paper wins",
+      "alts": [
+        "paper",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_08_paper_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-09",
+      "n": 9,
+      "korean": "가위가 이겼다",
+      "english": "Scissors wins",
+      "alts": [
+        "scissors",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_09_scissors_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit04-10",
+      "n": 10,
+      "korean": "바위가 이겼다",
+      "english": "Rock wins",
+      "alts": [
+        "rock",
+        "I win"
+      ],
+      "audio": "audio/basic_b_unit04_10_rock_wins.mp3",
+      "audio_source": "fish-maya-baked"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "unit05",
+  "title": "What is it?",
+  "items": [
+    {
+      "id": "basic_b-unit05-01",
+      "n": 1,
+      "korean": "책이야",
+      "english": "It is a book",
+      "alts": [],
+      "audio": "audio/basic_b_unit05_01_it_is_a_book.mp3",
+      "audio_source": "day5-stu"
+    },
+    {
+      "id": "basic_b-unit05-02",
+      "n": 2,
+      "korean": "휴대폰 충전기였다",
+      "english": "It was a phone charger",
+      "alts": [
+        "It is a phone charger"
+      ],
+      "audio": "audio/basic_b_unit05_02_it_was_a_phone_charger.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit05-03",
+      "n": 3,
+      "korean": "양말이었다",
+      "english": "It was a sock",
+      "alts": [
+        "It is a sock"
+      ],
+      "audio": "audio/basic_b_unit05_03_it_was_a_sock.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit05-04",
+      "n": 4,
+      "korean": "장난감이야",
+      "english": "It is a toy",
+      "alts": [],
+      "audio": "audio/basic_b_unit05_04_it_is_a_toy.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit05-05",
+      "n": 5,
+      "korean": "속옷이야",
+      "english": "It is underwear",
+      "alts": [],
+      "audio": "audio/basic_b_unit05_05_it_is_underwear.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit05-06",
+      "n": 6,
+      "korean": "칫솔이었다",
+      "english": "It was a toothbrush",
+      "alts": [
+        "It is a toothbrush"
+      ],
+      "audio": "audio/basic_b_unit05_06_it_was_a_toothbrush.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit05-07",
+      "n": 7,
+      "korean": "야간등이야",
+      "english": "It is a night light",
+      "alts": [],
+      "audio": "audio/basic_b_unit05_07_it_is_a_night_light.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit05-08",
+      "n": 8,
+      "korean": "곰인형이었다",
+      "english": "It was a teddy bear",
+      "alts": [
+        "It is a teddy bear"
+      ],
+      "audio": "audio/basic_b_unit05_08_it_was_a_teddy_bear.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit05-09",
+      "n": 9,
+      "korean": "사과였다",
+      "english": "It was an apple",
+      "alts": [],
+      "audio": "audio/basic_b_unit05_09_it_was_an_apple.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit05-10",
+      "n": 10,
+      "korean": "가방이야",
+      "english": "It is a bag",
+      "alts": [],
+      "audio": "audio/basic_b_unit05_10_it_is_a_bag.mp3",
+      "audio_source": "fish-maya-baked"
+    }
+  ]
+}

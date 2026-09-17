@@ -1,0 +1,96 @@
+{
+  "id": "unit01",
+  "title": "Numbers 1 to 10",
+  "items": [
+    {
+      "id": "basic_a-unit01-01",
+      "n": 1,
+      "korean": "일",
+      "english": "one",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_01_one.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-02",
+      "n": 2,
+      "korean": "이",
+      "english": "two",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_02_two.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-03",
+      "n": 3,
+      "korean": "삼",
+      "english": "three",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_03_three.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-04",
+      "n": 4,
+      "korean": "사",
+      "english": "four",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_04_four.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-05",
+      "n": 5,
+      "korean": "오",
+      "english": "five",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_05_five.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-06",
+      "n": 6,
+      "korean": "육",
+      "english": "six",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_06_six.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-07",
+      "n": 7,
+      "korean": "칠",
+      "english": "seven",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_07_seven.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-08",
+      "n": 8,
+      "korean": "팔",
+      "english": "eight",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_08_eight.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-09",
+      "n": 9,
+      "korean": "구",
+      "english": "nine",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_09_nine.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit01-10",
+      "n": 10,
+      "korean": "십",
+      "english": "ten",
+      "alts": [],
+      "audio": "audio/basic_a_unit01_10_ten.mp3",
+      "audio_source": "day6-student"
+    }
+  ]
+}

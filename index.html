@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Day 4 Speak · MRJ</title>
+  <link rel="stylesheet" href="css/app.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎤</text></svg>" />
+</head>
+<body>
+  <div id="app">
+    <header class="top">
+      <button type="button" id="btnHome" class="ghost" hidden>← Home</button>
+      <h1 id="title">Day 4 Speak</h1>
+      <span id="scoreBadge" class="badge" hidden></span>
+    </header>
+
+    <main id="viewHome" class="view">
+      <p class="lead">한국어를 보고 → 듣고 → 영어로 말해요!<br/><small>Pass ≥ 80%</small></p>
+      <div id="bookList" class="card-grid"></div>
+      <section class="records">
+        <h2>내 기록</h2>
+        <div id="recordList" class="muted">아직 기록이 없어요.</div>
+        <button type="button" id="btnExport" class="secondary">Download JSON</button>
+      </section>
+    </main>
+
+    <main id="viewUnit" class="view" hidden>
+      <div id="unitPicker" class="unit-grid"></div>
+    </main>
+
+    <main id="viewSpeak" class="view" hidden>
+      <div class="progress-wrap">
+        <div id="progressBar" class="progress"></div>
+        <span id="progressText">1 / 10</span>
+      </div>
+
+      <div class="cue-card" id="cueCard">
+        <p class="hint">탭해서 영어 듣기 🎧</p>
+        <button type="button" id="btnCue" class="cue-btn" aria-label="Play English">
+          <span id="koreanCue" class="korean">…</span>
+        </button>
+        <p id="englishReveal" class="english" hidden></p>
+      </div>
+
+      <div class="actions">
+        <button type="button" id="btnHear" class="secondary">▶ Hear again</button>
+        <button type="button" id="btnMic" class="primary mic">🎤 Speak</button>
+      </div>
+      <p id="micStatus" class="status muted">마이크 버튼을 누르고 영어로 말하세요</p>
+      <div id="resultBox" class="result" hidden>
+        <div id="resultScore" class="big-score"></div>
+        <div id="resultDetail" class="muted"></div>
+      </div>
+      <div class="nav-row">
+        <button type="button" id="btnSkip" class="ghost">Skip →</button>
+        <button type="button" id="btnNext" class="primary" hidden>Next →</button>
+      </div>
+    </main>
+
+    <main id="viewDone" class="view" hidden>
+      <div class="done-card">
+        <h2>완료! 🎉</h2>
+        <p id="doneSummary" class="big-score"></p>
+        <p id="doneDetail" class="muted"></p>
+        <button type="button" id="btnAgain" class="primary">다시 하기</button>
+        <button type="button" id="btnBackUnits" class="secondary">Unit 목록</button>
+      </div>
+    </main>
+  </div>
+  <script src="js/score.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

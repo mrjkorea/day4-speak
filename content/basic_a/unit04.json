@@ -1,0 +1,69 @@
+{
+  "id": "unit04",
+  "title": "Classroom English One",
+  "items": [
+    {
+      "id": "basic_a-unit04-01",
+      "n": 1,
+      "korean": "안녕하세요(오후 인사)",
+      "english": "Good afternoon",
+      "alts": [],
+      "audio": "audio/basic_a_unit04_01_good_afternoon.mp3",
+      "audio_source": "day5-stu"
+    },
+    {
+      "id": "basic_a-unit04-02",
+      "n": 2,
+      "korean": "내일 봐요",
+      "english": "See you tomorrow",
+      "alts": [],
+      "audio": "audio/basic_a_unit04_02_see_you_tomorrow.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit04-03",
+      "n": 3,
+      "korean": "미안해요",
+      "english": "Sorry",
+      "alts": [],
+      "audio": "audio/basic_a_unit04_03_sorry.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit04-04",
+      "n": 4,
+      "korean": "뭐라고요?",
+      "english": "Pardon?",
+      "alts": [],
+      "audio": "audio/basic_a_unit04_04_pardon.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit04-05",
+      "n": 5,
+      "korean": "도와주세요",
+      "english": "Help me please",
+      "alts": [],
+      "audio": "audio/basic_a_unit04_05_help_me_please.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit04-06",
+      "n": 6,
+      "korean": "조용히해!",
+      "english": "Quiet!",
+      "alts": [],
+      "audio": "audio/basic_a_unit04_06_quiet.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_a-unit04-07",
+      "n": 7,
+      "korean": "기다려!",
+      "english": "Wait!",
+      "alts": [],
+      "audio": "audio/basic_a_unit04_07_wait.mp3",
+      "audio_source": "day6-student"
+    }
+  ]
+}

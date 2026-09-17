@@ -1,0 +1,96 @@
+{
+  "id": "unit06",
+  "title": "I like my body",
+  "items": [
+    {
+      "id": "basic_b-unit06-01",
+      "n": 1,
+      "korean": "이것은 내 머리입니다",
+      "english": "This is my head",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_01_this_is_my_head.mp3",
+      "audio_source": "day5-stu"
+    },
+    {
+      "id": "basic_b-unit06-02",
+      "n": 2,
+      "korean": "이것은 내 코입니다",
+      "english": "This is my nose",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_02_this_is_my_nose.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit06-03",
+      "n": 3,
+      "korean": "이것은 내 입입니다",
+      "english": "This is my mouth",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_03_this_is_my_mouth.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit06-04",
+      "n": 4,
+      "korean": "이것은 내 귀입니다",
+      "english": "This is my ear",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_04_this_is_my_ear.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit06-05",
+      "n": 5,
+      "korean": "이것은 내 눈입니다",
+      "english": "This is my eye",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_05_this_is_my_eye.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit06-06",
+      "n": 6,
+      "korean": "이것은 내 목입니다",
+      "english": "This is my neck",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_06_this_is_my_neck.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_b-unit06-07",
+      "n": 7,
+      "korean": "이것은 내 몸입니다",
+      "english": "This is my body",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_07_this_is_my_body.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit06-08",
+      "n": 8,
+      "korean": "이것은 내 턱입니다",
+      "english": "This is my chin",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_08_this_is_my_chin.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit06-09",
+      "n": 9,
+      "korean": "이것은 내 손입니다",
+      "english": "This is my hand",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_09_this_is_my_hand.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_b-unit06-10",
+      "n": 10,
+      "korean": "이것은 내 어깨입니다",
+      "english": "This is my shoulder",
+      "alts": [],
+      "audio": "audio/basic_b_unit06_10_this_is_my_shoulder.mp3",
+      "audio_source": "fish-maya-baked"
+    }
+  ]
+}

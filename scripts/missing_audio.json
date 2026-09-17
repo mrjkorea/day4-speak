@@ -1,0 +1,254 @@
+[
+  {
+    "book": "basic_a",
+    "unit": "unit02",
+    "n": 10,
+    "english": "Hello, Mrs. Spider",
+    "korean": "안녕하세요, Mrs.거미"
+  },
+  {
+    "book": "basic_a",
+    "unit": "unit05",
+    "n": 9,
+    "english": "This is my nephew",
+    "korean": "이 사람은 제 조카입니다"
+  },
+  {
+    "book": "basic_a",
+    "unit": "unit05",
+    "n": 10,
+    "english": "This is my grandson",
+    "korean": "이 사람은 제 손자입니다"
+  },
+  {
+    "book": "basic_a",
+    "unit": "unit07",
+    "n": 10,
+    "english": "I can eat",
+    "korean": "나는 먹을 수 있다"
+  },
+  {
+    "book": "basic_a",
+    "unit": "unit08",
+    "n": 2,
+    "english": "ninety-nine",
+    "korean": "99"
+  },
+  {
+    "book": "basic_a",
+    "unit": "unit08",
+    "n": 3,
+    "english": "ninety-seven",
+    "korean": "97"
+  },
+  {
+    "book": "basic_a",
+    "unit": "unit08",
+    "n": 5,
+    "english": "thirty-three",
+    "korean": "33"
+  },
+  {
+    "book": "basic_a",
+    "unit": "unit08",
+    "n": 7,
+    "english": "fifteen",
+    "korean": "15"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit01",
+    "n": 10,
+    "english": "I am sleepy",
+    "korean": "나는 졸려"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit02",
+    "n": 10,
+    "english": "I like apples",
+    "korean": "나는 사과를 좋아해"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit05",
+    "n": 10,
+    "english": "It is a bag",
+    "korean": "가방이야"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit06",
+    "n": 7,
+    "english": "This is my body",
+    "korean": "이것은 내 몸입니다"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit06",
+    "n": 8,
+    "english": "This is my chin",
+    "korean": "이것은 내 턱입니다"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit06",
+    "n": 9,
+    "english": "This is my hand",
+    "korean": "이것은 내 손입니다"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit06",
+    "n": 10,
+    "english": "This is my shoulder",
+    "korean": "이것은 내 어깨입니다"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit08",
+    "n": 9,
+    "english": "I am one year old",
+    "korean": "나는 1살입니다"
+  },
+  {
+    "book": "basic_b",
+    "unit": "unit08",
+    "n": 10,
+    "english": "I am one hundred years old",
+    "korean": "나는 100살입니다"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit01",
+    "n": 10,
+    "english": "I love my squirrel Sandy",
+    "korean": "나는 내 다람쥐 'Sandy'를 사랑해"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit02",
+    "n": 9,
+    "english": "Look at my new gloves",
+    "korean": "나의 새 장갑을 봐"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit02",
+    "n": 10,
+    "english": "Look at my new house",
+    "korean": "나의 새 집을 봐"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit04",
+    "n": 5,
+    "english": "What can we see near Gongju?",
+    "korean": "공주"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit04",
+    "n": 7,
+    "english": "What can we see near Suncheon?",
+    "korean": "순천"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit04",
+    "n": 8,
+    "english": "What can we see near Goseong?",
+    "korean": "고성"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit04",
+    "n": 9,
+    "english": "What can we see near Pyeongchang?",
+    "korean": "평창"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit04",
+    "n": 10,
+    "english": "What can we see near Jindo?",
+    "korean": "진도"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit05",
+    "n": 6,
+    "english": "Canada",
+    "korean": "캐나다"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit05",
+    "n": 7,
+    "english": "school",
+    "korean": "학교"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit05",
+    "n": 10,
+    "english": "face",
+    "korean": "얼굴"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit06",
+    "n": 7,
+    "english": "Don't touch your wrist",
+    "korean": "당신의 손목을 만지지 마세요"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit06",
+    "n": 8,
+    "english": "Don't touch your toe",
+    "korean": "당신의 발가락을 만지지 마세요"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit06",
+    "n": 9,
+    "english": "Don't touch your neck",
+    "korean": "당신의 목을 만지지 마세요"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit06",
+    "n": 10,
+    "english": "Don't touch your ear",
+    "korean": "당신의 귀를 만지지 마세요"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit07",
+    "n": 8,
+    "english": "Where is the bumper car?",
+    "korean": "범퍼카는 어디에 있어?"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit07",
+    "n": 9,
+    "english": "Where is the maze?",
+    "korean": "미로는 어디에 있어?"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit07",
+    "n": 10,
+    "english": "Where is the roller coaster?",
+    "korean": "롤러코스터는 어디에 있어?"
+  },
+  {
+    "book": "basic_c",
+    "unit": "unit08",
+    "n": 10,
+    "english": "I want a new house",
+    "korean": "나는 새 집을 원해"
+  }
+]

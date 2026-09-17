@@ -1,0 +1,98 @@
+{
+  "id": "unit07",
+  "title": "Come Play With Us",
+  "items": [
+    {
+      "id": "basic_c-unit07-01",
+      "n": 1,
+      "korean": "미끄럼틀은 어디에 있어?",
+      "english": "Where is the slide?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_01_where_is_the_slide.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit07-02",
+      "n": 2,
+      "korean": "시소는 어디에 있어?",
+      "english": "Where is the seesaw?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_02_where_is_the_seesaw.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit07-03",
+      "n": 3,
+      "korean": "회전목마는 어디에 있어?",
+      "english": "Where is the merry-go-round?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_03_where_is_the_merry_go_round.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit07-04",
+      "n": 4,
+      "korean": "그네는 어디에 있어?",
+      "english": "Where is the swing?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_04_where_is_the_swing.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit07-05",
+      "n": 5,
+      "korean": "정글짐은 어디에 있어?",
+      "english": "Where is the jungle gym?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_05_where_is_the_jungle_gym.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit07-06",
+      "n": 6,
+      "korean": "모래사장은 어디에 있어?",
+      "english": "Where is the sandbox?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_06_where_is_the_sandbox.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit07-07",
+      "n": 7,
+      "korean": "놀이터는 어디에 있어?",
+      "english": "Where is the playhouse?",
+      "alts": [
+        "Where is the playground?"
+      ],
+      "audio": "audio/basic_c_unit07_07_where_is_the_playhouse.mp3",
+      "audio_source": "day6-student"
+    },
+    {
+      "id": "basic_c-unit07-08",
+      "n": 8,
+      "korean": "범퍼카는 어디에 있어?",
+      "english": "Where is the bumper car?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_08_where_is_the_bumper_car.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_c-unit07-09",
+      "n": 9,
+      "korean": "미로는 어디에 있어?",
+      "english": "Where is the maze?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_09_where_is_the_maze.mp3",
+      "audio_source": "fish-maya-baked"
+    },
+    {
+      "id": "basic_c-unit07-10",
+      "n": 10,
+      "korean": "롤러코스터는 어디에 있어?",
+      "english": "Where is the roller coaster?",
+      "alts": [],
+      "audio": "audio/basic_c_unit07_10_where_is_the_roller_coaster.mp3",
+      "audio_source": "fish-maya-baked"
+    }
+  ]
+}
