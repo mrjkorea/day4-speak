@@ -3,7 +3,7 @@
 **App:** MRJ Day 4 Speaking (Basic A / B / C)  
 **Repo:** `mrjkorea/day4-speak`  
 **Built:** 2026-09-18 (KST)  
-**Live:** see Pages URL after deploy
+**Live:** https://mrjkorea.github.io/day4-speak/
 
 ## Counts
 
