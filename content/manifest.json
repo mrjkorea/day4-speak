@@ -72,5 +72,20 @@
     "books": 9,
     "units": 72,
     "items": 716
-  }
+  },
+  "voices": [
+    {
+      "id": "ray",
+      "label": "Coach Ray",
+      "fish_id": "76bb6ae7b26c41fbbd484514fdb014c2",
+      "field": "audio",
+      "default": true
+    },
+    {
+      "id": "harper",
+      "label": "Miss Harper",
+      "fish_id": "736de7d32d7949469ba4664bce9f3f32",
+      "field": "audio_harper"
+    }
+  ]
 }

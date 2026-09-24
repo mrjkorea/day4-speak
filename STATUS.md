@@ -54,3 +54,10 @@
 ### Deploy
 
 - GitHub Pages from `main` / root · local `gh` only · no CloudAgent
+
+## v2 — 2026-09-25 (KST)
+
+- **Voice picker** (home + speak screen): Coach Ray (default) / Miss Harper, saved in `localStorage` (`mrj_day4_speak_voice_v1`).
+- **Miss Harper** Fish `736de7d32d7949469ba4664bce9f3f32` · model s2.1-pro-free · 716/716 baked, 0 fail (`scripts/bake_harper.py`, log `scripts/bake_harper_log.json`). Files in `audio_harper/` mirror `audio/` names. Item field `audio_harper`.
+- **Pictures**: 522 / 716 items show a Day 5 picture (strict visual match, 463 unique webp in `images/`). Map: `scripts/picture_map.json`. Item field `image`; no field → no picture.
+- **Home redesign**: Basic vs Intermediate groups, 9 colored book cards, big numbered unit tiles, responsive.

@@ -1,7 +1,45 @@
-/* Day 4 Speak — MRJ all 9 books · Coach Ray model audio */
+/* Day 4 Speak — MRJ all 9 books · Coach Ray / Miss Harper model audio */
 (function () {
   const PASS = 80;
   const STORAGE_KEY = "mrj_day4_speak_records_v1";
+  const VOICE_KEY = "mrj_day4_speak_voice_v1";
+  const VOICES = {
+    ray: { label: "Coach Ray", field: "audio" },
+    harper: { label: "Miss Harper", field: "audio_harper" },
+  };
+  const BOOK_STYLE = {
+    basic_a: { color: "#ff6b6b", emoji: "🐶" },
+    basic_b: { color: "#ff922b", emoji: "🍎" },
+    basic_c: { color: "#f59f00", emoji: "🎈" },
+    int2a: { color: "#37b24d", emoji: "🌦️" },
+    int2b: { color: "#12b886", emoji: "🕒" },
+    int2c: { color: "#1c7ed6", emoji: "🌸" },
+    int3a: { color: "#4c6ef5", emoji: "🎨" },
+    int3b: { color: "#7950f2", emoji: "🎸" },
+    int3c: { color: "#e64980", emoji: "🍡" },
+  };
+  let voice = "ray";
+  try {
+    const v = localStorage.getItem(VOICE_KEY);
+    if (v && VOICES[v]) voice = v;
+  } catch (_) {}
+
+  function setVoice(v) {
+    if (!VOICES[v]) return;
+    voice = v;
+    try { localStorage.setItem(VOICE_KEY, v); } catch (_) {}
+    document.querySelectorAll(".voice-btn").forEach((b) => {
+      const on = b.dataset.voice === v;
+      b.classList.toggle("on", on);
+      b.setAttribute("aria-pressed", on ? "true" : "false");
+    });
+    document.body.dataset.voice = v;
+  }
+
+  function audioUrl(item) {
+    return item[VOICES[voice].field] || item.audio || "";
+  }
+  window.Day4Voice = { get: () => voice, set: setVoice, url: audioUrl };
   // TODO: Score Dashboard hook — POST/local sync of records when dashboard ships.
 
   const el = (id) => document.getElementById(id);
@@ -65,16 +103,45 @@
     manifest = await fetch("content/manifest.json").then((r) => r.json());
     const list = el("bookList");
     list.innerHTML = "";
-    for (const b of manifest.books) {
-      const data = await fetch(b.path).then((r) => r.json());
+    const datas = await Promise.all(
+      manifest.books.map((b) => fetch(b.path).then((r) => r.json()))
+    );
+    manifest.books.forEach((b, i) => {
+      const data = datas[i];
       books[b.id] = data;
-      const btn = document.createElement("button");
-      btn.type = "button";
-      btn.className = "book-card";
-      btn.innerHTML = `<h2>${data.label}</h2><p>${data.units.length} units · ${b.items} items</p>`;
-      btn.onclick = () => openBook(b.id);
-      list.appendChild(btn);
-    }
+      const st = BOOK_STYLE[b.id] || { color: "#3b82f6", emoji: "📘" };
+      const sec = document.createElement("section");
+      sec.className = "book-sec";
+      sec.style.setProperty("--book", st.color);
+      const head = document.createElement("button");
+      head.type = "button";
+      head.className = "book-head";
+      head.innerHTML = `<span class="book-emoji">${st.emoji}</span><span class="book-name">${data.label}</span><span class="book-meta">${data.units.length} units · ${b.items} items</span>`;
+      head.onclick = () => openBook(b.id);
+      sec.appendChild(head);
+      const grid = document.createElement("div");
+      grid.className = "tile-grid";
+      data.units.forEach((u) => {
+        const t = document.createElement("button");
+        t.type = "button";
+        t.className = "unit-tile";
+        const num = parseInt(u.id.replace("unit", ""), 10);
+        t.innerHTML = `<span class="tile-num">${num}</span><span class="tile-title">${u.title}</span>`;
+        t.setAttribute("aria-label", `${data.label} Unit ${num}: ${u.title}`);
+        t.onclick = () => startUnit(b.id, u.id);
+        grid.appendChild(t);
+      });
+      sec.appendChild(grid);
+      const target = b.id.startsWith("basic") ? el("bookListBasic") : el("bookListInt");
+      target.appendChild(sec);
+    });
+    document.querySelectorAll(".voice-btn").forEach((btn) => {
+      btn.onclick = () => {
+        setVoice(btn.dataset.voice);
+        if (!views.speak.hidden && state.unit) playAudio();
+      };
+    });
+    setVoice(voice);
     renderRecords();
     el("btnHome").onclick = () => {
       stopMic();
@@ -103,6 +170,7 @@
     el("title").textContent = book.label;
     const grid = el("unitPicker");
     grid.innerHTML = "";
+    grid.style.setProperty("--book", (BOOK_STYLE[bookId] || {}).color || "#3b82f6");
     book.units.forEach((u) => {
       const btn = document.createElement("button");
       btn.type = "button";
@@ -143,6 +211,17 @@
     el("progressText").textContent = `${state.index + 1} / ${total}`;
     el("progressBar").style.setProperty("--pct", `${(state.index / total) * 100}%`);
     el("koreanCue").textContent = item.korean;
+    const pic = el("cuePic");
+    if (item.image) {
+      pic.hidden = false;
+      pic.onerror = () => { pic.hidden = true; };
+      pic.src = item.image;
+      pic.alt = item.english;
+    } else {
+      pic.hidden = true;
+      pic.removeAttribute("src");
+      pic.alt = "";
+    }
     el("englishReveal").hidden = true;
     el("englishReveal").textContent = item.english;
     el("resultBox").hidden = true;
@@ -157,7 +236,8 @@
 
   function playAudio() {
     const item = currentItem();
-    if (!item.audio) {
+    const src = audioUrl(item);
+    if (!src) {
       // Web Speech Synthesis fallback
       if ("speechSynthesis" in window) {
         const u = new SpeechSynthesisUtterance(item.english);
@@ -173,9 +253,17 @@
       state.heard = true;
       return;
     }
-    audio.src = item.audio;
-    audio.play().catch(() => {
-      // fallback TTS if mp3 fails
+    audio.pause();
+    audio.src = src;
+    audio.play().catch((err) => {
+      if (err && err.name === "NotAllowedError") return;
+      // fallback 1: Coach Ray mp3 if Miss Harper file fails
+      if (item.audio && src !== item.audio) {
+        audio.src = item.audio;
+        audio.play().catch(() => {});
+        return;
+      }
+      // fallback 2: TTS if mp3 fails
       if ("speechSynthesis" in window) {
         const u = new SpeechSynthesisUtterance(item.english);
         u.lang = "en-US";

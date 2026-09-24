@@ -16,8 +16,30 @@
     </header>
 
     <main id="viewHome" class="view">
-      <p class="lead">한국어를 보고 → <strong>Coach Ray</strong> 영어를 듣고 → 따라 말해요!<br/><small>Basic A–C · Int 2A–2C · Int 3A–3C · Pass ≥ 80%</small></p>
-      <div id="bookList" class="card-grid"></div>
+      <p class="lead">한국어를 탭 → 영어를 듣고 → 따라 말해요! 🎤<br/><small>Pass ≥ 80% · Basic A–C · Int 2A–3C</small></p>
+
+      <section class="voice-box" aria-label="Choose a voice">
+        <h2 class="voice-title">🎧 누구 목소리로 들을까요? <span>Pick a voice</span></h2>
+        <div class="voice-picker">
+          <button type="button" class="voice-btn" data-voice="ray" aria-pressed="true">
+            <span class="v-emoji">👨‍🏫</span><span class="v-name">Coach Ray</span><span class="v-sub">man · 남자</span>
+          </button>
+          <button type="button" class="voice-btn" data-voice="harper" aria-pressed="false">
+            <span class="v-emoji">👩‍🏫</span><span class="v-name">Miss Harper</span><span class="v-sub">woman · 여자</span>
+          </button>
+        </div>
+      </section>
+
+      <section class="level-group level-basic">
+        <h2 class="level-title">🌱 Basic</h2>
+        <div id="bookListBasic" class="book-stack"></div>
+      </section>
+      <section class="level-group level-int">
+        <h2 class="level-title">🚀 Intermediate</h2>
+        <div id="bookListInt" class="book-stack"></div>
+      </section>
+      <div id="bookList" class="muted"></div>
+
       <section class="records">
         <h2>내 기록</h2>
         <div id="recordList" class="muted">아직 기록이 없어요.</div>
@@ -35,7 +57,13 @@
         <span id="progressText">1 / 10</span>
       </div>
 
+      <div class="voice-picker mini" aria-label="Voice">
+        <button type="button" class="voice-btn" data-voice="ray" aria-pressed="true"><span class="v-emoji">👨‍🏫</span><span class="v-name">Coach Ray</span></button>
+        <button type="button" class="voice-btn" data-voice="harper" aria-pressed="false"><span class="v-emoji">👩‍🏫</span><span class="v-name">Miss Harper</span></button>
+      </div>
+
       <div class="cue-card" id="cueCard">
+        <img id="cuePic" class="cue-pic" alt="" hidden />
         <p class="hint">탭해서 영어 듣기 🎧</p>
         <button type="button" id="btnCue" class="cue-btn" aria-label="Play English">
           <span id="koreanCue" class="korean">…</span>
