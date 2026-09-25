@@ -272,7 +272,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "중국어",
           "english": "Can you speak Chinese?",
-          "audio_harper": "audio_harper/int2a__unit03__01__can_you_speak_chinese.mp3"
+          "audio_harper": "audio_harper/int2a__unit03__01__can_you_speak_chinese.mp3",
+          "image": "images/speak-chinese.webp"
         },
         {
           "id": "int2a__unit03__02",
@@ -359,7 +360,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "영어",
           "english": "Can you speak English?",
-          "audio_harper": "audio_harper/int2a__unit03__09__can_you_speak_english.mp3"
+          "audio_harper": "audio_harper/int2a__unit03__09__can_you_speak_english.mp3",
+          "image": "images/speak-english.webp"
         },
         {
           "id": "int2a__unit03__10",
@@ -410,7 +412,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WDYW? 휴지",
           "english": "I want tissue paper",
-          "audio_harper": "audio_harper/int2a__unit04__03__i_want_tissue_paper.mp3"
+          "audio_harper": "audio_harper/int2a__unit04__03__i_want_tissue_paper.mp3",
+          "image": "images/tissue-paper.webp"
         },
         {
           "id": "int2a__unit04__04",
@@ -533,7 +536,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WIMP? 거실",
           "english": "Maybe it is in the living room",
-          "audio_harper": "audio_harper/int2a__unit05__03__maybe_it_is_in_the_living_room.mp3"
+          "audio_harper": "audio_harper/int2a__unit05__03__maybe_it_is_in_the_living_room.mp3",
+          "image": "images/living-room.webp"
         },
         {
           "id": "int2a__unit05__04",
@@ -597,7 +601,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WIMP? 식당",
           "english": "Maybe it is in the dining room",
-          "audio_harper": "audio_harper/int2a__unit05__08__maybe_it_is_in_the_dining_room.mp3"
+          "audio_harper": "audio_harper/int2a__unit05__08__maybe_it_is_in_the_dining_room.mp3",
+          "image": "images/dining-room.webp"
         },
         {
           "id": "int2a__unit05__09",
@@ -661,7 +666,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "역겨운",
           "english": "Look at this gross video",
-          "audio_harper": "audio_harper/int2a__unit06__03__look_at_this_gross_video.mp3"
+          "audio_harper": "audio_harper/int2a__unit06__03__look_at_this_gross_video.mp3",
+          "image": "images/gross-video.webp"
         },
         {
           "id": "int2a__unit06__04",
@@ -682,7 +688,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "기이한",
           "english": "Look at this weird video",
-          "audio_harper": "audio_harper/int2a__unit06__05__look_at_this_weird_video.mp3"
+          "audio_harper": "audio_harper/int2a__unit06__05__look_at_this_weird_video.mp3",
+          "image": "images/weird-video.webp"
         },
         {
           "id": "int2a__unit06__06",
@@ -692,7 +699,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "신나게 하는",
           "english": "Look at this exciting video",
-          "audio_harper": "audio_harper/int2a__unit06__06__look_at_this_exciting_video.mp3"
+          "audio_harper": "audio_harper/int2a__unit06__06__look_at_this_exciting_video.mp3",
+          "image": "images/exciting-video.webp"
         },
         {
           "id": "int2a__unit06__07",
@@ -702,7 +710,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "미친",
           "english": "Look at this crazy video",
-          "audio_harper": "audio_harper/int2a__unit06__07__look_at_this_crazy_video.mp3"
+          "audio_harper": "audio_harper/int2a__unit06__07__look_at_this_crazy_video.mp3",
+          "image": "images/crazy-video.webp"
         },
         {
           "id": "int2a__unit06__08",
@@ -712,7 +721,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "조용한",
           "english": "Look at this quiet video",
-          "audio_harper": "audio_harper/int2a__unit06__08__look_at_this_quiet_video.mp3"
+          "audio_harper": "audio_harper/int2a__unit06__08__look_at_this_quiet_video.mp3",
+          "image": "images/quiet-video.webp"
         },
         {
           "id": "int2a__unit06__09",
@@ -785,7 +795,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "한국에선, 학생들이 그들의 학교를 청소합니다",
           "english": "In Korea, students clean their school",
-          "audio_harper": "audio_harper/int2a__unit07__04__in_korea_students_clean_their_school.mp3"
+          "audio_harper": "audio_harper/int2a__unit07__04__in_korea_students_clean_their_school.mp3",
+          "image": "images/students-clean-school.webp"
         },
         {
           "id": "int2a__unit07__05",
@@ -839,7 +850,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "운동장 관리인은 어디에 있습니까?",
           "english": "Where is the groundskeeper?",
-          "audio_harper": "audio_harper/int2a__unit07__09__where_is_the_groundskeeper.mp3"
+          "audio_harper": "audio_harper/int2a__unit07__09__where_is_the_groundskeeper.mp3",
+          "image": "images/groundskeeper.webp"
         },
         {
           "id": "int2a__unit07__10",
@@ -923,7 +935,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "내 남동생을 돌보다",
           "english": "I take care of my little brother",
-          "audio_harper": "audio_harper/int2a__unit08__06__i_take_care_of_my_little_brother.mp3"
+          "audio_harper": "audio_harper/int2a__unit08__06__i_take_care_of_my_little_brother.mp3",
+          "image": "images/take-care-little-brother.webp"
         },
         {
           "id": "int2a__unit08__07",

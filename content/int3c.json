@@ -220,7 +220,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "여기에 그르지 마",
           "english": "Don't burp here",
-          "audio_harper": "audio_harper/int3c__unit02__07__don_t_burp_here.mp3"
+          "audio_harper": "audio_harper/int3c__unit02__07__don_t_burp_here.mp3",
+          "image": "images/dont-burp.webp"
         },
         {
           "id": "int3c__unit02__08",
@@ -856,7 +857,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "날다",
           "english": "No, I cannot fly",
-          "audio_harper": "audio_harper/int3c__unit07__08__no_i_cannot_fly.mp3"
+          "audio_harper": "audio_harper/int3c__unit07__08__no_i_cannot_fly.mp3",
+          "image": "images/cannot-fly.webp"
         },
         {
           "id": "int3c__unit07__09",

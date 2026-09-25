@@ -14,7 +14,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "일",
           "english": "one",
-          "audio_harper": "audio_harper/basic_a__unit01__01__one.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__01__one.mp3",
+          "image": "images/number-1.webp"
         },
         {
           "id": "basic_a__unit01__02",
@@ -24,7 +25,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이",
           "english": "two",
-          "audio_harper": "audio_harper/basic_a__unit01__02__two.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__02__two.mp3",
+          "image": "images/number-2.webp"
         },
         {
           "id": "basic_a__unit01__03",
@@ -34,7 +36,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "삼",
           "english": "three",
-          "audio_harper": "audio_harper/basic_a__unit01__03__three.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__03__three.mp3",
+          "image": "images/number-3.webp"
         },
         {
           "id": "basic_a__unit01__04",
@@ -44,7 +47,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "사",
           "english": "four",
-          "audio_harper": "audio_harper/basic_a__unit01__04__four.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__04__four.mp3",
+          "image": "images/number-4.webp"
         },
         {
           "id": "basic_a__unit01__05",
@@ -54,7 +58,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "오",
           "english": "five",
-          "audio_harper": "audio_harper/basic_a__unit01__05__five.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__05__five.mp3",
+          "image": "images/number-5.webp"
         },
         {
           "id": "basic_a__unit01__06",
@@ -64,7 +69,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "육",
           "english": "six",
-          "audio_harper": "audio_harper/basic_a__unit01__06__six.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__06__six.mp3",
+          "image": "images/number-6.webp"
         },
         {
           "id": "basic_a__unit01__07",
@@ -85,7 +91,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "팔",
           "english": "eight",
-          "audio_harper": "audio_harper/basic_a__unit01__08__eight.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__08__eight.mp3",
+          "image": "images/number-8.webp"
         },
         {
           "id": "basic_a__unit01__09",
@@ -95,7 +102,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "구",
           "english": "nine",
-          "audio_harper": "audio_harper/basic_a__unit01__09__nine.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__09__nine.mp3",
+          "image": "images/number-9.webp"
         },
         {
           "id": "basic_a__unit01__10",
@@ -105,7 +113,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "십",
           "english": "ten",
-          "audio_harper": "audio_harper/basic_a__unit01__10__ten.mp3"
+          "audio_harper": "audio_harper/basic_a__unit01__10__ten.mp3",
+          "image": "images/number-10.webp"
         }
       ]
     },
@@ -237,7 +246,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "헤드셋을 뽑아라",
           "english": "Unplug your headset",
-          "audio_harper": "audio_harper/basic_a__unit03__01__unplug_your_headset.mp3"
+          "audio_harper": "audio_harper/basic_a__unit03__01__unplug_your_headset.mp3",
+          "image": "images/unplug-headset.webp"
         },
         {
           "id": "basic_a__unit03__02",
@@ -247,7 +257,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "스크롤을 내려라",
           "english": "Scroll down",
-          "audio_harper": "audio_harper/basic_a__unit03__02__scroll_down.mp3"
+          "audio_harper": "audio_harper/basic_a__unit03__02__scroll_down.mp3",
+          "image": "images/scroll-down.webp"
         },
         {
           "id": "basic_a__unit03__03",
@@ -257,7 +268,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "네 ID를 쳐라",
           "english": "Type your ID",
-          "audio_harper": "audio_harper/basic_a__unit03__03__type_your_id.mp3"
+          "audio_harper": "audio_harper/basic_a__unit03__03__type_your_id.mp3",
+          "image": "images/type-your-id.webp"
         },
         {
           "id": "basic_a__unit03__04",
@@ -267,7 +279,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "새 탭을 만들어라",
           "english": "Make a new tab",
-          "audio_harper": "audio_harper/basic_a__unit03__04__make_a_new_tab.mp3"
+          "audio_harper": "audio_harper/basic_a__unit03__04__make_a_new_tab.mp3",
+          "image": "images/new-tab.webp"
         },
         {
           "id": "basic_a__unit03__05",
@@ -277,7 +290,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "왼쪽 클릭",
           "english": "Left click",
-          "audio_harper": "audio_harper/basic_a__unit03__05__left_click.mp3"
+          "audio_harper": "audio_harper/basic_a__unit03__05__left_click.mp3",
+          "image": "images/left-click.webp"
         },
         {
           "id": "basic_a__unit03__06",
@@ -287,7 +301,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "오른쪽 클릭",
           "english": "Right click",
-          "audio_harper": "audio_harper/basic_a__unit03__06__right_click.mp3"
+          "audio_harper": "audio_harper/basic_a__unit03__06__right_click.mp3",
+          "image": "images/right-click.webp"
         },
         {
           "id": "basic_a__unit03__07",
@@ -336,7 +351,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "안녕하세요(오후 인사)",
           "english": "Good afternoon",
-          "audio_harper": "audio_harper/basic_a__unit04__01__good_afternoon.mp3"
+          "audio_harper": "audio_harper/basic_a__unit04__01__good_afternoon.mp3",
+          "image": "images/good-afternoon.webp"
         },
         {
           "id": "basic_a__unit04__02",
@@ -346,7 +362,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "내일 봐요",
           "english": "See you tomorrow",
-          "audio_harper": "audio_harper/basic_a__unit04__02__see_you_tomorrow.mp3"
+          "audio_harper": "audio_harper/basic_a__unit04__02__see_you_tomorrow.mp3",
+          "image": "images/see-you-tomorrow.webp"
         },
         {
           "id": "basic_a__unit04__03",
@@ -356,7 +373,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "미안해요",
           "english": "Sorry",
-          "audio_harper": "audio_harper/basic_a__unit04__03__sorry.mp3"
+          "audio_harper": "audio_harper/basic_a__unit04__03__sorry.mp3",
+          "image": "images/sorry.webp"
         },
         {
           "id": "basic_a__unit04__04",
@@ -504,7 +522,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이 사람은 제 조카입니다",
           "english": "This is my nephew",
-          "audio_harper": "audio_harper/basic_a__unit05__09__this_is_my_nephew.mp3"
+          "audio_harper": "audio_harper/basic_a__unit05__09__this_is_my_nephew.mp3",
+          "image": "images/nephew.webp"
         },
         {
           "id": "basic_a__unit05__10",
@@ -514,7 +533,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이 사람은 제 손자입니다",
           "english": "This is my grandson",
-          "audio_harper": "audio_harper/basic_a__unit05__10__this_is_my_grandson.mp3"
+          "audio_harper": "audio_harper/basic_a__unit05__10__this_is_my_grandson.mp3",
+          "image": "images/grandson.webp"
         }
       ]
     },
@@ -712,7 +732,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 중국어를 할 수 있다",
           "english": "I can speak Chinese",
-          "audio_harper": "audio_harper/basic_a__unit07__07__i_can_speak_chinese.mp3"
+          "audio_harper": "audio_harper/basic_a__unit07__07__i_can_speak_chinese.mp3",
+          "image": "images/speak-chinese.webp"
         },
         {
           "id": "basic_a__unit07__08",
@@ -744,7 +765,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 먹을 수 있다",
           "english": "I can eat",
-          "audio_harper": "audio_harper/basic_a__unit07__10__i_can_eat.mp3"
+          "audio_harper": "audio_harper/basic_a__unit07__10__i_can_eat.mp3",
+          "image": "images/i-can-eat.webp"
         }
       ]
     },
@@ -764,7 +786,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "100",
           "english": "one hundred",
-          "audio_harper": "audio_harper/basic_a__unit08__01__one_hundred.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__01__one_hundred.mp3",
+          "image": "images/number-100.webp"
         },
         {
           "id": "basic_a__unit08__02",
@@ -777,7 +800,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "99",
           "english": "ninety-nine",
-          "audio_harper": "audio_harper/basic_a__unit08__02__ninety_nine.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__02__ninety_nine.mp3",
+          "image": "images/number-99.webp"
         },
         {
           "id": "basic_a__unit08__03",
@@ -790,7 +814,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "97",
           "english": "ninety-seven",
-          "audio_harper": "audio_harper/basic_a__unit08__03__ninety_seven.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__03__ninety_seven.mp3",
+          "image": "images/number-97.webp"
         },
         {
           "id": "basic_a__unit08__04",
@@ -803,7 +828,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "55",
           "english": "fifty-five",
-          "audio_harper": "audio_harper/basic_a__unit08__04__fifty_five.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__04__fifty_five.mp3",
+          "image": "images/number-55.webp"
         },
         {
           "id": "basic_a__unit08__05",
@@ -816,7 +842,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "33",
           "english": "thirty-three",
-          "audio_harper": "audio_harper/basic_a__unit08__05__thirty_three.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__05__thirty_three.mp3",
+          "image": "images/number-33.webp"
         },
         {
           "id": "basic_a__unit08__06",
@@ -829,7 +856,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "22",
           "english": "twenty-two",
-          "audio_harper": "audio_harper/basic_a__unit08__06__twenty_two.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__06__twenty_two.mp3",
+          "image": "images/number-22.webp"
         },
         {
           "id": "basic_a__unit08__07",
@@ -841,7 +869,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "15",
           "english": "fifteen",
-          "audio_harper": "audio_harper/basic_a__unit08__07__fifteen.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__07__fifteen.mp3",
+          "image": "images/number-15.webp"
         },
         {
           "id": "basic_a__unit08__08",
@@ -853,7 +882,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "13",
           "english": "thirteen",
-          "audio_harper": "audio_harper/basic_a__unit08__08__thirteen.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__08__thirteen.mp3",
+          "image": "images/number-13.webp"
         },
         {
           "id": "basic_a__unit08__09",
@@ -865,7 +895,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "12",
           "english": "twelve",
-          "audio_harper": "audio_harper/basic_a__unit08__09__twelve.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__09__twelve.mp3",
+          "image": "images/number-12.webp"
         },
         {
           "id": "basic_a__unit08__10",
@@ -877,7 +908,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "11",
           "english": "eleven",
-          "audio_harper": "audio_harper/basic_a__unit08__10__eleven.mp3"
+          "audio_harper": "audio_harper/basic_a__unit08__10__eleven.mp3",
+          "image": "images/number-11.webp"
         }
       ]
     }

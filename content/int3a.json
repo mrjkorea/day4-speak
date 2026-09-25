@@ -233,7 +233,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WFDYL? 솜사탕",
           "english": "I like cotton candy",
-          "audio_harper": "audio_harper/int3a__unit02__10__i_like_cotton_candy.mp3"
+          "audio_harper": "audio_harper/int3a__unit02__10__i_like_cotton_candy.mp3",
+          "image": "images/cotton-candy.webp"
         }
       ]
     },
@@ -337,7 +338,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이것은 조용합니다",
           "english": "This is quiet",
-          "audio_harper": "audio_harper/int3a__unit03__09__this_is_quiet.mp3"
+          "audio_harper": "audio_harper/int3a__unit03__09__this_is_quiet.mp3",
+          "image": "images/quiet.webp"
         },
         {
           "id": "int3a__unit03__10",
@@ -379,7 +381,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "그녀는 27살입니다",
           "english": "She is 27 years old",
-          "audio_harper": "audio_harper/int3a__unit04__02__she_is_27_years_old.mp3"
+          "audio_harper": "audio_harper/int3a__unit04__02__she_is_27_years_old.mp3",
+          "image": "images/woman-age-27.webp"
         },
         {
           "id": "int3a__unit04__03",
@@ -404,7 +407,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "그녀는 10살입니다",
           "english": "She is 10 years old",
-          "audio_harper": "audio_harper/int3a__unit04__04__she_is_10_years_old.mp3"
+          "audio_harper": "audio_harper/int3a__unit04__04__she_is_10_years_old.mp3",
+          "image": "images/girl-age-10.webp"
         },
         {
           "id": "int3a__unit04__05",
@@ -427,7 +431,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "그녀는 30살입니다",
           "english": "She is 30 years old",
-          "audio_harper": "audio_harper/int3a__unit04__06__she_is_30_years_old.mp3"
+          "audio_harper": "audio_harper/int3a__unit04__06__she_is_30_years_old.mp3",
+          "image": "images/woman-age-30.webp"
         },
         {
           "id": "int3a__unit04__07",
@@ -439,7 +444,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "그는 100살입니다",
           "english": "He is 100 years old",
-          "audio_harper": "audio_harper/int3a__unit04__07__he_is_100_years_old.mp3"
+          "audio_harper": "audio_harper/int3a__unit04__07__he_is_100_years_old.mp3",
+          "image": "images/man-age-100.webp"
         },
         {
           "id": "int3a__unit04__08",
@@ -449,7 +455,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "그녀는 39살입니다",
           "english": "She is 39 years old",
-          "audio_harper": "audio_harper/int3a__unit04__08__she_is_39_years_old.mp3"
+          "audio_harper": "audio_harper/int3a__unit04__08__she_is_39_years_old.mp3",
+          "image": "images/woman-age-39.webp"
         },
         {
           "id": "int3a__unit04__09",
@@ -651,7 +658,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "HWIYN? 가오리",
           "english": "Stingray",
-          "audio_harper": "audio_harper/int3a__unit06__05__stingray.mp3"
+          "audio_harper": "audio_harper/int3a__unit06__05__stingray.mp3",
+          "image": "images/stingray.webp"
         },
         {
           "id": "int3a__unit06__06",
@@ -722,7 +730,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "일어서!",
           "english": "Stand up!",
-          "audio_harper": "audio_harper/int3a__unit07__01__stand_up.mp3"
+          "audio_harper": "audio_harper/int3a__unit07__01__stand_up.mp3",
+          "image": "images/stand-up.webp"
         },
         {
           "id": "int3a__unit07__02",
@@ -800,7 +809,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "앉아!",
           "english": "Sit down!",
-          "audio_harper": "audio_harper/int3a__unit07__08__sit_down.mp3"
+          "audio_harper": "audio_harper/int3a__unit07__08__sit_down.mp3",
+          "image": "images/sit-down.webp"
         },
         {
           "id": "int3a__unit07__09",
@@ -812,7 +822,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "엎드려!",
           "english": "Get down!",
-          "audio_harper": "audio_harper/int3a__unit07__09__get_down.mp3"
+          "audio_harper": "audio_harper/int3a__unit07__09__get_down.mp3",
+          "image": "images/i3b_getdown.webp"
         },
         {
           "id": "int3a__unit07__10",
@@ -909,7 +920,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "너는 어디서 왔습니까?",
           "english": "Where are you from?",
-          "audio_harper": "audio_harper/int3a__unit08__07__where_are_you_from.mp3"
+          "audio_harper": "audio_harper/int3a__unit08__07__where_are_you_from.mp3",
+          "image": "images/where-are-you-from.webp"
         },
         {
           "id": "int3a__unit08__08",
@@ -932,7 +944,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "내 가족은 6명 있습니다",
           "english": "There are six people in my family",
-          "audio_harper": "audio_harper/int3a__unit08__09__there_are_six_people_in_my_family.mp3"
+          "audio_harper": "audio_harper/int3a__unit08__09__there_are_six_people_in_my_family.mp3",
+          "image": "images/family-of-six.webp"
         },
         {
           "id": "int3a__unit08__10",
@@ -942,7 +955,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "너는 무슨 학교에 갑니까?",
           "english": "What school do you go to?",
-          "audio_harper": "audio_harper/int3a__unit08__10__what_school_do_you_go_to.mp3"
+          "audio_harper": "audio_harper/int3a__unit08__10__what_school_do_you_go_to.mp3",
+          "image": "images/what-school.webp"
         }
       ]
     }
