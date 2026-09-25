@@ -18,6 +18,6 @@ Model audio: **Coach Ray** (Fish `76bb6ae7b26c41fbbd484514fdb014c2`, `audio/`, d
 | Items | 716 |
 | Coach Ray mp3 | 716 |
 | Miss Harper mp3 | 716 |
-| Items with picture | 715 (images/*.webp ≤512px; only "It is Friday" pending redraw) |
+| Items with picture | 716 (images/*.webp ≤512px) |
 
 See `STATUS.md` for details.

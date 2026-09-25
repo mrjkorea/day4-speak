@@ -58,7 +58,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WDIIT? 금요일",
           "english": "It is Friday",
-          "audio_harper": "audio_harper/int2b__unit01__05__it_is_friday.mp3"
+          "audio_harper": "audio_harper/int2b__unit01__05__it_is_friday.mp3",
+          "image": "images/day-friday.webp"
         },
         {
           "id": "int2b__unit01__06",
@@ -967,7 +968,7 @@
           "korean": "그것은 네 것이 아니라 그의 것입니다",
           "english": "It is not yours, it is his",
           "audio_harper": "audio_harper/int2b__unit08__08__it_is_not_yours_it_is_his.mp3",
-          "image": "images/int2b_it_is_his.webp"
+          "image": "images/not-yours-his.webp"
         },
         {
           "id": "int2b__unit08__09",

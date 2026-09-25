@@ -1601,8 +1601,8 @@
  },
  "int2b__unit01__05": {
   "english": "It is Friday",
-  "pic": "",
-  "src": ""
+  "pic": "day-friday",
+  "src": "/workspace/day4-speak/new-pics/redraw/day-friday.png"
  },
  "int2b__unit01__06": {
   "english": "It is Saturday",
@@ -1966,8 +1966,8 @@
  },
  "int2b__unit08__08": {
   "english": "It is not yours, it is his",
-  "pic": "int2b_it_is_his",
-  "src": "/workspace/day5-practice/images/int2b/int2b_it_is_his.png"
+  "pic": "not-yours-his",
+  "src": "/workspace/day4-speak/new-pics/redraw/not-yours-his.png"
  },
  "int2b__unit08__09": {
   "english": "What about mine?",
@@ -2721,8 +2721,8 @@
  },
  "int3a__unit07__09": {
   "english": "Get down!",
-  "pic": "i3b_getdown",
-  "src": "/workspace/day5-practice/images/int3b/i3b_getdown.png"
+  "pic": "get-down",
+  "src": "/workspace/day4-speak/new-pics/redraw/get-down.png"
  },
  "int3a__unit07__10": {
   "english": "Do jumping jacks!",
