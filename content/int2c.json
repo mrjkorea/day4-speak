@@ -36,7 +36,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "너는 어떻습니까?",
           "english": "How about you?",
-          "audio_harper": "audio_harper/int2c__unit01__03__how_about_you.mp3"
+          "audio_harper": "audio_harper/int2c__unit01__03__how_about_you.mp3",
+          "image": "images/how-about-you.webp"
         },
         {
           "id": "int2c__unit01__04",
@@ -46,7 +47,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 사계절이 다 좋습니다",
           "english": "I love all four seasons",
-          "audio_harper": "audio_harper/int2c__unit01__04__i_love_all_four_seasons.mp3"
+          "audio_harper": "audio_harper/int2c__unit01__04__i_love_all_four_seasons.mp3",
+          "image": "images/four-seasons.webp"
         },
         {
           "id": "int2c__unit01__05",
@@ -260,7 +262,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이것은 너의 것입니까?",
           "english": "Is this yours?",
-          "audio_harper": "audio_harper/int2c__unit03__01__is_this_yours.mp3"
+          "audio_harper": "audio_harper/int2c__unit03__01__is_this_yours.mp3",
+          "image": "images/is-this-yours.webp"
         },
         {
           "id": "int2c__unit03__02",
@@ -270,7 +273,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "저것들은 너의 것입니까?",
           "english": "Are those yours?",
-          "audio_harper": "audio_harper/int2c__unit03__02__are_those_yours.mp3"
+          "audio_harper": "audio_harper/int2c__unit03__02__are_those_yours.mp3",
+          "image": "images/are-those-yours.webp"
         },
         {
           "id": "int2c__unit03__03",
@@ -376,7 +380,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "가장 좋아하는 동물은 무엇입니까?",
           "english": "What is your favorite animal?",
-          "audio_harper": "audio_harper/int2c__unit04__01__what_is_your_favorite_animal.mp3"
+          "audio_harper": "audio_harper/int2c__unit04__01__what_is_your_favorite_animal.mp3",
+          "image": "images/favorite-animal.webp"
         },
         {
           "id": "int2c__unit04__02",
@@ -386,7 +391,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "가장 좋아하는 계절은 무엇입니까?",
           "english": "What is your favorite season?",
-          "audio_harper": "audio_harper/int2c__unit04__02__what_is_your_favorite_season.mp3"
+          "audio_harper": "audio_harper/int2c__unit04__02__what_is_your_favorite_season.mp3",
+          "image": "images/favorite-season.webp"
         },
         {
           "id": "int2c__unit04__03",
@@ -418,7 +424,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "가장 좋아하는 색깔은 무엇입니까?",
           "english": "What is your favorite color?",
-          "audio_harper": "audio_harper/int2c__unit04__05__what_is_your_favorite_color.mp3"
+          "audio_harper": "audio_harper/int2c__unit04__05__what_is_your_favorite_color.mp3",
+          "image": "images/favorite-color.webp"
         },
         {
           "id": "int2c__unit04__06",
@@ -428,7 +435,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "가장 좋아하는 취미는 무엇입니까?",
           "english": "What is your favorite hobby?",
-          "audio_harper": "audio_harper/int2c__unit04__06__what_is_your_favorite_hobby.mp3"
+          "audio_harper": "audio_harper/int2c__unit04__06__what_is_your_favorite_hobby.mp3",
+          "image": "images/favorite-hobby.webp"
         },
         {
           "id": "int2c__unit04__07",
@@ -460,7 +468,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "가장 좋아하는 스포츠는 무엇입니까?",
           "english": "What is your favorite sport?",
-          "audio_harper": "audio_harper/int2c__unit04__09__what_is_your_favorite_sport.mp3"
+          "audio_harper": "audio_harper/int2c__unit04__09__what_is_your_favorite_sport.mp3",
+          "image": "images/favorite-sport.webp"
         },
         {
           "id": "int2c__unit04__10",
@@ -470,7 +479,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "가장 좋아하는 캐릭터는 무엇입니까?",
           "english": "What is your favorite character?",
-          "audio_harper": "audio_harper/int2c__unit04__10__what_is_your_favorite_character.mp3"
+          "audio_harper": "audio_harper/int2c__unit04__10__what_is_your_favorite_character.mp3",
+          "image": "images/favorite-character.webp"
         }
       ]
     },
@@ -655,7 +665,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "등이 아프다",
           "english": "My back hurts",
-          "audio_harper": "audio_harper/int2c__unit06__04__my_back_hurts.mp3"
+          "audio_harper": "audio_harper/int2c__unit06__04__my_back_hurts.mp3",
+          "image": "images/back-hurts.webp"
         },
         {
           "id": "int2c__unit06__05",
@@ -713,7 +724,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "코피가 나다",
           "english": "I have a bloody nose",
-          "audio_harper": "audio_harper/int2c__unit06__09__i_have_a_bloody_nose.mp3"
+          "audio_harper": "audio_harper/int2c__unit06__09__i_have_a_bloody_nose.mp3",
+          "image": "images/bloody-nose.webp"
         },
         {
           "id": "int2c__unit06__10",
@@ -742,7 +754,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "여보세요",
           "english": "Hello",
-          "audio_harper": "audio_harper/int2c__unit07__01__hello.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__01__hello.mp3",
+          "image": "images/phone-hello.webp"
         },
         {
           "id": "int2c__unit07__02",
@@ -752,7 +765,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "거기 범준 있습니까?",
           "english": "Is Beomjun there?",
-          "audio_harper": "audio_harper/int2c__unit07__02__is_beomjun_there.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__02__is_beomjun_there.mp3",
+          "image": "images/is-beomjun-there.webp"
         },
         {
           "id": "int2c__unit07__03",
@@ -764,7 +778,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "누구십니까?",
           "english": "Who is this?",
-          "audio_harper": "audio_harper/int2c__unit07__03__who_is_this.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__03__who_is_this.mp3",
+          "image": "images/who-is-this.webp"
         },
         {
           "id": "int2c__unit07__04",
@@ -776,7 +791,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "저는 Mr. Jay입니다",
           "english": "This is Mr. Jay",
-          "audio_harper": "audio_harper/int2c__unit07__04__this_is_mr_jay.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__04__this_is_mr_jay.mp3",
+          "image": "images/this-is-mr-jay.webp"
         },
         {
           "id": "int2c__unit07__05",
@@ -786,7 +802,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "안녕하세요, Mr. Jay",
           "english": "Hello, Mr. Jay",
-          "audio_harper": "audio_harper/int2c__unit07__05__hello_mr_jay.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__05__hello_mr_jay.mp3",
+          "image": "images/hello-mr-jay.webp"
         },
         {
           "id": "int2c__unit07__06",
@@ -796,7 +813,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "죄송하지만 그는 외출 중입니다",
           "english": "Sorry, he is out",
-          "audio_harper": "audio_harper/int2c__unit07__06__sorry_he_is_out.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__06__sorry_he_is_out.mp3",
+          "image": "images/he-is-out.webp"
         },
         {
           "id": "int2c__unit07__07",
@@ -806,7 +824,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "그의 친구 태환에게 전화하세요",
           "english": "Please call his friend Taehwan",
-          "audio_harper": "audio_harper/int2c__unit07__07__please_call_his_friend_taehwan.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__07__please_call_his_friend_taehwan.mp3",
+          "image": "images/call-his-friend.webp"
         },
         {
           "id": "int2c__unit07__08",
@@ -816,7 +835,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "그의 전화번호는 무엇입니까?",
           "english": "What is his phone number?",
-          "audio_harper": "audio_harper/int2c__unit07__08__what_is_his_phone_number.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__08__what_is_his_phone_number.mp3",
+          "image": "images/what-phone-number.webp"
         },
         {
           "id": "int2c__unit07__09",
@@ -826,7 +846,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "그의 전화번호는 010 3457 7543입니다",
           "english": "His phone number is 010 3457 7543",
-          "audio_harper": "audio_harper/int2c__unit07__09__his_phone_number_is_010_3457_7543.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__09__his_phone_number_is_010_3457_7543.mp3",
+          "image": "images/phone-number.webp"
         },
         {
           "id": "int2c__unit07__10",
@@ -836,7 +857,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "알겠어요, 감사합니다",
           "english": "Okay, thank you",
-          "audio_harper": "audio_harper/int2c__unit07__10__okay_thank_you.mp3"
+          "audio_harper": "audio_harper/int2c__unit07__10__okay_thank_you.mp3",
+          "image": "images/okay-thank-you.webp"
         }
       ]
     },
@@ -854,7 +876,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "Girlfriend Leaving",
           "english": "I'll miss you",
-          "audio_harper": "audio_harper/int2c__unit08__01__i_ll_miss_you.mp3"
+          "audio_harper": "audio_harper/int2c__unit08__01__i_ll_miss_you.mp3",
+          "image": "images/ill-miss-you.webp"
         },
         {
           "id": "int2c__unit08__02",
@@ -864,7 +887,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "Going overseas for a long time",
           "english": "Take care",
-          "audio_harper": "audio_harper/int2c__unit08__02__take_care.mp3"
+          "audio_harper": "audio_harper/int2c__unit08__02__take_care.mp3",
+          "image": "images/take-care.webp"
         },
         {
           "id": "int2c__unit08__03",
@@ -874,7 +898,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "Starting military duty",
           "english": "So long",
-          "audio_harper": "audio_harper/int2c__unit08__03__so_long.mp3"
+          "audio_harper": "audio_harper/int2c__unit08__03__so_long.mp3",
+          "image": "images/so-long.webp"
         },
         {
           "id": "int2c__unit08__04",
@@ -884,7 +909,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "Leaving a group first",
           "english": "I am off",
-          "audio_harper": "audio_harper/int2c__unit08__04__i_am_off.mp3"
+          "audio_harper": "audio_harper/int2c__unit08__04__i_am_off.mp3",
+          "image": "images/i-am-off.webp"
         },
         {
           "id": "int2c__unit08__05",
@@ -918,7 +944,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "Before a test",
           "english": "Good luck",
-          "audio_harper": "audio_harper/int2c__unit08__07__good_luck.mp3"
+          "audio_harper": "audio_harper/int2c__unit08__07__good_luck.mp3",
+          "image": "images/good-luck.webp"
         },
         {
           "id": "int2c__unit08__08",
@@ -928,7 +955,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "Leaving a friend working hard",
           "english": "Take it easy",
-          "audio_harper": "audio_harper/int2c__unit08__08__take_it_easy.mp3"
+          "audio_harper": "audio_harper/int2c__unit08__08__take_it_easy.mp3",
+          "image": "images/take-it-easy.webp"
         },
         {
           "id": "int2c__unit08__09",
@@ -938,7 +966,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "A nice thing to say to anybody",
           "english": "Have a nice day",
-          "audio_harper": "audio_harper/int2c__unit08__09__have_a_nice_day.mp3"
+          "audio_harper": "audio_harper/int2c__unit08__09__have_a_nice_day.mp3",
+          "image": "images/have-a-nice-day.webp"
         },
         {
           "id": "int2c__unit08__10",
@@ -948,7 +977,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "Need to go",
           "english": "I must be going",
-          "audio_harper": "audio_harper/int2c__unit08__10__i_must_be_going.mp3"
+          "audio_harper": "audio_harper/int2c__unit08__10__i_must_be_going.mp3",
+          "image": "images/must-be-going.webp"
         }
       ]
     }

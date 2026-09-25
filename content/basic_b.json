@@ -113,7 +113,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 졸려",
           "english": "I am sleepy",
-          "audio_harper": "audio_harper/basic_b__unit01__10__i_am_sleepy.mp3"
+          "audio_harper": "audio_harper/basic_b__unit01__10__i_am_sleepy.mp3",
+          "image": "images/sleepy.webp"
         }
       ]
     },
@@ -217,7 +218,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 너를 좋아해",
           "english": "I like you",
-          "audio_harper": "audio_harper/basic_b__unit02__09__i_like_you.mp3"
+          "audio_harper": "audio_harper/basic_b__unit02__09__i_like_you.mp3",
+          "image": "images/i-like-you.webp"
         },
         {
           "id": "basic_b__unit02__10",
@@ -244,7 +246,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "다시!",
           "english": "Again!",
-          "audio_harper": "audio_harper/basic_b__unit03__01__again.mp3"
+          "audio_harper": "audio_harper/basic_b__unit03__01__again.mp3",
+          "image": "images/again.webp"
         },
         {
           "id": "basic_b__unit03__02",
@@ -577,7 +580,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "야간등이야",
           "english": "It is a night light",
-          "audio_harper": "audio_harper/basic_b__unit05__07__it_is_a_night_light.mp3"
+          "audio_harper": "audio_harper/basic_b__unit05__07__it_is_a_night_light.mp3",
+          "image": "images/night-light.webp"
         },
         {
           "id": "basic_b__unit05__08",
@@ -639,7 +643,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이것은 내 코입니다",
           "english": "This is my nose",
-          "audio_harper": "audio_harper/basic_b__unit06__02__this_is_my_nose.mp3"
+          "audio_harper": "audio_harper/basic_b__unit06__02__this_is_my_nose.mp3",
+          "image": "images/nose.webp"
         },
         {
           "id": "basic_b__unit06__03",
@@ -682,7 +687,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이것은 내 목입니다",
           "english": "This is my neck",
-          "audio_harper": "audio_harper/basic_b__unit06__06__this_is_my_neck.mp3"
+          "audio_harper": "audio_harper/basic_b__unit06__06__this_is_my_neck.mp3",
+          "image": "images/neck.webp"
         },
         {
           "id": "basic_b__unit06__07",
@@ -703,7 +709,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이것은 내 턱입니다",
           "english": "This is my chin",
-          "audio_harper": "audio_harper/basic_b__unit06__08__this_is_my_chin.mp3"
+          "audio_harper": "audio_harper/basic_b__unit06__08__this_is_my_chin.mp3",
+          "image": "images/chin.webp"
         },
         {
           "id": "basic_b__unit06__09",
@@ -713,7 +720,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이것은 내 손입니다",
           "english": "This is my hand",
-          "audio_harper": "audio_harper/basic_b__unit06__09__this_is_my_hand.mp3"
+          "audio_harper": "audio_harper/basic_b__unit06__09__this_is_my_hand.mp3",
+          "image": "images/hand.webp"
         },
         {
           "id": "basic_b__unit06__10",
@@ -723,7 +731,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "이것은 내 어깨입니다",
           "english": "This is my shoulder",
-          "audio_harper": "audio_harper/basic_b__unit06__10__this_is_my_shoulder.mp3"
+          "audio_harper": "audio_harper/basic_b__unit06__10__this_is_my_shoulder.mp3",
+          "image": "images/shoulder.webp"
         }
       ]
     },
@@ -816,7 +825,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "파란색이야",
           "english": "It is blue",
-          "audio_harper": "audio_harper/basic_b__unit07__08__it_is_blue.mp3"
+          "audio_harper": "audio_harper/basic_b__unit07__08__it_is_blue.mp3",
+          "image": "images/color-blue.webp"
         },
         {
           "id": "basic_b__unit07__09",
@@ -860,7 +870,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 7살입니다",
           "english": "I am seven years old",
-          "audio_harper": "audio_harper/basic_b__unit08__01__i_am_seven_years_old.mp3"
+          "audio_harper": "audio_harper/basic_b__unit08__01__i_am_seven_years_old.mp3",
+          "image": "images/age-7.webp"
         },
         {
           "id": "basic_b__unit08__02",
@@ -873,7 +884,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 10살입니다",
           "english": "I am ten years old",
-          "audio_harper": "audio_harper/basic_b__unit08__02__i_am_ten_years_old.mp3"
+          "audio_harper": "audio_harper/basic_b__unit08__02__i_am_ten_years_old.mp3",
+          "image": "images/age-10.webp"
         },
         {
           "id": "basic_b__unit08__03",
@@ -886,7 +898,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 14살입니다",
           "english": "I am fourteen years old",
-          "audio_harper": "audio_harper/basic_b__unit08__03__i_am_fourteen_years_old.mp3"
+          "audio_harper": "audio_harper/basic_b__unit08__03__i_am_fourteen_years_old.mp3",
+          "image": "images/age-14.webp"
         },
         {
           "id": "basic_b__unit08__04",
@@ -899,7 +912,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 17살입니다",
           "english": "I am seventeen years old",
-          "audio_harper": "audio_harper/basic_b__unit08__04__i_am_seventeen_years_old.mp3"
+          "audio_harper": "audio_harper/basic_b__unit08__04__i_am_seventeen_years_old.mp3",
+          "image": "images/age-17.webp"
         },
         {
           "id": "basic_b__unit08__05",
@@ -912,7 +926,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 22살입니다",
           "english": "I am twenty-two years old",
-          "audio_harper": "audio_harper/basic_b__unit08__05__i_am_twenty_two_years_old.mp3"
+          "audio_harper": "audio_harper/basic_b__unit08__05__i_am_twenty_two_years_old.mp3",
+          "image": "images/age-22.webp"
         },
         {
           "id": "basic_b__unit08__06",
@@ -925,7 +940,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 25살입니다",
           "english": "I am twenty-five years old",
-          "audio_harper": "audio_harper/basic_b__unit08__06__i_am_twenty_five_years_old.mp3"
+          "audio_harper": "audio_harper/basic_b__unit08__06__i_am_twenty_five_years_old.mp3",
+          "image": "images/age-25.webp"
         },
         {
           "id": "basic_b__unit08__07",
@@ -938,7 +954,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 33살입니다",
           "english": "I am thirty-three years old",
-          "audio_harper": "audio_harper/basic_b__unit08__07__i_am_thirty_three_years_old.mp3"
+          "audio_harper": "audio_harper/basic_b__unit08__07__i_am_thirty_three_years_old.mp3",
+          "image": "images/age-33.webp"
         },
         {
           "id": "basic_b__unit08__08",
@@ -951,7 +968,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 66살입니다",
           "english": "I am sixty-six years old",
-          "audio_harper": "audio_harper/basic_b__unit08__08__i_am_sixty_six_years_old.mp3"
+          "audio_harper": "audio_harper/basic_b__unit08__08__i_am_sixty_six_years_old.mp3",
+          "image": "images/age-66.webp"
         },
         {
           "id": "basic_b__unit08__09",

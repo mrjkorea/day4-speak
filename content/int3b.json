@@ -27,7 +27,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 1학년",
           "english": "I am in first grade",
-          "audio_harper": "audio_harper/int3b__unit01__02__i_am_in_first_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__02__i_am_in_first_grade.mp3",
+          "image": "images/grade-1.webp"
         },
         {
           "id": "int3b__unit01__03",
@@ -37,7 +38,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 2학년",
           "english": "I am in second grade",
-          "audio_harper": "audio_harper/int3b__unit01__03__i_am_in_second_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__03__i_am_in_second_grade.mp3",
+          "image": "images/grade-2.webp"
         },
         {
           "id": "int3b__unit01__04",
@@ -47,7 +49,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 3학년",
           "english": "I am in third grade",
-          "audio_harper": "audio_harper/int3b__unit01__04__i_am_in_third_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__04__i_am_in_third_grade.mp3",
+          "image": "images/grade-3.webp"
         },
         {
           "id": "int3b__unit01__05",
@@ -57,7 +60,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 4학년",
           "english": "I am in fourth grade",
-          "audio_harper": "audio_harper/int3b__unit01__05__i_am_in_fourth_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__05__i_am_in_fourth_grade.mp3",
+          "image": "images/grade-4.webp"
         },
         {
           "id": "int3b__unit01__06",
@@ -67,7 +71,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 5학년",
           "english": "I am in fifth grade",
-          "audio_harper": "audio_harper/int3b__unit01__06__i_am_in_fifth_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__06__i_am_in_fifth_grade.mp3",
+          "image": "images/grade-5.webp"
         },
         {
           "id": "int3b__unit01__07",
@@ -77,7 +82,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 6학년",
           "english": "I am in sixth grade",
-          "audio_harper": "audio_harper/int3b__unit01__07__i_am_in_sixth_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__07__i_am_in_sixth_grade.mp3",
+          "image": "images/grade-6.webp"
         },
         {
           "id": "int3b__unit01__08",
@@ -87,7 +93,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 7학년",
           "english": "I am in seventh grade",
-          "audio_harper": "audio_harper/int3b__unit01__08__i_am_in_seventh_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__08__i_am_in_seventh_grade.mp3",
+          "image": "images/grade-7.webp"
         },
         {
           "id": "int3b__unit01__09",
@@ -97,7 +104,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 8학년",
           "english": "I am in eighth grade",
-          "audio_harper": "audio_harper/int3b__unit01__09__i_am_in_eighth_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__09__i_am_in_eighth_grade.mp3",
+          "image": "images/grade-8.webp"
         },
         {
           "id": "int3b__unit01__10",
@@ -107,7 +115,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WGAYI? 9학년",
           "english": "I am in ninth grade",
-          "audio_harper": "audio_harper/int3b__unit01__10__i_am_in_ninth_grade.mp3"
+          "audio_harper": "audio_harper/int3b__unit01__10__i_am_in_ninth_grade.mp3",
+          "image": "images/grade-9.webp"
         }
       ]
     },
@@ -291,7 +300,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "더 시원하게 해주세요",
           "english": "Cooler please",
-          "audio_harper": "audio_harper/int3b__unit03__05__cooler_please.mp3"
+          "audio_harper": "audio_harper/int3b__unit03__05__cooler_please.mp3",
+          "image": "images/cooler-please.webp"
         },
         {
           "id": "int3b__unit03__06",
@@ -314,7 +324,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "더 주세요",
           "english": "More please",
-          "audio_harper": "audio_harper/int3b__unit03__07__more_please.mp3"
+          "audio_harper": "audio_harper/int3b__unit03__07__more_please.mp3",
+          "image": "images/more-please.webp"
         },
         {
           "id": "int3b__unit03__08",
@@ -324,7 +335,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "덜 주세요",
           "english": "Less please",
-          "audio_harper": "audio_harper/int3b__unit03__08__less_please.mp3"
+          "audio_harper": "audio_harper/int3b__unit03__08__less_please.mp3",
+          "image": "images/less-please.webp"
         },
         {
           "id": "int3b__unit03__09",
@@ -486,7 +498,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "다 먹어!",
           "english": "Eat up!",
-          "audio_harper": "audio_harper/int3b__unit05__01__eat_up.mp3"
+          "audio_harper": "audio_harper/int3b__unit05__01__eat_up.mp3",
+          "image": "images/eat-up.webp"
         },
         {
           "id": "int3b__unit05__02",
@@ -498,7 +511,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "씻어!",
           "english": "Wash up!",
-          "audio_harper": "audio_harper/int3b__unit05__02__wash_up.mp3"
+          "audio_harper": "audio_harper/int3b__unit05__02__wash_up.mp3",
+          "image": "images/wash-up.webp"
         },
         {
           "id": "int3b__unit05__03",
@@ -508,7 +522,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "서둘러!",
           "english": "Hurry up!",
-          "audio_harper": "audio_harper/int3b__unit05__03__hurry_up.mp3"
+          "audio_harper": "audio_harper/int3b__unit05__03__hurry_up.mp3",
+          "image": "images/hurry-up.webp"
         },
         {
           "id": "int3b__unit05__04",
@@ -518,7 +533,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "청소 해!",
           "english": "Clean up!",
-          "audio_harper": "audio_harper/int3b__unit05__04__clean_up.mp3"
+          "audio_harper": "audio_harper/int3b__unit05__04__clean_up.mp3",
+          "image": "images/clean-up.webp"
         },
         {
           "id": "int3b__unit05__05",
@@ -539,7 +555,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "내려 놔!",
           "english": "Put it down!",
-          "audio_harper": "audio_harper/int3b__unit05__06__put_it_down.mp3"
+          "audio_harper": "audio_harper/int3b__unit05__06__put_it_down.mp3",
+          "image": "images/put-it-down.webp"
         },
         {
           "id": "int3b__unit05__07",
@@ -549,7 +566,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "내려 와!",
           "english": "Come down!",
-          "audio_harper": "audio_harper/int3b__unit05__07__come_down.mp3"
+          "audio_harper": "audio_harper/int3b__unit05__07__come_down.mp3",
+          "image": "images/come-down.webp"
         },
         {
           "id": "int3b__unit05__08",
@@ -572,7 +590,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "포기 해!",
           "english": "Give up!",
-          "audio_harper": "audio_harper/int3b__unit05__09__give_up.mp3"
+          "audio_harper": "audio_harper/int3b__unit05__09__give_up.mp3",
+          "image": "images/give-up.webp"
         },
         {
           "id": "int3b__unit05__10",
@@ -584,7 +603,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "식히다!",
           "english": "Cool it down!",
-          "audio_harper": "audio_harper/int3b__unit05__10__cool_it_down.mp3"
+          "audio_harper": "audio_harper/int3b__unit05__10__cool_it_down.mp3",
+          "image": "images/cool-it-down.webp"
         }
       ]
     },
@@ -641,7 +661,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "WFAT? 가시여지",
           "english": "They are rambutans",
-          "audio_harper": "audio_harper/int3b__unit06__04__they_are_rambutans.mp3"
+          "audio_harper": "audio_harper/int3b__unit06__04__they_are_rambutans.mp3",
+          "image": "images/rambutans.webp"
         },
         {
           "id": "int3b__unit06__05",
@@ -853,7 +874,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "너는 어디서 왔습니까?",
           "english": "Where are you from?",
-          "audio_harper": "audio_harper/int3b__unit08__01__where_are_you_from.mp3"
+          "audio_harper": "audio_harper/int3b__unit08__01__where_are_you_from.mp3",
+          "image": "images/where-are-you-from.webp"
         },
         {
           "id": "int3b__unit08__02",
@@ -874,7 +896,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "너는 키가 몇입니까?",
           "english": "How tall are you?",
-          "audio_harper": "audio_harper/int3b__unit08__03__how_tall_are_you.mp3"
+          "audio_harper": "audio_harper/int3b__unit08__03__how_tall_are_you.mp3",
+          "image": "images/how-tall.webp"
         },
         {
           "id": "int3b__unit08__04",
@@ -886,7 +909,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 187cm입니다",
           "english": "I am 187 centimeters tall",
-          "audio_harper": "audio_harper/int3b__unit08__04__i_am_187_centimeters_tall.mp3"
+          "audio_harper": "audio_harper/int3b__unit08__04__i_am_187_centimeters_tall.mp3",
+          "image": "images/187cm-tall.webp"
         },
         {
           "id": "int3b__unit08__05",
@@ -896,7 +920,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "너는 왜 한국에 왔습니까?",
           "english": "Why did you come to Korea?",
-          "audio_harper": "audio_harper/int3b__unit08__05__why_did_you_come_to_korea.mp3"
+          "audio_harper": "audio_harper/int3b__unit08__05__why_did_you_come_to_korea.mp3",
+          "image": "images/why-come-to-korea.webp"
         },
         {
           "id": "int3b__unit08__06",
@@ -906,7 +931,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "나는 영어 가르치려고 왔습니다",
           "english": "I came to teach English",
-          "audio_harper": "audio_harper/int3b__unit08__06__i_came_to_teach_english.mp3"
+          "audio_harper": "audio_harper/int3b__unit08__06__i_came_to_teach_english.mp3",
+          "image": "images/teach-english.webp"
         },
         {
           "id": "int3b__unit08__07",
@@ -916,7 +942,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "너는 무슨 한국 음식을 좋아합니까?",
           "english": "What Korean food do you like?",
-          "audio_harper": "audio_harper/int3b__unit08__07__what_korean_food_do_you_like.mp3"
+          "audio_harper": "audio_harper/int3b__unit08__07__what_korean_food_do_you_like.mp3",
+          "image": "images/korean-food-question.webp"
         },
         {
           "id": "int3b__unit08__08",
@@ -939,7 +966,8 @@
           "audio_source": "fish-coach-ray",
           "korean": "너는 몸무게가 몇입니까?",
           "english": "How much do you weigh?",
-          "audio_harper": "audio_harper/int3b__unit08__09__how_much_do_you_weigh.mp3"
+          "audio_harper": "audio_harper/int3b__unit08__09__how_much_do_you_weigh.mp3",
+          "image": "images/how-much-weigh.webp"
         },
         {
           "id": "int3b__unit08__10",

@@ -1,33 +1,33 @@
 {
  "basic_a__unit01__01": {
   "english": "one",
-  "pic": "",
-  "src": ""
+  "pic": "number-1",
+  "src": "/workspace/day4-speak/new-pics/number-1.png"
  },
  "basic_a__unit01__02": {
   "english": "two",
-  "pic": "",
-  "src": ""
+  "pic": "number-2",
+  "src": "/workspace/day4-speak/new-pics/number-2.png"
  },
  "basic_a__unit01__03": {
   "english": "three",
-  "pic": "",
-  "src": ""
+  "pic": "number-3",
+  "src": "/workspace/day4-speak/new-pics/number-3.png"
  },
  "basic_a__unit01__04": {
   "english": "four",
-  "pic": "",
-  "src": ""
+  "pic": "number-4",
+  "src": "/workspace/day4-speak/new-pics/number-4.png"
  },
  "basic_a__unit01__05": {
   "english": "five",
-  "pic": "",
-  "src": ""
+  "pic": "number-5",
+  "src": "/workspace/day4-speak/new-pics/number-5.png"
  },
  "basic_a__unit01__06": {
   "english": "six",
-  "pic": "",
-  "src": ""
+  "pic": "number-6",
+  "src": "/workspace/day4-speak/new-pics/number-6.png"
  },
  "basic_a__unit01__07": {
   "english": "seven",
@@ -36,18 +36,18 @@
  },
  "basic_a__unit01__08": {
   "english": "eight",
-  "pic": "",
-  "src": ""
+  "pic": "number-8",
+  "src": "/workspace/day4-speak/new-pics/number-8.png"
  },
  "basic_a__unit01__09": {
   "english": "nine",
-  "pic": "",
-  "src": ""
+  "pic": "number-9",
+  "src": "/workspace/day4-speak/new-pics/number-9.png"
  },
  "basic_a__unit01__10": {
   "english": "ten",
-  "pic": "",
-  "src": ""
+  "pic": "number-10",
+  "src": "/workspace/day4-speak/new-pics/number-10.png"
  },
  "basic_a__unit02__01": {
   "english": "Hello, Mr. Cat",
@@ -101,33 +101,33 @@
  },
  "basic_a__unit03__01": {
   "english": "Unplug your headset",
-  "pic": "",
-  "src": ""
+  "pic": "unplug-headset",
+  "src": "/workspace/day4-speak/new-pics/unplug-headset.png"
  },
  "basic_a__unit03__02": {
   "english": "Scroll down",
-  "pic": "",
-  "src": ""
+  "pic": "scroll-down",
+  "src": "/workspace/day4-speak/new-pics/scroll-down.png"
  },
  "basic_a__unit03__03": {
   "english": "Type your ID",
-  "pic": "",
-  "src": ""
+  "pic": "type-your-id",
+  "src": "/workspace/day4-speak/new-pics/type-your-id.png"
  },
  "basic_a__unit03__04": {
   "english": "Make a new tab",
-  "pic": "",
-  "src": ""
+  "pic": "new-tab",
+  "src": "/workspace/day4-speak/new-pics/new-tab.png"
  },
  "basic_a__unit03__05": {
   "english": "Left click",
-  "pic": "",
-  "src": ""
+  "pic": "left-click",
+  "src": "/workspace/day4-speak/new-pics/left-click.png"
  },
  "basic_a__unit03__06": {
   "english": "Right click",
-  "pic": "",
-  "src": ""
+  "pic": "right-click",
+  "src": "/workspace/day4-speak/new-pics/right-click.png"
  },
  "basic_a__unit03__07": {
   "english": "Double click",
@@ -146,18 +146,18 @@
  },
  "basic_a__unit04__01": {
   "english": "Good afternoon",
-  "pic": "",
-  "src": ""
+  "pic": "good-afternoon",
+  "src": "/workspace/day4-speak/new-pics/good-afternoon.png"
  },
  "basic_a__unit04__02": {
   "english": "See you tomorrow",
-  "pic": "",
-  "src": ""
+  "pic": "see-you-tomorrow",
+  "src": "/workspace/day4-speak/new-pics/see-you-tomorrow.png"
  },
  "basic_a__unit04__03": {
   "english": "Sorry",
-  "pic": "",
-  "src": ""
+  "pic": "sorry",
+  "src": "/workspace/day4-speak/new-pics/sorry.png"
  },
  "basic_a__unit04__04": {
   "english": "Pardon?",
@@ -221,13 +221,13 @@
  },
  "basic_a__unit05__09": {
   "english": "This is my nephew",
-  "pic": "",
-  "src": ""
+  "pic": "nephew",
+  "src": "/workspace/day4-speak/new-pics/nephew.png"
  },
  "basic_a__unit05__10": {
   "english": "This is my grandson",
-  "pic": "",
-  "src": ""
+  "pic": "grandson",
+  "src": "/workspace/day4-speak/new-pics/grandson.png"
  },
  "basic_a__unit06__01": {
   "english": "It is a desk",
@@ -311,8 +311,8 @@
  },
  "basic_a__unit07__07": {
   "english": "I can speak Chinese",
-  "pic": "",
-  "src": ""
+  "pic": "speak-chinese",
+  "src": "/workspace/day4-speak/new-pics/speak-chinese.png"
  },
  "basic_a__unit07__08": {
   "english": "I can do magic",
@@ -326,58 +326,58 @@
  },
  "basic_a__unit07__10": {
   "english": "I can eat",
-  "pic": "",
-  "src": ""
+  "pic": "i-can-eat",
+  "src": "/workspace/day4-speak/new-pics/i-can-eat.png"
  },
  "basic_a__unit08__01": {
   "english": "one hundred",
-  "pic": "",
-  "src": ""
+  "pic": "number-100",
+  "src": "/workspace/day4-speak/new-pics/number-100.png"
  },
  "basic_a__unit08__02": {
   "english": "ninety-nine",
-  "pic": "",
-  "src": ""
+  "pic": "number-99",
+  "src": "/workspace/day4-speak/new-pics/number-99.png"
  },
  "basic_a__unit08__03": {
   "english": "ninety-seven",
-  "pic": "",
-  "src": ""
+  "pic": "number-97",
+  "src": "/workspace/day4-speak/new-pics/number-97.png"
  },
  "basic_a__unit08__04": {
   "english": "fifty-five",
-  "pic": "",
-  "src": ""
+  "pic": "number-55",
+  "src": "/workspace/day4-speak/new-pics/number-55.png"
  },
  "basic_a__unit08__05": {
   "english": "thirty-three",
-  "pic": "",
-  "src": ""
+  "pic": "number-33",
+  "src": "/workspace/day4-speak/new-pics/number-33.png"
  },
  "basic_a__unit08__06": {
   "english": "twenty-two",
-  "pic": "",
-  "src": ""
+  "pic": "number-22",
+  "src": "/workspace/day4-speak/new-pics/number-22.png"
  },
  "basic_a__unit08__07": {
   "english": "fifteen",
-  "pic": "",
-  "src": ""
+  "pic": "number-15",
+  "src": "/workspace/day4-speak/new-pics/number-15.png"
  },
  "basic_a__unit08__08": {
   "english": "thirteen",
-  "pic": "",
-  "src": ""
+  "pic": "number-13",
+  "src": "/workspace/day4-speak/new-pics/number-13.png"
  },
  "basic_a__unit08__09": {
   "english": "twelve",
-  "pic": "",
-  "src": ""
+  "pic": "number-12",
+  "src": "/workspace/day4-speak/new-pics/number-12.png"
  },
  "basic_a__unit08__10": {
   "english": "eleven",
-  "pic": "",
-  "src": ""
+  "pic": "number-11",
+  "src": "/workspace/day4-speak/new-pics/number-11.png"
  },
  "basic_b__unit01__01": {
   "english": "I am happy",
@@ -426,8 +426,8 @@
  },
  "basic_b__unit01__10": {
   "english": "I am sleepy",
-  "pic": "",
-  "src": ""
+  "pic": "sleepy",
+  "src": "/workspace/day4-speak/new-pics/sleepy.png"
  },
  "basic_b__unit02__01": {
   "english": "I like noodles",
@@ -471,8 +471,8 @@
  },
  "basic_b__unit02__09": {
   "english": "I like you",
-  "pic": "",
-  "src": ""
+  "pic": "i-like-you",
+  "src": "/workspace/day4-speak/new-pics/i-like-you.png"
  },
  "basic_b__unit02__10": {
   "english": "I like apples",
@@ -481,8 +481,8 @@
  },
  "basic_b__unit03__01": {
   "english": "Again!",
-  "pic": "",
-  "src": ""
+  "pic": "again",
+  "src": "/workspace/day4-speak/new-pics/again.png"
  },
  "basic_b__unit03__02": {
   "english": "Recycle this!",
@@ -611,8 +611,8 @@
  },
  "basic_b__unit05__07": {
   "english": "It is a night light",
-  "pic": "",
-  "src": ""
+  "pic": "night-light",
+  "src": "/workspace/day4-speak/new-pics/night-light.png"
  },
  "basic_b__unit05__08": {
   "english": "It was a teddy bear",
@@ -636,8 +636,8 @@
  },
  "basic_b__unit06__02": {
   "english": "This is my nose",
-  "pic": "",
-  "src": ""
+  "pic": "nose",
+  "src": "/workspace/day4-speak/new-pics/nose.png"
  },
  "basic_b__unit06__03": {
   "english": "This is my mouth",
@@ -656,8 +656,8 @@
  },
  "basic_b__unit06__06": {
   "english": "This is my neck",
-  "pic": "",
-  "src": ""
+  "pic": "neck",
+  "src": "/workspace/day4-speak/new-pics/neck.png"
  },
  "basic_b__unit06__07": {
   "english": "This is my body",
@@ -666,18 +666,18 @@
  },
  "basic_b__unit06__08": {
   "english": "This is my chin",
-  "pic": "",
-  "src": ""
+  "pic": "chin",
+  "src": "/workspace/day4-speak/new-pics/chin.png"
  },
  "basic_b__unit06__09": {
   "english": "This is my hand",
-  "pic": "",
-  "src": ""
+  "pic": "hand",
+  "src": "/workspace/day4-speak/new-pics/hand.png"
  },
  "basic_b__unit06__10": {
   "english": "This is my shoulder",
-  "pic": "",
-  "src": ""
+  "pic": "shoulder",
+  "src": "/workspace/day4-speak/new-pics/shoulder.png"
  },
  "basic_b__unit07__01": {
   "english": "It is white",
@@ -716,8 +716,8 @@
  },
  "basic_b__unit07__08": {
   "english": "It is blue",
-  "pic": "",
-  "src": ""
+  "pic": "color-blue",
+  "src": "/workspace/day4-speak/new-pics/color-blue.png"
  },
  "basic_b__unit07__09": {
   "english": "It is purple",
@@ -731,43 +731,43 @@
  },
  "basic_b__unit08__01": {
   "english": "I am seven years old",
-  "pic": "",
-  "src": ""
+  "pic": "age-7",
+  "src": "/workspace/day4-speak/new-pics/age-7.png"
  },
  "basic_b__unit08__02": {
   "english": "I am ten years old",
-  "pic": "",
-  "src": ""
+  "pic": "age-10",
+  "src": "/workspace/day4-speak/new-pics/age-10.png"
  },
  "basic_b__unit08__03": {
   "english": "I am fourteen years old",
-  "pic": "",
-  "src": ""
+  "pic": "age-14",
+  "src": "/workspace/day4-speak/new-pics/age-14.png"
  },
  "basic_b__unit08__04": {
   "english": "I am seventeen years old",
-  "pic": "",
-  "src": ""
+  "pic": "age-17",
+  "src": "/workspace/day4-speak/new-pics/age-17.png"
  },
  "basic_b__unit08__05": {
   "english": "I am twenty-two years old",
-  "pic": "",
-  "src": ""
+  "pic": "age-22",
+  "src": "/workspace/day4-speak/new-pics/age-22.png"
  },
  "basic_b__unit08__06": {
   "english": "I am twenty-five years old",
-  "pic": "",
-  "src": ""
+  "pic": "age-25",
+  "src": "/workspace/day4-speak/new-pics/age-25.png"
  },
  "basic_b__unit08__07": {
   "english": "I am thirty-three years old",
-  "pic": "",
-  "src": ""
+  "pic": "age-33",
+  "src": "/workspace/day4-speak/new-pics/age-33.png"
  },
  "basic_b__unit08__08": {
   "english": "I am sixty-six years old",
-  "pic": "",
-  "src": ""
+  "pic": "age-66",
+  "src": "/workspace/day4-speak/new-pics/age-66.png"
  },
  "basic_b__unit08__09": {
   "english": "I am one year old",
@@ -826,8 +826,8 @@
  },
  "basic_c__unit01__10": {
   "english": "I love my squirrel Sandy",
-  "pic": "",
-  "src": ""
+  "pic": "pet-squirrel",
+  "src": "/workspace/day4-speak/new-pics/pet-squirrel.png"
  },
  "basic_c__unit02__01": {
   "english": "Look at my new hat",
@@ -856,8 +856,8 @@
  },
  "basic_c__unit02__06": {
   "english": "Look at my new watch",
-  "pic": "",
-  "src": ""
+  "pic": "new-wristwatch",
+  "src": "/workspace/day4-speak/new-pics/new-wristwatch.png"
  },
  "basic_c__unit02__07": {
   "english": "Look at my new bag",
@@ -876,48 +876,48 @@
  },
  "basic_c__unit02__10": {
   "english": "Look at my new house",
-  "pic": "",
-  "src": ""
+  "pic": "new-house",
+  "src": "/workspace/day4-speak/new-pics/new-house.png"
  },
  "basic_c__unit03__01": {
   "english": "See you Monday",
-  "pic": "",
-  "src": ""
+  "pic": "see-you-monday",
+  "src": "/workspace/day4-speak/new-pics/see-you-monday.png"
  },
  "basic_c__unit03__02": {
   "english": "May I start?",
-  "pic": "",
-  "src": ""
+  "pic": "may-i-start",
+  "src": "/workspace/day4-speak/new-pics/may-i-start.png"
  },
  "basic_c__unit03__03": {
   "english": "Report!",
-  "pic": "",
-  "src": ""
+  "pic": "report",
+  "src": "/workspace/day4-speak/new-pics/report.png"
  },
  "basic_c__unit03__04": {
   "english": "Spell cat!",
-  "pic": "",
-  "src": ""
+  "pic": "spell-cat",
+  "src": "/workspace/day4-speak/new-pics/spell-cat.png"
  },
  "basic_c__unit03__05": {
   "english": "What does cat mean?",
-  "pic": "",
-  "src": ""
+  "pic": "what-does-cat-mean",
+  "src": "/workspace/day4-speak/new-pics/what-does-cat-mean.png"
  },
  "basic_c__unit03__06": {
   "english": "You are welcome",
-  "pic": "",
-  "src": ""
+  "pic": "you-are-welcome",
+  "src": "/workspace/day4-speak/new-pics/you-are-welcome.png"
  },
  "basic_c__unit03__07": {
   "english": "Please test me",
-  "pic": "",
-  "src": ""
+  "pic": "please-test-me",
+  "src": "/workspace/day4-speak/new-pics/please-test-me.png"
  },
  "basic_c__unit03__08": {
   "english": "See you tomorrow",
-  "pic": "",
-  "src": ""
+  "pic": "see-you-tomorrow",
+  "src": "/workspace/day4-speak/new-pics/see-you-tomorrow.png"
  },
  "basic_c__unit03__09": {
   "english": "I do not understand",
@@ -936,8 +936,8 @@
  },
  "basic_c__unit04__02": {
   "english": "What can we see near Busan?",
-  "pic": "",
-  "src": ""
+  "pic": "busan-fish-market",
+  "src": "/workspace/day4-speak/new-pics/busan-fish-market.png"
  },
  "basic_c__unit04__03": {
   "english": "What can we see near Jeju?",
@@ -951,8 +951,8 @@
  },
  "basic_c__unit04__05": {
   "english": "What can we see near Gongju?",
-  "pic": "",
-  "src": ""
+  "pic": "gongju-fortress",
+  "src": "/workspace/day4-speak/new-pics/gongju-fortress.png"
  },
  "basic_c__unit04__06": {
   "english": "What can we see near Andong?",
@@ -971,13 +971,13 @@
  },
  "basic_c__unit04__09": {
   "english": "What can we see near Pyeongchang?",
-  "pic": "",
-  "src": ""
+  "pic": "pyeongchang-ski",
+  "src": "/workspace/day4-speak/new-pics/pyeongchang-ski.png"
  },
  "basic_c__unit04__10": {
   "english": "What can we see near Jindo?",
-  "pic": "",
-  "src": ""
+  "pic": "jindo-dog",
+  "src": "/workspace/day4-speak/new-pics/jindo-dog.png"
  },
  "basic_c__unit05__01": {
   "english": "pig",
@@ -1031,13 +1031,13 @@
  },
  "basic_c__unit06__01": {
   "english": "Don't touch your arm",
-  "pic": "",
-  "src": ""
+  "pic": "dont-touch-arm",
+  "src": "/workspace/day4-speak/new-pics/dont-touch-arm.png"
  },
  "basic_c__unit06__02": {
   "english": "Don't touch your leg",
-  "pic": "",
-  "src": ""
+  "pic": "dont-touch-leg",
+  "src": "/workspace/day4-speak/new-pics/dont-touch-leg.png"
  },
  "basic_c__unit06__03": {
   "english": "Don't touch your knee",
@@ -1046,8 +1046,8 @@
  },
  "basic_c__unit06__04": {
   "english": "Don't touch your back",
-  "pic": "",
-  "src": ""
+  "pic": "dont-touch-back",
+  "src": "/workspace/day4-speak/new-pics/dont-touch-back.png"
  },
  "basic_c__unit06__05": {
   "english": "Don't touch your face",
@@ -1061,18 +1061,18 @@
  },
  "basic_c__unit06__07": {
   "english": "Don't touch your wrist",
-  "pic": "",
-  "src": ""
+  "pic": "dont-touch-wrist",
+  "src": "/workspace/day4-speak/new-pics/dont-touch-wrist.png"
  },
  "basic_c__unit06__08": {
   "english": "Don't touch your toe",
-  "pic": "",
-  "src": ""
+  "pic": "dont-touch-toe",
+  "src": "/workspace/day4-speak/new-pics/dont-touch-toe.png"
  },
  "basic_c__unit06__09": {
   "english": "Don't touch your neck",
-  "pic": "",
-  "src": ""
+  "pic": "dont-touch-neck",
+  "src": "/workspace/day4-speak/new-pics/dont-touch-neck.png"
  },
  "basic_c__unit06__10": {
   "english": "Don't touch your ear",
@@ -1091,8 +1091,8 @@
  },
  "basic_c__unit07__03": {
   "english": "Where is the merry-go-round?",
-  "pic": "",
-  "src": ""
+  "pic": "merry-go-round",
+  "src": "/workspace/day4-speak/new-pics/merry-go-round.png"
  },
  "basic_c__unit07__04": {
   "english": "Where is the swing?",
@@ -1116,18 +1116,18 @@
  },
  "basic_c__unit07__08": {
   "english": "Where is the bumper car?",
-  "pic": "",
-  "src": ""
+  "pic": "bumper-car",
+  "src": "/workspace/day4-speak/new-pics/bumper-car.png"
  },
  "basic_c__unit07__09": {
   "english": "Where is the maze?",
-  "pic": "",
-  "src": ""
+  "pic": "maze",
+  "src": "/workspace/day4-speak/new-pics/maze.png"
  },
  "basic_c__unit07__10": {
   "english": "Where is the roller coaster?",
-  "pic": "",
-  "src": ""
+  "pic": "roller-coaster",
+  "src": "/workspace/day4-speak/new-pics/roller-coaster.png"
  },
  "basic_c__unit08__01": {
   "english": "I want a new doll",
@@ -1176,8 +1176,8 @@
  },
  "basic_c__unit08__10": {
   "english": "I want a new house",
-  "pic": "",
-  "src": ""
+  "pic": "new-house",
+  "src": "/workspace/day4-speak/new-pics/new-house.png"
  },
  "int2a__unit01__01": {
   "english": "It is hot",
@@ -1281,8 +1281,8 @@
  },
  "int2a__unit03__01": {
   "english": "Can you speak Chinese?",
-  "pic": "",
-  "src": ""
+  "pic": "speak-chinese",
+  "src": "/workspace/day4-speak/new-pics/speak-chinese.png"
  },
  "int2a__unit03__02": {
   "english": "Can you speak Japanese?",
@@ -1321,8 +1321,8 @@
  },
  "int2a__unit03__09": {
   "english": "Can you speak English?",
-  "pic": "",
-  "src": ""
+  "pic": "speak-english",
+  "src": "/workspace/day4-speak/new-pics/speak-english.png"
  },
  "int2a__unit03__10": {
   "english": "Can you speak Russian?",
@@ -1341,8 +1341,8 @@
  },
  "int2a__unit04__03": {
   "english": "I want tissue paper",
-  "pic": "",
-  "src": ""
+  "pic": "tissue-paper",
+  "src": "/workspace/day4-speak/new-pics/tissue-paper.png"
  },
  "int2a__unit04__04": {
   "english": "I want soup",
@@ -1391,8 +1391,8 @@
  },
  "int2a__unit05__03": {
   "english": "Maybe it is in the living room",
-  "pic": "",
-  "src": ""
+  "pic": "living-room",
+  "src": "/workspace/day4-speak/new-pics/living-room.png"
  },
  "int2a__unit05__04": {
   "english": "Maybe it is in the garage",
@@ -1416,8 +1416,8 @@
  },
  "int2a__unit05__08": {
   "english": "Maybe it is in the dining room",
-  "pic": "",
-  "src": ""
+  "pic": "dining-room",
+  "src": "/workspace/day4-speak/new-pics/dining-room.png"
  },
  "int2a__unit05__09": {
   "english": "Maybe it is in the classroom",
@@ -1441,8 +1441,8 @@
  },
  "int2a__unit06__03": {
   "english": "Look at this gross video",
-  "pic": "",
-  "src": ""
+  "pic": "gross-video",
+  "src": "/workspace/day4-speak/new-pics/gross-video.png"
  },
  "int2a__unit06__04": {
   "english": "Look at this sad video",
@@ -1451,23 +1451,23 @@
  },
  "int2a__unit06__05": {
   "english": "Look at this weird video",
-  "pic": "",
-  "src": ""
+  "pic": "weird-video",
+  "src": "/workspace/day4-speak/new-pics/weird-video.png"
  },
  "int2a__unit06__06": {
   "english": "Look at this exciting video",
-  "pic": "",
-  "src": ""
+  "pic": "exciting-video",
+  "src": "/workspace/day4-speak/new-pics/exciting-video.png"
  },
  "int2a__unit06__07": {
   "english": "Look at this crazy video",
-  "pic": "",
-  "src": ""
+  "pic": "crazy-video",
+  "src": "/workspace/day4-speak/new-pics/crazy-video.png"
  },
  "int2a__unit06__08": {
   "english": "Look at this quiet video",
-  "pic": "",
-  "src": ""
+  "pic": "quiet-video",
+  "src": "/workspace/day4-speak/new-pics/quiet-video.png"
  },
  "int2a__unit06__09": {
   "english": "Look at this boring video",
@@ -1496,8 +1496,8 @@
  },
  "int2a__unit07__04": {
   "english": "In Korea, students clean their school",
-  "pic": "",
-  "src": ""
+  "pic": "students-clean-school",
+  "src": "/workspace/day4-speak/new-pics/students-clean-school.png"
  },
  "int2a__unit07__05": {
   "english": "Where is the librarian?",
@@ -1521,8 +1521,8 @@
  },
  "int2a__unit07__09": {
   "english": "Where is the groundskeeper?",
-  "pic": "",
-  "src": ""
+  "pic": "groundskeeper",
+  "src": "/workspace/day4-speak/new-pics/groundskeeper.png"
  },
  "int2a__unit07__10": {
   "english": "Where is the nurse?",
@@ -1556,8 +1556,8 @@
  },
  "int2a__unit08__06": {
   "english": "I take care of my little brother",
-  "pic": "",
-  "src": ""
+  "pic": "take-care-little-brother",
+  "src": "/workspace/day4-speak/new-pics/take-care-little-brother.png"
  },
  "int2a__unit08__07": {
   "english": "I just relax",
@@ -1581,23 +1581,23 @@
  },
  "int2b__unit01__01": {
   "english": "It is Monday",
-  "pic": "",
-  "src": ""
+  "pic": "day-monday",
+  "src": "/workspace/day4-speak/new-pics/day-monday.png"
  },
  "int2b__unit01__02": {
   "english": "It is Tuesday",
-  "pic": "",
-  "src": ""
+  "pic": "day-tuesday",
+  "src": "/workspace/day4-speak/new-pics/day-tuesday.png"
  },
  "int2b__unit01__03": {
   "english": "It is Wednesday",
-  "pic": "",
-  "src": ""
+  "pic": "day-wednesday",
+  "src": "/workspace/day4-speak/new-pics/day-wednesday.png"
  },
  "int2b__unit01__04": {
   "english": "It is Thursday",
-  "pic": "",
-  "src": ""
+  "pic": "day-thursday",
+  "src": "/workspace/day4-speak/new-pics/day-thursday.png"
  },
  "int2b__unit01__05": {
   "english": "It is Friday",
@@ -1606,18 +1606,18 @@
  },
  "int2b__unit01__06": {
   "english": "It is Saturday",
-  "pic": "",
-  "src": ""
+  "pic": "day-saturday",
+  "src": "/workspace/day4-speak/new-pics/day-saturday.png"
  },
  "int2b__unit01__07": {
   "english": "It is Sunday",
-  "pic": "",
-  "src": ""
+  "pic": "day-sunday",
+  "src": "/workspace/day4-speak/new-pics/day-sunday.png"
  },
  "int2b__unit01__08": {
   "english": "It is a holiday",
-  "pic": "",
-  "src": ""
+  "pic": "holiday",
+  "src": "/workspace/day4-speak/new-pics/holiday.png"
  },
  "int2b__unit01__09": {
   "english": "It is a school day",
@@ -1631,8 +1631,8 @@
  },
  "int2b__unit02__01": {
   "english": "It is seven thirty",
-  "pic": "",
-  "src": ""
+  "pic": "clock-7-30",
+  "src": "/workspace/day4-speak/new-pics/clock-7-30.png"
  },
  "int2b__unit02__02": {
   "english": "It is breakfast time",
@@ -1731,8 +1731,8 @@
  },
  "int2b__unit04__01": {
   "english": "How much is this?",
-  "pic": "",
-  "src": ""
+  "pic": "how-much-is-this",
+  "src": "/workspace/day4-speak/new-pics/how-much-is-this.png"
  },
  "int2b__unit04__02": {
   "english": "It is about 100 won",
@@ -1741,43 +1741,43 @@
  },
  "int2b__unit04__03": {
   "english": "How much is that?",
-  "pic": "",
-  "src": ""
+  "pic": "how-much-is-that",
+  "src": "/workspace/day4-speak/new-pics/how-much-is-that.png"
  },
  "int2b__unit04__04": {
   "english": "It is about 500 won",
-  "pic": "",
-  "src": ""
+  "pic": "500-won",
+  "src": "/workspace/day4-speak/new-pics/500-won.png"
  },
  "int2b__unit04__05": {
   "english": "How much are these?",
-  "pic": "",
-  "src": ""
+  "pic": "how-much-are-these",
+  "src": "/workspace/day4-speak/new-pics/how-much-are-these.png"
  },
  "int2b__unit04__06": {
   "english": "They are about 1000 won",
-  "pic": "",
-  "src": ""
+  "pic": "1000-won",
+  "src": "/workspace/day4-speak/new-pics/1000-won.png"
  },
  "int2b__unit04__07": {
   "english": "How much are those?",
-  "pic": "",
-  "src": ""
+  "pic": "how-much-are-those",
+  "src": "/workspace/day4-speak/new-pics/how-much-are-those.png"
  },
  "int2b__unit04__08": {
   "english": "They are about 5000 won",
-  "pic": "",
-  "src": ""
+  "pic": "5000-won",
+  "src": "/workspace/day4-speak/new-pics/5000-won.png"
  },
  "int2b__unit04__09": {
   "english": "Everything here is cheap!",
-  "pic": "",
-  "src": ""
+  "pic": "everything-cheap",
+  "src": "/workspace/day4-speak/new-pics/everything-cheap.png"
  },
  "int2b__unit04__10": {
   "english": "Let's buy some more!",
-  "pic": "",
-  "src": ""
+  "pic": "buy-some-more",
+  "src": "/workspace/day4-speak/new-pics/buy-some-more.png"
  },
  "int2b__unit05__01": {
   "english": "Is he smart?",
@@ -1876,8 +1876,8 @@
  },
  "int2b__unit06__10": {
   "english": "This is my Japanese teacher",
-  "pic": "",
-  "src": ""
+  "pic": "japanese-teacher",
+  "src": "/workspace/day4-speak/new-pics/japanese-teacher.png"
  },
  "int2b__unit07__01": {
   "english": "Is it in the pencil case?",
@@ -1921,63 +1921,63 @@
  },
  "int2b__unit07__09": {
   "english": "Is it across the street?",
-  "pic": "",
-  "src": ""
+  "pic": "across-the-street",
+  "src": "/workspace/day4-speak/new-pics/across-the-street.png"
  },
  "int2b__unit07__10": {
   "english": "Is it outside the house?",
-  "pic": "",
-  "src": ""
+  "pic": "outside-the-house",
+  "src": "/workspace/day4-speak/new-pics/outside-the-house.png"
  },
  "int2b__unit08__01": {
   "english": "This is mine",
-  "pic": "",
-  "src": ""
+  "pic": "this-is-mine",
+  "src": "/workspace/day4-speak/new-pics/this-is-mine.png"
  },
  "int2b__unit08__02": {
   "english": "It is not yours. It is mine",
-  "pic": "",
-  "src": ""
+  "pic": "not-yours-mine",
+  "src": "/workspace/day4-speak/new-pics/not-yours-mine.png"
  },
  "int2b__unit08__03": {
   "english": "It is not mine. It is ours",
-  "pic": "",
-  "src": ""
+  "pic": "not-mine-ours",
+  "src": "/workspace/day4-speak/new-pics/not-mine-ours.png"
  },
  "int2b__unit08__04": {
   "english": "This is not yours, it is hers",
-  "pic": "",
-  "src": ""
+  "pic": "not-yours-hers",
+  "src": "/workspace/day4-speak/new-pics/not-yours-hers.png"
  },
  "int2b__unit08__05": {
   "english": "These are not yours",
-  "pic": "",
-  "src": ""
+  "pic": "these-not-yours",
+  "src": "/workspace/day4-speak/new-pics/these-not-yours.png"
  },
  "int2b__unit08__06": {
   "english": "They are not theirs. They are mine",
-  "pic": "",
-  "src": ""
+  "pic": "not-theirs-mine",
+  "src": "/workspace/day4-speak/new-pics/not-theirs-mine.png"
  },
  "int2b__unit08__07": {
   "english": "This is yours",
-  "pic": "",
-  "src": ""
+  "pic": "this-is-yours",
+  "src": "/workspace/day4-speak/new-pics/this-is-yours.png"
  },
  "int2b__unit08__08": {
   "english": "It is not yours, it is his",
-  "pic": "",
-  "src": ""
+  "pic": "int2b_it_is_his",
+  "src": "/workspace/day5-practice/images/int2b/int2b_it_is_his.png"
  },
  "int2b__unit08__09": {
   "english": "What about mine?",
-  "pic": "",
-  "src": ""
+  "pic": "what-about-mine",
+  "src": "/workspace/day4-speak/new-pics/what-about-mine.png"
  },
  "int2b__unit08__10": {
   "english": "This is mine and this is mine and this is mine",
-  "pic": "",
-  "src": ""
+  "pic": "mine-mine-mine",
+  "src": "/workspace/day4-speak/new-pics/mine-mine-mine.png"
  },
  "int2c__unit01__01": {
   "english": "I love summer in Tongyeong City",
@@ -1991,13 +1991,13 @@
  },
  "int2c__unit01__03": {
   "english": "How about you?",
-  "pic": "",
-  "src": ""
+  "pic": "how-about-you",
+  "src": "/workspace/day4-speak/new-pics/how-about-you.png"
  },
  "int2c__unit01__04": {
   "english": "I love all four seasons",
-  "pic": "",
-  "src": ""
+  "pic": "four-seasons",
+  "src": "/workspace/day4-speak/new-pics/four-seasons.png"
  },
  "int2c__unit01__05": {
   "english": "I love fall in Naejangsan National Park",
@@ -2081,13 +2081,13 @@
  },
  "int2c__unit03__01": {
   "english": "Is this yours?",
-  "pic": "",
-  "src": ""
+  "pic": "is-this-yours",
+  "src": "/workspace/day4-speak/new-pics/is-this-yours.png"
  },
  "int2c__unit03__02": {
   "english": "Are those yours?",
-  "pic": "",
-  "src": ""
+  "pic": "are-those-yours",
+  "src": "/workspace/day4-speak/new-pics/are-those-yours.png"
  },
  "int2c__unit03__03": {
   "english": "Whose candy is this?",
@@ -2131,13 +2131,13 @@
  },
  "int2c__unit04__01": {
   "english": "What is your favorite animal?",
-  "pic": "",
-  "src": ""
+  "pic": "favorite-animal",
+  "src": "/workspace/day4-speak/new-pics/favorite-animal.png"
  },
  "int2c__unit04__02": {
   "english": "What is your favorite season?",
-  "pic": "",
-  "src": ""
+  "pic": "favorite-season",
+  "src": "/workspace/day4-speak/new-pics/favorite-season.png"
  },
  "int2c__unit04__03": {
   "english": "What is your favorite fruit?",
@@ -2151,13 +2151,13 @@
  },
  "int2c__unit04__05": {
   "english": "What is your favorite color?",
-  "pic": "",
-  "src": ""
+  "pic": "favorite-color",
+  "src": "/workspace/day4-speak/new-pics/favorite-color.png"
  },
  "int2c__unit04__06": {
   "english": "What is your favorite hobby?",
-  "pic": "",
-  "src": ""
+  "pic": "favorite-hobby",
+  "src": "/workspace/day4-speak/new-pics/favorite-hobby.png"
  },
  "int2c__unit04__07": {
   "english": "What is your favorite music?",
@@ -2171,13 +2171,13 @@
  },
  "int2c__unit04__09": {
   "english": "What is your favorite sport?",
-  "pic": "",
-  "src": ""
+  "pic": "favorite-sport",
+  "src": "/workspace/day4-speak/new-pics/favorite-sport.png"
  },
  "int2c__unit04__10": {
   "english": "What is your favorite character?",
-  "pic": "",
-  "src": ""
+  "pic": "favorite-character",
+  "src": "/workspace/day4-speak/new-pics/favorite-character.png"
  },
  "int2c__unit05__01": {
   "english": "I am feeling confused",
@@ -2246,8 +2246,8 @@
  },
  "int2c__unit06__04": {
   "english": "My back hurts",
-  "pic": "",
-  "src": ""
+  "pic": "back-hurts",
+  "src": "/workspace/day4-speak/new-pics/back-hurts.png"
  },
  "int2c__unit06__05": {
   "english": "I have a sore throat",
@@ -2271,8 +2271,8 @@
  },
  "int2c__unit06__09": {
   "english": "I have a bloody nose",
-  "pic": "",
-  "src": ""
+  "pic": "bloody-nose",
+  "src": "/workspace/day4-speak/new-pics/bloody-nose.png"
  },
  "int2c__unit06__10": {
   "english": "I sprained my ankle",
@@ -2281,73 +2281,73 @@
  },
  "int2c__unit07__01": {
   "english": "Hello",
-  "pic": "",
-  "src": ""
+  "pic": "phone-hello",
+  "src": "/workspace/day4-speak/new-pics/phone-hello.png"
  },
  "int2c__unit07__02": {
   "english": "Is Beomjun there?",
-  "pic": "",
-  "src": ""
+  "pic": "is-beomjun-there",
+  "src": "/workspace/day4-speak/new-pics/is-beomjun-there.png"
  },
  "int2c__unit07__03": {
   "english": "Who is this?",
-  "pic": "",
-  "src": ""
+  "pic": "who-is-this",
+  "src": "/workspace/day4-speak/new-pics/who-is-this.png"
  },
  "int2c__unit07__04": {
   "english": "This is Mr. Jay",
-  "pic": "",
-  "src": ""
+  "pic": "this-is-mr-jay",
+  "src": "/workspace/day4-speak/new-pics/this-is-mr-jay.png"
  },
  "int2c__unit07__05": {
   "english": "Hello, Mr. Jay",
-  "pic": "",
-  "src": ""
+  "pic": "hello-mr-jay",
+  "src": "/workspace/day4-speak/new-pics/hello-mr-jay.png"
  },
  "int2c__unit07__06": {
   "english": "Sorry, he is out",
-  "pic": "",
-  "src": ""
+  "pic": "he-is-out",
+  "src": "/workspace/day4-speak/new-pics/he-is-out.png"
  },
  "int2c__unit07__07": {
   "english": "Please call his friend Taehwan",
-  "pic": "",
-  "src": ""
+  "pic": "call-his-friend",
+  "src": "/workspace/day4-speak/new-pics/call-his-friend.png"
  },
  "int2c__unit07__08": {
   "english": "What is his phone number?",
-  "pic": "",
-  "src": ""
+  "pic": "what-phone-number",
+  "src": "/workspace/day4-speak/new-pics/what-phone-number.png"
  },
  "int2c__unit07__09": {
   "english": "His phone number is 010 3457 7543",
-  "pic": "",
-  "src": ""
+  "pic": "phone-number",
+  "src": "/workspace/day4-speak/new-pics/phone-number.png"
  },
  "int2c__unit07__10": {
   "english": "Okay, thank you",
-  "pic": "",
-  "src": ""
+  "pic": "okay-thank-you",
+  "src": "/workspace/day4-speak/new-pics/okay-thank-you.png"
  },
  "int2c__unit08__01": {
   "english": "I'll miss you",
-  "pic": "",
-  "src": ""
+  "pic": "ill-miss-you",
+  "src": "/workspace/day4-speak/new-pics/ill-miss-you.png"
  },
  "int2c__unit08__02": {
   "english": "Take care",
-  "pic": "",
-  "src": ""
+  "pic": "take-care",
+  "src": "/workspace/day4-speak/new-pics/take-care.png"
  },
  "int2c__unit08__03": {
   "english": "So long",
-  "pic": "",
-  "src": ""
+  "pic": "so-long",
+  "src": "/workspace/day4-speak/new-pics/so-long.png"
  },
  "int2c__unit08__04": {
   "english": "I am off",
-  "pic": "",
-  "src": ""
+  "pic": "i-am-off",
+  "src": "/workspace/day4-speak/new-pics/i-am-off.png"
  },
  "int2c__unit08__05": {
   "english": "Time to say goodbye",
@@ -2361,23 +2361,23 @@
  },
  "int2c__unit08__07": {
   "english": "Good luck",
-  "pic": "",
-  "src": ""
+  "pic": "good-luck",
+  "src": "/workspace/day4-speak/new-pics/good-luck.png"
  },
  "int2c__unit08__08": {
   "english": "Take it easy",
-  "pic": "",
-  "src": ""
+  "pic": "take-it-easy",
+  "src": "/workspace/day4-speak/new-pics/take-it-easy.png"
  },
  "int2c__unit08__09": {
   "english": "Have a nice day",
-  "pic": "",
-  "src": ""
+  "pic": "have-a-nice-day",
+  "src": "/workspace/day4-speak/new-pics/have-a-nice-day.png"
  },
  "int2c__unit08__10": {
   "english": "I must be going",
-  "pic": "",
-  "src": ""
+  "pic": "must-be-going",
+  "src": "/workspace/day4-speak/new-pics/must-be-going.png"
  },
  "int3a__unit01__01": {
   "english": "I can draw a circle",
@@ -2476,8 +2476,8 @@
  },
  "int3a__unit02__10": {
   "english": "I like cotton candy",
-  "pic": "",
-  "src": ""
+  "pic": "cotton-candy",
+  "src": "/workspace/day4-speak/new-pics/cotton-candy.png"
  },
  "int3a__unit03__01": {
   "english": "This is good",
@@ -2521,8 +2521,8 @@
  },
  "int3a__unit03__09": {
   "english": "This is quiet",
-  "pic": "",
-  "src": ""
+  "pic": "quiet",
+  "src": "/workspace/day4-speak/new-pics/quiet.png"
  },
  "int3a__unit03__10": {
   "english": "That is loud",
@@ -2536,8 +2536,8 @@
  },
  "int3a__unit04__02": {
   "english": "She is 27 years old",
-  "pic": "",
-  "src": ""
+  "pic": "woman-age-27",
+  "src": "/workspace/day4-speak/new-pics/woman-age-27.png"
  },
  "int3a__unit04__03": {
   "english": "He is 5 years old",
@@ -2546,8 +2546,8 @@
  },
  "int3a__unit04__04": {
   "english": "She is 10 years old",
-  "pic": "",
-  "src": ""
+  "pic": "girl-age-10",
+  "src": "/workspace/day4-speak/new-pics/girl-age-10.png"
  },
  "int3a__unit04__05": {
   "english": "He is 55 years old",
@@ -2556,18 +2556,18 @@
  },
  "int3a__unit04__06": {
   "english": "She is 30 years old",
-  "pic": "",
-  "src": ""
+  "pic": "woman-age-30",
+  "src": "/workspace/day4-speak/new-pics/woman-age-30.png"
  },
  "int3a__unit04__07": {
   "english": "He is 100 years old",
-  "pic": "",
-  "src": ""
+  "pic": "man-age-100",
+  "src": "/workspace/day4-speak/new-pics/man-age-100.png"
  },
  "int3a__unit04__08": {
   "english": "She is 39 years old",
-  "pic": "",
-  "src": ""
+  "pic": "woman-age-39",
+  "src": "/workspace/day4-speak/new-pics/woman-age-39.png"
  },
  "int3a__unit04__09": {
   "english": "He is 1 year old",
@@ -2651,8 +2651,8 @@
  },
  "int3a__unit06__05": {
   "english": "Stingray",
-  "pic": "",
-  "src": ""
+  "pic": "stingray",
+  "src": "/workspace/day4-speak/new-pics/stingray.png"
  },
  "int3a__unit06__06": {
   "english": "Mike",
@@ -2681,8 +2681,8 @@
  },
  "int3a__unit07__01": {
   "english": "Stand up!",
-  "pic": "",
-  "src": ""
+  "pic": "stand-up",
+  "src": "/workspace/day4-speak/new-pics/stand-up.png"
  },
  "int3a__unit07__02": {
   "english": "Run!",
@@ -2716,13 +2716,13 @@
  },
  "int3a__unit07__08": {
   "english": "Sit down!",
-  "pic": "",
-  "src": ""
+  "pic": "sit-down",
+  "src": "/workspace/day4-speak/new-pics/sit-down.png"
  },
  "int3a__unit07__09": {
   "english": "Get down!",
-  "pic": "",
-  "src": ""
+  "pic": "i3b_getdown",
+  "src": "/workspace/day5-practice/images/int3b/i3b_getdown.png"
  },
  "int3a__unit07__10": {
   "english": "Do jumping jacks!",
@@ -2761,8 +2761,8 @@
  },
  "int3a__unit08__07": {
   "english": "Where are you from?",
-  "pic": "",
-  "src": ""
+  "pic": "where-are-you-from",
+  "src": "/workspace/day4-speak/new-pics/where-are-you-from.png"
  },
  "int3a__unit08__08": {
   "english": "I am from Seoul",
@@ -2771,13 +2771,13 @@
  },
  "int3a__unit08__09": {
   "english": "There are six people in my family",
-  "pic": "",
-  "src": ""
+  "pic": "family-of-six",
+  "src": "/workspace/day4-speak/new-pics/family-of-six.png"
  },
  "int3a__unit08__10": {
   "english": "What school do you go to?",
-  "pic": "",
-  "src": ""
+  "pic": "what-school",
+  "src": "/workspace/day4-speak/new-pics/what-school.png"
  },
  "int3b__unit01__01": {
   "english": "I am in kindergarten",
@@ -2786,48 +2786,48 @@
  },
  "int3b__unit01__02": {
   "english": "I am in first grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-1",
+  "src": "/workspace/day4-speak/new-pics/grade-1.png"
  },
  "int3b__unit01__03": {
   "english": "I am in second grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-2",
+  "src": "/workspace/day4-speak/new-pics/grade-2.png"
  },
  "int3b__unit01__04": {
   "english": "I am in third grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-3",
+  "src": "/workspace/day4-speak/new-pics/grade-3.png"
  },
  "int3b__unit01__05": {
   "english": "I am in fourth grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-4",
+  "src": "/workspace/day4-speak/new-pics/grade-4.png"
  },
  "int3b__unit01__06": {
   "english": "I am in fifth grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-5",
+  "src": "/workspace/day4-speak/new-pics/grade-5.png"
  },
  "int3b__unit01__07": {
   "english": "I am in sixth grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-6",
+  "src": "/workspace/day4-speak/new-pics/grade-6.png"
  },
  "int3b__unit01__08": {
   "english": "I am in seventh grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-7",
+  "src": "/workspace/day4-speak/new-pics/grade-7.png"
  },
  "int3b__unit01__09": {
   "english": "I am in eighth grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-8",
+  "src": "/workspace/day4-speak/new-pics/grade-8.png"
  },
  "int3b__unit01__10": {
   "english": "I am in ninth grade",
-  "pic": "",
-  "src": ""
+  "pic": "grade-9",
+  "src": "/workspace/day4-speak/new-pics/grade-9.png"
  },
  "int3b__unit02__01": {
   "english": "It is a guitar",
@@ -2901,8 +2901,8 @@
  },
  "int3b__unit03__05": {
   "english": "Cooler please",
-  "pic": "",
-  "src": ""
+  "pic": "cooler-please",
+  "src": "/workspace/day4-speak/new-pics/cooler-please.png"
  },
  "int3b__unit03__06": {
   "english": "Smaller please",
@@ -2911,13 +2911,13 @@
  },
  "int3b__unit03__07": {
   "english": "More please",
-  "pic": "",
-  "src": ""
+  "pic": "more-please",
+  "src": "/workspace/day4-speak/new-pics/more-please.png"
  },
  "int3b__unit03__08": {
   "english": "Less please",
-  "pic": "",
-  "src": ""
+  "pic": "less-please",
+  "src": "/workspace/day4-speak/new-pics/less-please.png"
  },
  "int3b__unit03__09": {
   "english": "Quieter please",
@@ -2981,23 +2981,23 @@
  },
  "int3b__unit05__01": {
   "english": "Eat up!",
-  "pic": "",
-  "src": ""
+  "pic": "eat-up",
+  "src": "/workspace/day4-speak/new-pics/eat-up.png"
  },
  "int3b__unit05__02": {
   "english": "Wash up!",
-  "pic": "",
-  "src": ""
+  "pic": "wash-up",
+  "src": "/workspace/day4-speak/new-pics/wash-up.png"
  },
  "int3b__unit05__03": {
   "english": "Hurry up!",
-  "pic": "",
-  "src": ""
+  "pic": "hurry-up",
+  "src": "/workspace/day4-speak/new-pics/hurry-up.png"
  },
  "int3b__unit05__04": {
   "english": "Clean up!",
-  "pic": "",
-  "src": ""
+  "pic": "clean-up",
+  "src": "/workspace/day4-speak/new-pics/clean-up.png"
  },
  "int3b__unit05__05": {
   "english": "Slow down!",
@@ -3006,13 +3006,13 @@
  },
  "int3b__unit05__06": {
   "english": "Put it down!",
-  "pic": "",
-  "src": ""
+  "pic": "put-it-down",
+  "src": "/workspace/day4-speak/new-pics/put-it-down.png"
  },
  "int3b__unit05__07": {
   "english": "Come down!",
-  "pic": "",
-  "src": ""
+  "pic": "come-down",
+  "src": "/workspace/day4-speak/new-pics/come-down.png"
  },
  "int3b__unit05__08": {
   "english": "Be quiet!",
@@ -3021,13 +3021,13 @@
  },
  "int3b__unit05__09": {
   "english": "Give up!",
-  "pic": "",
-  "src": ""
+  "pic": "give-up",
+  "src": "/workspace/day4-speak/new-pics/give-up.png"
  },
  "int3b__unit05__10": {
   "english": "Cool it down!",
-  "pic": "",
-  "src": ""
+  "pic": "cool-it-down",
+  "src": "/workspace/day4-speak/new-pics/cool-it-down.png"
  },
  "int3b__unit06__01": {
   "english": "They are apples",
@@ -3046,8 +3046,8 @@
  },
  "int3b__unit06__04": {
   "english": "They are rambutans",
-  "pic": "",
-  "src": ""
+  "pic": "rambutans",
+  "src": "/workspace/day4-speak/new-pics/rambutans.png"
  },
  "int3b__unit06__05": {
   "english": "They are grapefruits",
@@ -3131,8 +3131,8 @@
  },
  "int3b__unit08__01": {
   "english": "Where are you from?",
-  "pic": "",
-  "src": ""
+  "pic": "where-are-you-from",
+  "src": "/workspace/day4-speak/new-pics/where-are-you-from.png"
  },
  "int3b__unit08__02": {
   "english": "I am from Canada",
@@ -3141,28 +3141,28 @@
  },
  "int3b__unit08__03": {
   "english": "How tall are you?",
-  "pic": "",
-  "src": ""
+  "pic": "how-tall",
+  "src": "/workspace/day4-speak/new-pics/how-tall.png"
  },
  "int3b__unit08__04": {
   "english": "I am 187 centimeters tall",
-  "pic": "",
-  "src": ""
+  "pic": "187cm-tall",
+  "src": "/workspace/day4-speak/new-pics/187cm-tall.png"
  },
  "int3b__unit08__05": {
   "english": "Why did you come to Korea?",
-  "pic": "",
-  "src": ""
+  "pic": "why-come-to-korea",
+  "src": "/workspace/day4-speak/new-pics/why-come-to-korea.png"
  },
  "int3b__unit08__06": {
   "english": "I came to teach English",
-  "pic": "",
-  "src": ""
+  "pic": "teach-english",
+  "src": "/workspace/day4-speak/new-pics/teach-english.png"
  },
  "int3b__unit08__07": {
   "english": "What Korean food do you like?",
-  "pic": "",
-  "src": ""
+  "pic": "korean-food-question",
+  "src": "/workspace/day4-speak/new-pics/korean-food-question.png"
  },
  "int3b__unit08__08": {
   "english": "I like gimbap!",
@@ -3171,8 +3171,8 @@
  },
  "int3b__unit08__09": {
   "english": "How much do you weigh?",
-  "pic": "",
-  "src": ""
+  "pic": "how-much-weigh",
+  "src": "/workspace/day4-speak/new-pics/how-much-weigh.png"
  },
  "int3b__unit08__10": {
   "english": "That is a secret!",
@@ -3261,8 +3261,8 @@
  },
  "int3c__unit02__07": {
   "english": "Don't burp here",
-  "pic": "",
-  "src": ""
+  "pic": "dont-burp",
+  "src": "/workspace/day4-speak/new-pics/dont-burp.png"
  },
  "int3c__unit02__08": {
   "english": "Don't fight",
@@ -3516,8 +3516,8 @@
  },
  "int3c__unit07__08": {
   "english": "No, I cannot fly",
-  "pic": "",
-  "src": ""
+  "pic": "cannot-fly",
+  "src": "/workspace/day4-speak/new-pics/cannot-fly.png"
  },
  "int3c__unit07__09": {
   "english": "Yes, I can love",
