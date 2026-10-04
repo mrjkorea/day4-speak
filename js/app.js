@@ -63,6 +63,8 @@
   let audio = new Audio();
   let recognition = null;
   let listening = false;
+  const savedScores = {};
+  const progressNodes = [];
 
   function show(view) {
     Object.values(views).forEach((v) => (v.hidden = true));
@@ -129,6 +131,7 @@
         t.innerHTML = `<span class="tile-num">${num}</span><span class="tile-title">${u.title}</span>`;
         t.setAttribute("aria-label", `${data.label} Unit ${num}: ${u.title}`);
         t.onclick = () => startUnit(b.id, u.id);
+        trackProgress(t, b.id, u);
         grid.appendChild(t);
       });
       sec.appendChild(grid);
@@ -143,6 +146,7 @@
     });
     setVoice(voice);
     renderRecords();
+    paintSavedProgress();
     el("btnHome").onclick = () => {
       stopMic();
       audio.pause();
@@ -159,7 +163,7 @@
       recordResult(false, 0, "");
       nextItem();
     };
-    el("btnAgain").onclick = () => startUnit(state.bookId, state.unit.id);
+    el("btnAgain").onclick = () => startUnit(state.bookId, state.unit.id, { redo: true });
     el("btnBackUnits").onclick = () => openBook(state.bookId);
     show("home");
   }
@@ -177,12 +181,141 @@
       btn.className = "unit-card";
       btn.innerHTML = `<h3>${u.id.replace("unit", "Unit ")}</h3><p>${u.title}<br/>${u.items.length} items</p>`;
       btn.onclick = () => startUnit(bookId, u.id);
+      trackProgress(btn, bookId, u);
       grid.appendChild(btn);
     });
+    paintSavedProgress();
     show("unit");
   }
 
-  function startUnit(bookId, unitId) {
+  function trackProgress(node, bookId, unit) {
+    progressNodes.push({ node, bookId, unit });
+  }
+
+  function parseProgressScore(raw) {
+    const text = String(raw == null ? "" : raw).trim();
+    if (!text) return null;
+    const slash = text.match(/^(\d+(?:\.\d+)?)\s*\/\s*(\d+(?:\.\d+)?)/);
+    if (slash) {
+      const value = Number(slash[1]);
+      const max = Number(slash[2]);
+      if (max) return Math.round((value / max) * 100);
+      return Math.round(value);
+    }
+    const pct = text.match(/(\d+(?:\.\d+)?)/);
+    if (!pct) return null;
+    return Math.round(Number(pct[1]));
+  }
+
+  function rememberScore(itemId, score, passed) {
+    if (!itemId || !Number.isFinite(score)) return;
+    const prev = savedScores[itemId];
+    const pass = !!passed || score >= PASS;
+    if (!prev || score > prev.score) {
+      savedScores[itemId] = { score, passed: pass || !!(prev && prev.passed) };
+      return;
+    }
+    if (pass) prev.passed = true;
+  }
+
+  function applyAuthProgress(rows) {
+    if (!Array.isArray(rows) || !rows.length) return;
+    rows.forEach((row) => {
+      if (!row || row.program !== "day4-speak") return;
+      const itemId = String(row.item || row.itemId || "").trim();
+      const score = parseProgressScore(
+        row.score != null ? row.score : row.scorePct != null ? row.scorePct : row.scoreValue
+      );
+      if (score == null) return;
+      rememberScore(itemId, score, score >= PASS || row.correctness === "correct");
+    });
+    paintSavedProgress();
+  }
+
+  function unitSavedStats(unit) {
+    let passed = 0;
+    let best = 0;
+    let any = false;
+    unit.items.forEach((item) => {
+      const saved = savedScores[item.id];
+      if (!saved) return;
+      any = true;
+      if (saved.score > best) best = saved.score;
+      if (saved.passed) passed += 1;
+    });
+    return { passed, total: unit.items.length, best, any };
+  }
+
+  function paintSavedProgress() {
+    progressNodes.forEach((entry) => {
+      if (!entry.node.isConnected) return;
+      const stats = unitSavedStats(entry.unit);
+      let badge = entry.node.querySelector(".tile-saved");
+      if (!stats.any) {
+        if (badge) badge.remove();
+        return;
+      }
+      if (!badge) {
+        badge = document.createElement("span");
+        badge.className = "tile-saved";
+        entry.node.appendChild(badge);
+      }
+      badge.textContent = stats.passed
+        ? `${stats.passed}/${stats.total} 통과`
+        : `최고 ${stats.best}%`;
+    });
+  }
+
+  function postFinishedScore(item, score, passed, transcript) {
+    if (!item || !window.MRJ_SCORES || typeof MRJ_SCORES.post !== "function") return;
+    const student =
+      window.MRJ_AUTH && typeof MRJ_AUTH.student === "function"
+        ? String(MRJ_AUTH.student() || "").trim()
+        : "";
+    if (!student) return;
+    const pct = Math.round(Number(score));
+    if (!Number.isFinite(pct)) return;
+    if (pct === 0 && !String(transcript || "").trim()) return;
+    const book = books[state.bookId];
+    rememberScore(item.id, pct, passed);
+    MRJ_SCORES.post({
+      student,
+      program: "day4-speak",
+      appName: "MRJ Day 4 Speak",
+      source: "day4-speak",
+      bookTitle: book ? book.label : "",
+      itemId: item.id,
+      itemType: "speaking",
+      scoreValue: pct,
+      scoreMax: 100,
+      scorePct: pct,
+      correctness: passed ? "correct" : "incorrect",
+    });
+    paintSavedProgress();
+  }
+
+  function absorbPassed() {
+    if (state.redo || !state.unit) return;
+    while (state.index < state.unit.items.length) {
+      const item = state.unit.items[state.index];
+      const saved = savedScores[item.id];
+      if (!(saved && saved.passed)) break;
+      if (state.results.length === state.index) {
+        state.results.push({
+          id: item.id,
+          korean: item.korean,
+          english: item.english,
+          passed: true,
+          score: saved.score,
+          transcript: "",
+          restored: true,
+        });
+      }
+      state.index += 1;
+    }
+  }
+
+  function startUnit(bookId, unitId, opts) {
     const book = books[bookId];
     const unit = book.units.find((u) => u.id === unitId);
     state = {
@@ -192,10 +325,17 @@
       results: [],
       heard: false,
       passedCurrent: false,
+      redo: !!(opts && opts.redo),
     };
     el("title").textContent = `${book.label} · ${unit.title}`;
     el("scoreBadge").hidden = false;
-    el("scoreBadge").textContent = `0/${unit.items.length}`;
+    absorbPassed();
+    const passedCount = state.results.filter((r) => r.passed).length;
+    el("scoreBadge").textContent = `${passedCount}/${unit.items.length}`;
+    if (state.index >= unit.items.length) {
+      finishUnit();
+      return;
+    }
     show("speak");
     renderItem();
   }
@@ -227,7 +367,11 @@
     el("resultBox").hidden = true;
     el("btnNext").hidden = true;
     el("btnSkip").hidden = false;
-    el("micStatus").textContent = "먼저 한국어를 탭해서 영어를 들어요";
+    const saved = savedScores[item.id];
+    el("micStatus").textContent =
+      saved && !saved.passed
+        ? `지난 점수 ${saved.score}% · 먼저 한국어를 탭해서 영어를 들어요`
+        : "먼저 한국어를 탭해서 영어를 들어요";
     el("btnMic").disabled = false;
     state.heard = false;
     state.passedCurrent = false;
@@ -358,22 +502,26 @@
       setTimeout(() => {
         if (state.passedCurrent && state.index === idxAtPass) nextItem(true);
       }, 900);
+    } else {
+      postFinishedScore(item, score, false, transcript);
     }
   }
 
   function recordResult(passed, score, transcript) {
     // avoid double-push on auto next
     if (state.results.length === state.index + 1) return;
+    const item = currentItem();
     state.results.push({
-      id: currentItem().id,
-      korean: currentItem().korean,
-      english: currentItem().english,
+      id: item.id,
+      korean: item.korean,
+      english: item.english,
       passed,
       score,
       transcript,
     });
     const passedCount = state.results.filter((r) => r.passed).length;
     el("scoreBadge").textContent = `${passedCount}/${state.unit.items.length}`;
+    postFinishedScore(item, score, passed, transcript);
   }
 
   function nextItem(fromAuto) {
@@ -385,6 +533,7 @@
       // shouldn't happen
     }
     state.index += 1;
+    absorbPassed();
     if (state.index >= state.unit.items.length) {
       finishUnit();
       return;
@@ -425,7 +574,8 @@
       results: state.results,
       // TODO: Score Dashboard — sync this record to MRJ dashboard when available
     };
-    saveRecord(rec);
+    if (state.results.some((r) => !r.restored)) saveRecord(rec);
+    paintSavedProgress();
     el("doneSummary").textContent = `${passed} / ${total} 통과`;
     el("doneDetail").textContent = `평균 점수 ${avg}% · ${when} (KST)`;
     el("progressBar").style.setProperty("--pct", "100%");
@@ -442,6 +592,12 @@
     a.click();
     URL.revokeObjectURL(a.href);
   }
+
+  document.addEventListener("mrj-auth-ready", (ev) => {
+    const progress = ev.detail && ev.detail.progress;
+    if (!progress || !progress.length) return;
+    applyAuthProgress(progress);
+  });
 
   init().catch((e) => {
     console.error(e);
