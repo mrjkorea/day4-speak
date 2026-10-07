@@ -1,0 +1,7 @@
+{
+  "name": "day4-speak",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/progress.test.js"
+  }
+}
