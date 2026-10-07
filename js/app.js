@@ -1,8 +1,14 @@
 /* Day 4 Speak — MRJ all 9 books · Coach Ray / Miss Harper model audio */
 (function () {
-  const PASS = 80;
-  const STORAGE_KEY = "mrj_day4_speak_records_v1";
+  const BUILD = "20261007-progress-1";
+  const PROGRAM = "day4-speak";
+  const PASS = Day4Progress.PASS;
+  const LEGACY_RECORDS_KEY = "mrj_day4_speak_records_v1";
+  const RECORDS_KEY_PREFIX = "mrj_day4_speak_records_v1:";
   const VOICE_KEY = "mrj_day4_speak_voice_v1";
+  let recordsStorageKey = LEGACY_RECORDS_KEY;
+  let progressRetryDone = false;
+  let progressRetryTimer = null;
   const VOICES = {
     ray: { label: "Coach Ray", field: "audio" },
     harper: { label: "Miss Harper", field: "audio_harper" },
@@ -72,9 +78,68 @@
     el("btnHome").hidden = view === "home";
   }
 
+  function studentIdKey() {
+    try {
+      if (window.MRJ_AUTH && typeof MRJ_AUTH.student === "function") {
+        return String(MRJ_AUTH.student() || "").trim();
+      }
+    } catch (_) {}
+    return "";
+  }
+
+  function recordsKeyForStudent(studentId) {
+    const id = String(studentId || "").trim();
+    if (!id) return LEGACY_RECORDS_KEY;
+    return RECORDS_KEY_PREFIX + encodeURIComponent(id);
+  }
+
+  function mergeRecordLists(primary, secondary) {
+    const seen = new Set();
+    const out = [];
+    function push(rec) {
+      if (!rec || typeof rec !== "object") return;
+      const key = [rec.bookId, rec.unitId, rec.when].join("|");
+      if (seen.has(key)) return;
+      seen.add(key);
+      out.push(rec);
+    }
+    (primary || []).forEach(push);
+    (secondary || []).forEach(push);
+    return out.slice(0, 50);
+  }
+
+  function migrateLegacyRecords(studentKey) {
+    if (!studentKey || studentKey === LEGACY_RECORDS_KEY) return;
+    try {
+      const legacyRaw = localStorage.getItem(LEGACY_RECORDS_KEY);
+      if (!legacyRaw) return;
+      const legacy = JSON.parse(legacyRaw);
+      if (!Array.isArray(legacy) || !legacy.length) return;
+      const currentRaw = localStorage.getItem(studentKey);
+      let current = [];
+      try {
+        current = currentRaw ? JSON.parse(currentRaw) : [];
+      } catch (_) {
+        current = [];
+      }
+      if (!Array.isArray(current)) current = [];
+      const merged = mergeRecordLists(current, legacy);
+      localStorage.setItem(studentKey, JSON.stringify(merged));
+    } catch (_) {}
+  }
+
+  function bindStudentRecords(studentId) {
+    const key = recordsKeyForStudent(studentId);
+    if (key === recordsStorageKey) return;
+    recordsStorageKey = key;
+    migrateLegacyRecords(key);
+    renderRecords();
+    paintSavedProgress();
+  }
+
   function loadRecords() {
     try {
-      return JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
+      return JSON.parse(localStorage.getItem(recordsStorageKey) || "[]");
     } catch {
       return [];
     }
@@ -82,7 +147,7 @@
   function saveRecord(rec) {
     const all = loadRecords();
     all.unshift(rec);
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(all.slice(0, 50)));
+    localStorage.setItem(recordsStorageKey, JSON.stringify(all.slice(0, 50)));
     renderRecords();
   }
   function renderRecords() {
@@ -192,44 +257,72 @@
     progressNodes.push({ node, bookId, unit });
   }
 
-  function parseProgressScore(raw) {
-    const text = String(raw == null ? "" : raw).trim();
-    if (!text) return null;
-    const slash = text.match(/^(\d+(?:\.\d+)?)\s*\/\s*(\d+(?:\.\d+)?)/);
-    if (slash) {
-      const value = Number(slash[1]);
-      const max = Number(slash[2]);
-      if (max) return Math.round((value / max) * 100);
-      return Math.round(value);
-    }
-    const pct = text.match(/(\d+(?:\.\d+)?)/);
-    if (!pct) return null;
-    return Math.round(Number(pct[1]));
-  }
-
   function rememberScore(itemId, score, passed) {
-    if (!itemId || !Number.isFinite(score)) return;
-    const prev = savedScores[itemId];
-    const pass = !!passed || score >= PASS;
-    if (!prev || score > prev.score) {
-      savedScores[itemId] = { score, passed: pass || !!(prev && prev.passed) };
-      return;
-    }
-    if (pass) prev.passed = true;
+    Day4Progress.rememberScore(savedScores, itemId, score, passed);
   }
 
   function applyAuthProgress(rows) {
     if (!Array.isArray(rows) || !rows.length) return;
-    rows.forEach((row) => {
-      if (!row || row.program !== "day4-speak") return;
-      const itemId = String(row.item || row.itemId || "").trim();
-      const score = parseProgressScore(
-        row.score != null ? row.score : row.scorePct != null ? row.scorePct : row.scoreValue
-      );
-      if (score == null) return;
-      rememberScore(itemId, score, score >= PASS || row.correctness === "correct");
-    });
+    Day4Progress.applyRows(savedScores, rows, PROGRAM);
     paintSavedProgress();
+  }
+
+  function authProgressError() {
+    try {
+      if (window.MRJ_AUTH && typeof MRJ_AUTH.progressError === "function") {
+        return String(MRJ_AUTH.progressError() || "").trim();
+      }
+    } catch (_) {}
+    return "";
+  }
+
+  function scheduleProgressRetry(reason) {
+    if (progressRetryDone || progressRetryTimer) return;
+    progressRetryTimer = setTimeout(() => {
+      progressRetryTimer = null;
+      progressRetryDone = true;
+      loadRemoteProgressList(true);
+    }, 22000);
+    if (reason) console.warn("Day4 Speak: progress will retry —", reason);
+  }
+
+  function loadRemoteProgressList(fromRetry) {
+    const auth = window.MRJ_AUTH;
+    if (!auth || typeof auth.loadProgressForApp !== "function") return;
+    if (!studentIdKey()) return;
+    Promise.resolve()
+      .then(() => auth.loadProgressForApp(PROGRAM))
+      .then((result) => {
+        if (result && result.ok && Array.isArray(result.progress)) {
+          applyAuthProgress(result.progress);
+          return;
+        }
+        const err =
+          (result && result.error) || authProgressError() || "load_failed";
+        if (!fromRetry) scheduleProgressRetry(err);
+      })
+      .catch(() => {
+        if (!fromRetry) scheduleProgressRetry("network");
+      });
+  }
+
+  function onMrjAuthReady(ev) {
+    const detail = (ev && ev.detail) || {};
+    const studentId =
+      detail.id != null ? String(detail.id).trim() : studentIdKey();
+    if (studentId) bindStudentRecords(studentId);
+
+    const rows = Array.isArray(detail.progress) ? detail.progress : [];
+    if (rows.length) applyAuthProgress(rows);
+
+    const err =
+      authProgressError() ||
+      (detail.progressError != null ? String(detail.progressError).trim() : "");
+    if (err) {
+      scheduleProgressRetry(err);
+      return;
+    }
+    loadRemoteProgressList(false);
   }
 
   function unitSavedStats(unit) {
@@ -280,9 +373,9 @@
     rememberScore(item.id, pct, passed);
     MRJ_SCORES.post({
       student,
-      program: "day4-speak",
+      program: PROGRAM,
       appName: "MRJ Day 4 Speak",
-      source: "day4-speak",
+      source: PROGRAM,
       bookTitle: book ? book.label : "",
       itemId: item.id,
       itemType: "speaking",
@@ -593,11 +686,8 @@
     URL.revokeObjectURL(a.href);
   }
 
-  document.addEventListener("mrj-auth-ready", (ev) => {
-    const progress = ev.detail && ev.detail.progress;
-    if (!progress || !progress.length) return;
-    applyAuthProgress(progress);
-  });
+  document.addEventListener("mrj-auth-ready", onMrjAuthReady);
+  window.Day4SpeakBuild = BUILD;
 
   init().catch((e) => {
     console.error(e);
