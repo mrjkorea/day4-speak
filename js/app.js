@@ -1,6 +1,6 @@
 /* Day 4 Speak — MRJ all 9 books · Coach Ray / Miss Harper model audio */
 (function () {
-  const BUILD = "20261007-progress-1";
+  const BUILD = "20261011-savefix";
   const PROGRAM = "day4-speak";
   const PASS = Day4Progress.PASS;
   const LEGACY_RECORDS_KEY = "mrj_day4_speak_records_v1";
@@ -368,8 +368,20 @@
     if (!student) return;
     const pct = Math.round(Number(score));
     if (!Number.isFinite(pct)) return;
-    if (pct === 0 && !String(transcript || "").trim()) return;
     const book = books[state.bookId];
+    if (pct === 0 && !String(transcript || "").trim()) {
+      MRJ_SCORES.post({
+        student,
+        program: PROGRAM,
+        appName: "MRJ Day 4 Speak",
+        source: PROGRAM,
+        bookTitle: book ? book.label : "",
+        itemId: item.id,
+        itemType: "attempt_error",
+        metadata: { reason: "no_speech" },
+      });
+      return;
+    }
     rememberScore(item.id, pct, passed);
     MRJ_SCORES.post({
       student,
