@@ -4,7 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>Day 4 Speak · MRJ</title>
-  <link rel="stylesheet" href="css/app.css?v=20261013-receiver" />
+  <meta name="mrj-build" content="20261013-citrinet" />
+  <link rel="stylesheet" href="css/app.css?v=20261013-citrinet" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎤</text></svg>" />
 </head>
 <body>
@@ -12,11 +13,14 @@
     <header class="top">
       <button type="button" id="btnHome" class="ghost" hidden>← Home</button>
       <h1 id="title">Day 4 Speak</h1>
+      <span id="unitTimer" class="badge timer-badge" hidden></span>
       <span id="scoreBadge" class="badge" hidden></span>
     </header>
+    <p id="checkerLabel" class="checker-label">Loading offline pronunciation checker…</p>
+    <div id="checkerTrack" class="checker-track" aria-hidden="true"><div id="checkerFill"></div></div>
 
     <main id="viewHome" class="view">
-      <p class="lead">한국어를 탭 → 영어를 듣고 → 따라 말해요! 🎤<br/><small>Pass ≥ 80% · Basic A–C · Int 2A–3C</small></p>
+      <p class="lead">한국어를 탭 → 영어를 듣고 → 따라 말해요! 🎤<br/><small>Pass ≥ 60 · offline Citrinet · Basic A–C · Int 2A–3C</small></p>
 
       <section class="voice-box" aria-label="Choose a voice">
         <h2 class="voice-title">🎧 누구 목소리로 들을까요? <span>Pick a voice</span></h2>
@@ -99,9 +103,9 @@
   <link rel="stylesheet" href="https://mrjkorea.github.io/mrj-signin/mrj-auth.css">
   <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth.js"></script>
   <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth-boot.js" data-mrj-app="day4-speak"></script>
-  <script src="mrj-scores.js?v=20261013-receiver"></script>
-  <script src="js/score.js?v=20261013-receiver"></script>
-  <script src="js/progress.js?v=20261013-receiver"></script>
-  <script src="js/app.js?v=20261013-receiver"></script>
+  <script src="https://mrjkorea.github.io/pronounce-try/vendor/ort/ort.wasm.min.js"></script>
+  <script src="mrj-scores.js?v=20261013-citrinet"></script>
+  <script src="js/progress.js?v=20261013-citrinet"></script>
+  <script type="module" src="js/app.js?v=20261013-citrinet"></script>
 </body>
 </html>

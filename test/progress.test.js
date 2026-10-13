@@ -58,9 +58,9 @@ describe("Day4Progress.applyRows", () => {
   it("rememberScore keeps passed when a later row is weaker", () => {
     const scores = {};
     rememberScore(scores, "u1", 95, true);
-    rememberScore(scores, "u1", 60, false);
+    rememberScore(scores, "u1", 50, false);
     assert.equal(scores.u1.score, 95);
     assert.equal(scores.u1.passed, true);
-    assert.equal(PASS, 80);
+    assert.equal(PASS, 60);
   });
 });

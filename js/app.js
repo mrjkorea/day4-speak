@@ -1,8 +1,29 @@
-/* Day 4 Speak — MRJ all 9 books · Coach Ray / Miss Harper model audio */
-(function () {
-  const BUILD = "20261013-receiver";
+/* Day 4 Speak — MRJ all 9 books · Coach Ray / Miss Harper · Citrinet checker */
+import {
+  bootChecker,
+  gradeTrialSamples,
+  DOOR_CHECKING_TEXT,
+  DOOR_FAIL_TEXT,
+} from "./checker/boot.js";
+import { decodeAudioToMono } from "./checker/audio.js";
+import { tokenizeWords } from "./checker/tokenize.js";
+import {
+  beginMicTake,
+  cancelMicTake,
+  isCapturing,
+} from "./mic-capture.js";
+import {
+  startUnitTimer,
+  unitTimerRunning,
+  secondsLeft,
+  stopUnitTimer,
+  canStartMic,
+} from "./flow-speak.js";
+
+const BUILD = "20261013-citrinet";
+  const CITRINET_PASS = 60;
   const PROGRAM = "day4-speak";
-  const PASS = Day4Progress.PASS;
+  const PASS = CITRINET_PASS;
   const LEGACY_RECORDS_KEY = "mrj_day4_speak_records_v1";
   const RECORDS_KEY_PREFIX = "mrj_day4_speak_records_v1:";
   const VOICE_KEY = "mrj_day4_speak_voice_v1";
@@ -67,8 +88,12 @@
     passedCurrent: false,
   };
   let audio = new Audio();
-  let recognition = null;
-  let listening = false;
+  let checkerReady = false;
+  let checkerError = "";
+  let unitTimer = null;
+  let unitClock = null;
+  let gradingCount = 0;
+  let pronounceChecking = false;
   const savedScores = {};
   const progressNodes = [];
 
@@ -166,7 +191,125 @@
       .join("");
   }
 
+  function setCheckerProgress(frac, text) {
+    const label = el("checkerLabel");
+    const fill = el("checkerFill");
+    const track = el("checkerTrack");
+    if (!label) return;
+    label.textContent = text;
+    if (fill) fill.style.width = `${Math.round(Math.max(0, Math.min(1, frac)) * 100)}%`;
+    if (track && frac >= 1) track.classList.add("done");
+  }
+
+  function scoringTarget(english) {
+    const toks = tokenizeWords(english);
+    if (toks.length === 1) {
+      const w = toks[0].display;
+      return `${w} ${w} ${w}`;
+    }
+    return english;
+  }
+
+  async function gradeItemBlob(blob, item) {
+    const samples = await decodeAudioToMono(blob, 16000);
+    const candidates = [item.english].concat(item.alts || []);
+    let best = null;
+    let bestTarget = candidates[0];
+    for (const c of candidates) {
+      const target = scoringTarget(c);
+      const graded = await gradeTrialSamples(samples, target, CITRINET_PASS, null, {});
+      const result = graded.result;
+      if (!best || (result.scorePct || 0) > (best.scorePct || 0)) {
+        best = result;
+        bestTarget = c;
+      }
+    }
+    return { result: best, matched: bestTarget };
+  }
+
+  function benchModeEnabled() {
+    try {
+      if (new URLSearchParams(location.search).get("bench") === "1") return true;
+      const id = studentIdKey();
+      return String(id).toLowerCase().startsWith("zz_test");
+    } catch (_) {
+      return false;
+    }
+  }
+
+  function exposeBenchHook() {
+    if (!checkerReady || !benchModeEnabled()) return;
+    window.__mrjDay4SpeakBench = async (blob, english, gradeOpts) => {
+      const passAt = typeof gradeOpts?.passAt === "number" ? gradeOpts.passAt : CITRINET_PASS;
+      const samples = await decodeAudioToMono(blob, 16000);
+      const graded = await gradeTrialSamples(samples, scoringTarget(english), passAt, null, gradeOpts || {});
+      return { result: graded.result, door: graded.door, perf: graded.perf };
+    };
+    window.__mrjDay4SpeakBoot = () => ({ grader: "citrinet", ready: checkerReady });
+  }
+
+  async function bootCheckerModel() {
+    try {
+      setCheckerProgress(0.05, "Loading offline pronunciation checker…");
+      await bootChecker();
+      checkerReady = true;
+      setCheckerProgress(1, "Offline checker ready");
+      exposeBenchHook();
+    } catch (err) {
+      checkerError = err && err.message ? err.message : String(err);
+      setCheckerProgress(0, "Checker did not load. " + checkerError);
+      console.error(err);
+    }
+  }
+
+  function stopUnitClock() {
+    if (unitClock) {
+      clearInterval(unitClock);
+      unitClock = null;
+    }
+  }
+
+  function startUnitClock() {
+    stopUnitClock();
+    const badge = el("unitTimer");
+    if (!badge || !unitTimer) return;
+    unitClock = setInterval(() => {
+      if (!unitTimerRunning(unitTimer)) {
+        badge.textContent = "0:00";
+        stopUnitClock();
+        if (views.speak && !views.speak.hidden) finishUnit();
+        return;
+      }
+      const sec = secondsLeft(unitTimer);
+      const m = Math.floor(sec / 60);
+      const s = String(sec % 60).padStart(2, "0");
+      badge.textContent = `${m}:${s}`;
+      syncMicButton();
+    }, 250);
+  }
+
+  function syncMicButton() {
+    const btn = el("btnMic");
+    if (!btn) return;
+    const capturing = isCapturing();
+    const allowed = canStartMic({
+      recording: capturing,
+      timerRunning: unitTimer ? unitTimerRunning(unitTimer) : true,
+      checkerReady,
+      heardCue: state.heard,
+    });
+    btn.disabled = !allowed && !capturing;
+    if (capturing) {
+      btn.classList.add("listening");
+      btn.textContent = "⏹ Stop";
+    } else {
+      btn.classList.remove("listening");
+      btn.textContent = "🎤 Speak";
+    }
+  }
+
   async function init() {
+    void bootCheckerModel();
     manifest = await fetch("content/manifest.json").then((r) => r.json());
     const list = el("bookList");
     list.innerHTML = "";
@@ -218,6 +361,8 @@
       show("home");
       el("title").textContent = "Day 4 Speak";
       el("scoreBadge").hidden = true;
+      el("unitTimer").hidden = true;
+      stopUnitClock();
     };
     el("btnExport").onclick = exportJson;
     el("btnCue").onclick = playAudio;
@@ -311,6 +456,7 @@
     const studentId =
       detail.id != null ? String(detail.id).trim() : studentIdKey();
     if (studentId) bindStudentRecords(studentId);
+    exposeBenchHook();
 
     const rows = Array.isArray(detail.progress) ? detail.progress : [];
     if (rows.length) applyAuthProgress(rows);
@@ -423,6 +569,9 @@
   function startUnit(bookId, unitId, opts) {
     const book = books[bookId];
     const unit = book.units.find((u) => u.id === unitId);
+    stopUnitClock();
+    cancelMicTake();
+    unitTimer = startUnitTimer();
     state = {
       bookId,
       unit,
@@ -434,6 +583,7 @@
     };
     el("title").textContent = `${book.label} · ${unit.title}`;
     el("scoreBadge").hidden = false;
+    el("unitTimer").hidden = false;
     absorbPassed();
     const passedCount = state.results.filter((r) => r.passed).length;
     el("scoreBadge").textContent = `${passedCount}/${unit.items.length}`;
@@ -442,6 +592,7 @@
       return;
     }
     show("speak");
+    startUnitClock();
     renderItem();
   }
 
@@ -477,10 +628,11 @@
       saved && !saved.passed
         ? `지난 점수 ${saved.score}% · 먼저 한국어를 탭해서 영어를 들어요`
         : "먼저 한국어를 탭해서 영어를 들어요";
-    el("btnMic").disabled = false;
     state.heard = false;
     state.passedCurrent = false;
+    pronounceChecking = false;
     audio.pause();
+    syncMicButton();
   }
 
   function playAudio() {
@@ -523,92 +675,113 @@
     el("micStatus").textContent = "이제 🎤 Speak 버튼을 누르고 따라 말해요";
   }
 
-  function getRecognition() {
-    const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
-    if (!SR) return null;
-    const r = new SR();
-    r.lang = "en-US";
-    r.interimResults = false;
-    r.maxAlternatives = 3;
-    r.continuous = false;
-    return r;
-  }
-
   function stopMic() {
-    listening = false;
-    el("btnMic").classList.remove("listening");
-    el("btnMic").textContent = "🎤 Speak";
-    try {
-      if (recognition) recognition.abort();
-    } catch (_) {}
+    cancelMicTake();
+    syncMicButton();
   }
 
-  function toggleMic() {
-    if (listening) {
+  async function toggleMic() {
+    if (isCapturing()) {
       stopMic();
       return;
     }
-    recognition = getRecognition();
-    if (!recognition) {
-      el("micStatus").textContent =
-        "이 브라우저는 음성 인식을 지원하지 않아요 (Chrome 권장).";
+    if (!checkerReady) {
+      el("micStatus").textContent = checkerError
+        ? "Checker offline — refresh the page."
+        : "Checker loading… wait a moment.";
       return;
     }
-    listening = true;
-    el("btnMic").classList.add("listening");
-    el("btnMic").textContent = "⏹ Stop";
-    el("micStatus").textContent = "듣고 있어요… 영어로 말하세요!";
-    recognition.onresult = (ev) => {
-      let transcript = "";
-      for (let i = 0; i < ev.results.length; i++) {
-        transcript += ev.results[i][0].transcript + " ";
+    if (
+      !canStartMic({
+        recording: false,
+        timerRunning: unitTimer ? unitTimerRunning(unitTimer) : true,
+        checkerReady,
+        heardCue: state.heard,
+      })
+    ) {
+      if (!state.heard) {
+        el("micStatus").textContent = "먼저 한국어를 탭해서 영어를 들어요";
+      } else if (unitTimer && !unitTimerRunning(unitTimer)) {
+        el("micStatus").textContent = "Time is up for this unit.";
       }
-      transcript = transcript.trim();
-      finishAttempt(transcript);
-    };
-    recognition.onerror = (ev) => {
-      stopMic();
-      el("micStatus").textContent = "인식 실패: " + (ev.error || "unknown") + " — 다시 시도!";
-    };
-    recognition.onend = () => {
-      if (listening) stopMic();
-    };
+      return;
+    }
+    const itemIndex = state.index;
+    const item = currentItem();
+    el("micStatus").textContent = "듣고 있어요… 영어로 말하세요!";
+    syncMicButton();
     try {
-      recognition.start();
-    } catch (e) {
-      stopMic();
-      el("micStatus").textContent = "마이크를 시작할 수 없어요.";
+      const started = await beginMicTake(async (blob) => {
+        syncMicButton();
+        if (!blob || state.index !== itemIndex) return;
+        gradingCount += 1;
+        pronounceChecking = true;
+        el("micStatus").textContent = DOOR_CHECKING_TEXT;
+        syncMicButton();
+        try {
+          const { result, matched } = await gradeItemBlob(blob, item);
+          if (state.index === itemIndex) {
+            finishGradeResult(item, result, matched, itemIndex);
+          }
+        } catch (err) {
+          console.error(err);
+          if (state.index === itemIndex) {
+            el("micStatus").textContent = "Checking failed — try again.";
+          }
+        } finally {
+          gradingCount -= 1;
+          pronounceChecking = gradingCount > 0;
+          syncMicButton();
+        }
+      });
+      if (!started) syncMicButton();
+    } catch (err) {
+      console.error(err);
+      el("micStatus").textContent = "마이크를 허용해 주세요.";
+      syncMicButton();
     }
   }
 
-  function finishAttempt(transcript) {
-    stopMic();
-    const item = currentItem();
-    const { score, matched, pass } = Day4Score.bestScore(
-      transcript,
-      item.english,
-      item.alts || []
-    );
+  function finishGradeResult(item, result, matched, itemIndex) {
+    if (state.index !== itemIndex) return;
+    const doorFail = result && result.doorFail;
+    const score = result ? result.scorePct || Math.round((result.score || 0) * 100) : 0;
+    const pass = !!(result && result.pass);
     const box = el("resultBox");
     box.hidden = false;
     box.className = "result " + (pass ? "pass" : "fail");
-    el("resultScore").textContent = (pass ? "✅ " : "😅 ") + score + "%";
-    el("resultDetail").textContent = `You said: “${transcript}” · Target: “${matched}”`;
+    if (doorFail) {
+      el("resultScore").textContent = "🔁 Try again";
+      el("resultDetail").textContent = DOOR_FAIL_TEXT;
+    } else {
+      el("resultScore").textContent = (pass ? "✅ " : "😅 ") + score + "%";
+      const weak = (result.words || [])
+        .filter((w) => (w.score || 0) < CITRINET_PASS)
+        .map((w) => w.word)
+        .join(", ");
+      el("resultDetail").textContent = weak
+        ? `Target: “${matched}” · practice: ${weak}`
+        : `Target: “${matched}”`;
+    }
     el("englishReveal").hidden = false;
     el("micStatus").textContent = pass
       ? "통과! Next를 누르세요"
-      : "80% 미만 — 다시 Hear → Speak 해보세요";
+      : doorFail
+        ? DOOR_FAIL_TEXT
+        : `${CITRINET_PASS}% 미만 — 다시 Hear → Speak 해보세요`;
     if (pass) {
       state.passedCurrent = true;
       el("btnNext").hidden = false;
       el("btnSkip").hidden = true;
-      recordResult(true, score, transcript);
+      recordResult(true, score, matched);
       const idxAtPass = state.index;
       setTimeout(() => {
         if (state.passedCurrent && state.index === idxAtPass) nextItem(true);
       }, 900);
+    } else if (!doorFail) {
+      postFinishedScore(item, score, false, matched);
     } else {
-      postFinishedScore(item, score, false, transcript);
+      postFinishedScore(item, 0, false, "");
     }
   }
 
@@ -647,6 +820,9 @@
   }
 
   function finishUnit() {
+    stopUnitClock();
+    cancelMicTake();
+    if (unitTimer) unitTimer = stopUnitTimer(unitTimer);
     // pad skips if needed
     while (state.results.length < state.unit.items.length) {
       const i = state.results.length;
@@ -705,4 +881,3 @@
     console.error(e);
     el("bookList").textContent = "콘텐츠를 불러오지 못했어요: " + e.message;
   });
-})();
