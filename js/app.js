@@ -1,6 +1,6 @@
 /* Day 4 Speak — MRJ all 9 books · Coach Ray / Miss Harper model audio */
 (function () {
-  const BUILD = "20261011-savefix";
+  const BUILD = "20261013-receiver";
   const PROGRAM = "day4-speak";
   const PASS = Day4Progress.PASS;
   const LEGACY_RECORDS_KEY = "mrj_day4_speak_records_v1";
