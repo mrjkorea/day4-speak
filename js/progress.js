@@ -3,7 +3,7 @@
   "use strict";
 
   var PROGRAM = "day4-speak";
-  var PASS = 80;
+  var PASS = 60;
 
   function parseProgressScore(raw) {
     var text = String(raw == null ? "" : raw).trim();

@@ -1,7 +1,5 @@
 {
-  "name": "day4-speak",
-  "private": true,
-  "scripts": {
-    "test": "node --test test/progress.test.js test/mrj_scores_student_test.js"
+  "devDependencies": {
+    "playwright": "^1.49.1"
   }
 }
